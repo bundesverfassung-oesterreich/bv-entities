@@ -1,0 +1,52 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Datenset A",
+    "bv_id": "bv_data_set_id__1",
+    "has_description": "Gesetzesentwürfe",
+    "document": [
+      {
+        "id": 1,
+        "value": "Kelsen Entwurf I"
+      },
+      {
+        "id": 2,
+        "value": "Kelsen Entwurf II"
+      },
+      {
+        "id": 3,
+        "value": "Kelsen Entwurf III"
+      },
+      {
+        "id": 4,
+        "value": "Kelsen Entwurf IV"
+      },
+      {
+        "id": 5,
+        "value": "Kelsen Entwurf V"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Datenset B",
+    "bv_id": "bv_data_set_id__2",
+    "has_description": "Protokolle",
+    "document": [
+      {
+        "id": 6,
+        "value": "Kelsen Entwurf VI"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "",
+    "bv_id": "bv_data_set_id__3",
+    "has_description": "",
+    "document": []
+  }
+}

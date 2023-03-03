@@ -17,8 +17,21 @@
       {
         "id": 3,
         "value": "Kelsen Entwurf III"
+      },
+      {
+        "id": 4,
+        "value": "Kelsen Entwurf IV"
+      },
+      {
+        "id": 5,
+        "value": "Kelsen Entwurf V"
+      },
+      {
+        "id": 6,
+        "value": "Kelsen Entwurf VI"
       }
-    ]
+    ],
+    "document - has_digitizing_agent": []
   },
   "2": {
     "id": 2,
@@ -26,6 +39,32 @@
     "name": "Lein, Richard",
     "bv_id": "bv_person_id__2",
     "gnd": "https://d-nb.info/gnd/131679384",
-    "document": []
+    "document": [],
+    "document - has_digitizing_agent": [
+      {
+        "id": 1,
+        "value": "Kelsen Entwurf I"
+      },
+      {
+        "id": 2,
+        "value": "Kelsen Entwurf II"
+      },
+      {
+        "id": 3,
+        "value": "Kelsen Entwurf III"
+      },
+      {
+        "id": 4,
+        "value": "Kelsen Entwurf IV"
+      },
+      {
+        "id": 5,
+        "value": "Kelsen Entwurf V"
+      },
+      {
+        "id": 6,
+        "value": "Kelsen Entwurf VI"
+      }
+    ]
   }
 }

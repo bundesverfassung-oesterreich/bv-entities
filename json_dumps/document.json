@@ -5,8 +5,8 @@
     "doc_title": "Kelsen Entwurf I",
     "bv_id": "bv_doc_id__1",
     "written_date": "1922",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "1922-01-01",
+    "not_after": "1922-12-31",
     "type_of_manifestation": {
       "id": 9963,
       "value": "Typoskript",
@@ -26,8 +26,20 @@
     ],
     "shelfmark": null,
     "goobi_id": null,
-    "transkribus_col_id": null,
-    "transkribus_doc_id": null
+    "transkribus_col_id": "188933",
+    "transkribus_doc_id": "1344658",
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -35,8 +47,8 @@
     "doc_title": "Kelsen Entwurf II",
     "bv_id": "bv_doc_id__2",
     "written_date": "1922",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "1922-01-01",
+    "not_after": "1922-12-31",
     "type_of_manifestation": {
       "id": 9963,
       "value": "Typoskript",
@@ -56,8 +68,20 @@
     ],
     "shelfmark": null,
     "goobi_id": null,
-    "transkribus_col_id": null,
-    "transkribus_doc_id": null
+    "transkribus_col_id": "188933",
+    "transkribus_doc_id": "1344662",
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -65,8 +89,8 @@
     "doc_title": "Kelsen Entwurf III",
     "bv_id": "bv_doc_id__3",
     "written_date": "1923",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "1923-01-01",
+    "not_after": "1923-12-31",
     "type_of_manifestation": {
       "id": 9962,
       "value": "Manuskript",
@@ -86,7 +110,145 @@
     ],
     "shelfmark": null,
     "goobi_id": null,
-    "transkribus_col_id": null,
-    "transkribus_doc_id": null
+    "transkribus_col_id": "188933",
+    "transkribus_doc_id": "1344669",
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "doc_title": "Kelsen Entwurf IV",
+    "bv_id": "bv_doc_id__4",
+    "written_date": "1923",
+    "not_before": "1923-01-01",
+    "not_after": "1923-12-31",
+    "type_of_manifestation": {
+      "id": 9962,
+      "value": "Manuskript",
+      "color": "blue"
+    },
+    "type_of_document": {
+      "id": 9966,
+      "value": "Gesetzesentwurf",
+      "color": "orange"
+    },
+    "has_description": "",
+    "has_author": [
+      {
+        "id": 1,
+        "value": "Kelsen, Hans"
+      }
+    ],
+    "shelfmark": "",
+    "goobi_id": "",
+    "transkribus_col_id": "188933",
+    "transkribus_doc_id": "1344674",
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "doc_title": "Kelsen Entwurf V",
+    "bv_id": "bv_doc_id__5",
+    "written_date": "1923",
+    "not_before": "1923-01-01",
+    "not_after": "1923-12-31",
+    "type_of_manifestation": {
+      "id": 9962,
+      "value": "Manuskript",
+      "color": "blue"
+    },
+    "type_of_document": {
+      "id": 9966,
+      "value": "Gesetzesentwurf",
+      "color": "orange"
+    },
+    "has_description": "",
+    "has_author": [
+      {
+        "id": 1,
+        "value": "Kelsen, Hans"
+      }
+    ],
+    "shelfmark": "",
+    "goobi_id": "",
+    "transkribus_col_id": "188933",
+    "transkribus_doc_id": "1344734",
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "doc_title": "Kelsen Entwurf VI",
+    "bv_id": "bv_doc_id__6",
+    "written_date": "1923",
+    "not_before": "1923-01-01",
+    "not_after": "1923-12-31",
+    "type_of_manifestation": {
+      "id": 9962,
+      "value": "Manuskript",
+      "color": "blue"
+    },
+    "type_of_document": {
+      "id": 9967,
+      "value": "Protokoll",
+      "color": "blue"
+    },
+    "has_description": "",
+    "has_author": [
+      {
+        "id": 1,
+        "value": "Kelsen, Hans"
+      }
+    ],
+    "shelfmark": "",
+    "goobi_id": "",
+    "transkribus_col_id": "188933",
+    "transkribus_doc_id": "1344741",
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
   }
 }
