@@ -66,5 +66,14 @@
         "value": "Kelsen Entwurf VI"
       }
     ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Olechowski, Thomas",
+    "bv_id": "bv_person_id__3",
+    "gnd": "https://d-nb.info/gnd/120789825",
+    "document": [],
+    "document - has_digitizing_agent": []
   }
 }
