@@ -31,7 +31,8 @@
         "value": "Kelsen Entwurf VI"
       }
     ],
-    "document - has_digitizing_agent": []
+    "document - has_digitizing_agent": [],
+    "project_data": []
   },
   "2": {
     "id": 2,
@@ -65,7 +66,8 @@
         "id": 6,
         "value": "Kelsen Entwurf VI"
       }
-    ]
+    ],
+    "project_data": []
   },
   "3": {
     "id": 3,
@@ -74,6 +76,12 @@
     "bv_id": "bv_person_id__3",
     "gnd": "https://d-nb.info/gnd/120789825",
     "document": [],
-    "document - has_digitizing_agent": []
+    "document - has_digitizing_agent": [],
+    "project_data": [
+      {
+        "id": 1,
+        "value": "Die Entstehung des Bundes\\u2010Verfassungsgesetzes 1920"
+      }
+    ]
   }
 }
