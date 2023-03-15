@@ -32,7 +32,8 @@
       }
     ],
     "document - has_digitizing_agent": [],
-    "project_data": []
+    "project_data": [],
+    "person_type": []
   },
   "2": {
     "id": 2,
@@ -67,7 +68,8 @@
         "value": "Kelsen Entwurf VI"
       }
     ],
-    "project_data": []
+    "project_data": [],
+    "person_type": []
   },
   "3": {
     "id": 3,
@@ -81,6 +83,40 @@
       {
         "id": 1,
         "value": "Die Entstehung des Bundes-Verfassungsgesetzes 1920"
+      }
+    ],
+    "person_type": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Falser, Stephan",
+    "bv_id": "bv_person_id__4",
+    "gnd": "",
+    "document": [
+      {
+        "id": 7,
+        "value": "Falser II"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Verfassungsausschuss",
+    "bv_id": "bv_person_id__5",
+    "gnd": "",
+    "document": [],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": [
+      {
+        "id": 9976,
+        "value": "Gruppe",
+        "color": "light-gray"
       }
     ]
   }

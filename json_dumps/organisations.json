@@ -1,0 +1,22 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Österreichischen Staatsarchiv",
+    "bv_id": "bv_organisation_id__1",
+    "gnd": "https://d-nb.info/gnd/37748-X",
+    "organisation_type": {
+      "id": 9977,
+      "value": "Archiv",
+      "color": "gray"
+    }
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "",
+    "bv_id": "bv_organisation_id__2",
+    "gnd": "",
+    "organisation_type": null
+  }
+}

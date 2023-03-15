@@ -1,0 +1,16 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Verfassungsentwurf",
+    "has_description": "ein kurze erklärung",
+    "bv_id": "bv_doctype_id__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "",
+    "has_description": "",
+    "bv_id": "bv_doctype_id__2"
+  }
+}

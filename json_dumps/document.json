@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "doc_title": "Kelsen Entwurf I",
     "bv_id": "bv_doc_id__1",
-    "written_date": "1922",
+    "written_date": "irgendwann im Frühling 1919",
     "not_before": "1922-01-01",
     "not_after": "1922-12-31",
     "type_of_manifestation": {
@@ -12,11 +12,7 @@
       "value": "Typoskript",
       "color": "red"
     },
-    "type_of_document": {
-      "id": 9966,
-      "value": "Gesetzesentwurf",
-      "color": "orange"
-    },
+    "type_of_document": [],
     "has_description": null,
     "has_author": [
       {
@@ -54,11 +50,7 @@
       "value": "Typoskript",
       "color": "red"
     },
-    "type_of_document": {
-      "id": 9966,
-      "value": "Gesetzesentwurf",
-      "color": "orange"
-    },
+    "type_of_document": [],
     "has_description": null,
     "has_author": [
       {
@@ -67,7 +59,7 @@
       }
     ],
     "shelfmark": null,
-    "goobi_id": "kelsen-entwurf-2",
+    "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344662",
     "has_digitizing_agent": [
@@ -96,11 +88,7 @@
       "value": "Manuskript",
       "color": "blue"
     },
-    "type_of_document": {
-      "id": 9966,
-      "value": "Gesetzesentwurf",
-      "color": "orange"
-    },
+    "type_of_document": [],
     "has_description": null,
     "has_author": [
       {
@@ -109,7 +97,7 @@
       }
     ],
     "shelfmark": null,
-    "goobi_id": "kelsen-entwurf-3",
+    "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344669",
     "has_digitizing_agent": [
@@ -138,11 +126,7 @@
       "value": "Manuskript",
       "color": "blue"
     },
-    "type_of_document": {
-      "id": 9966,
-      "value": "Gesetzesentwurf",
-      "color": "orange"
-    },
+    "type_of_document": [],
     "has_description": "",
     "has_author": [
       {
@@ -151,7 +135,7 @@
       }
     ],
     "shelfmark": "",
-    "goobi_id": "kelsen-entwurf-4",
+    "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344674",
     "has_digitizing_agent": [
@@ -180,11 +164,7 @@
       "value": "Manuskript",
       "color": "blue"
     },
-    "type_of_document": {
-      "id": 9966,
-      "value": "Gesetzesentwurf",
-      "color": "orange"
-    },
+    "type_of_document": [],
     "has_description": "",
     "has_author": [
       {
@@ -222,11 +202,7 @@
       "value": "Manuskript",
       "color": "blue"
     },
-    "type_of_document": {
-      "id": 9967,
-      "value": "Protokoll",
-      "color": "blue"
-    },
+    "type_of_document": [],
     "has_description": "",
     "has_author": [
       {
@@ -250,5 +226,52 @@
         "value": "Datenset B"
       }
     ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "doc_title": "Falser II",
+    "bv_id": "bv_doc_id__7",
+    "written_date": "18. Dezember 1919",
+    "not_before": "1919-12-18",
+    "not_after": "1919-12-18",
+    "type_of_manifestation": {
+      "id": 9965,
+      "value": "Lithographie",
+      "color": "light-green"
+    },
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [
+      {
+        "id": 4,
+        "value": "Falser, Stephan"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 3.",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [],
+    "data_set": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "doc_title": "Falser I",
+    "bv_id": "bv_doc_id__8",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": null,
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "",
+    "goobi_id": "14240",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [],
+    "data_set": []
   }
 }
