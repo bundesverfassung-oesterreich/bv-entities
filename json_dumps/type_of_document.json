@@ -3,14 +3,14 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "name": "Verfassungsentwurf",
-    "has_description": "ein kurze erklärung",
+    "has_description": "Verschiedene Entwürfe des Verfassungstextes mit unterschiedlichen Autoren bzw. unterschiedlichen Bearbeitern",
     "bv_id": "bv_doctype_id__1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "",
-    "has_description": "",
+    "name": "Verfassungstext",
+    "has_description": "Text der Bundesverfassung vom 1. Oktober 1920, wie er von der Konstituierenden Nationalversammlung beschlossen wurde",
     "bv_id": "bv_doctype_id__2"
   }
 }

@@ -5,7 +5,96 @@
     "name": "Manuskript",
     "has_description": "",
     "bv_id": "bv_manifestation_type_id__1",
+    "document": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Typoskript",
+    "has_description": "",
+    "bv_id": "bv_manifestation_type_id__2",
+    "document": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Druck",
+    "has_description": "",
+    "bv_id": "bv_manifestation_type_id__3",
     "document": [
+      {
+        "id": 9,
+        "value": "Mayr II"
+      },
+      {
+        "id": 10,
+        "value": "Rehrl"
+      },
+      {
+        "id": 11,
+        "value": "B-VG Sonderdruck"
+      },
+      {
+        "id": 12,
+        "value": "VfA Entwurf KNV Beilage"
+      },
+      {
+        "id": 14,
+        "value": "CS II KNV Beilage"
+      },
+      {
+        "id": 15,
+        "value": "Abram KNV Beilagen"
+      },
+      {
+        "id": 16,
+        "value": "Danneberg"
+      },
+      {
+        "id": 18,
+        "value": "Evidenzexemplar handschriftlich"
+      },
+      {
+        "id": 19,
+        "value": "Großdeutsch Sonderdruck"
+      },
+      {
+        "id": 20,
+        "value": "Renner-Mayr"
+      },
+      {
+        "id": 21,
+        "value": "UA 15.September 1920"
+      },
+      {
+        "id": 22,
+        "value": "UA 23. September 1920"
+      },
+      {
+        "id": 23,
+        "value": "UA 23. September 1920 Textvariante"
+      },
+      {
+        "id": 24,
+        "value": "UA 26. August 1920 Textvariante"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Lithographie",
+    "has_description": "",
+    "bv_id": "bv_manifestation_type_id__4",
+    "document": [
+      {
+        "id": 1,
+        "value": "Kelsen Entwurf I"
+      },
+      {
+        "id": 2,
+        "value": "Kelsen Entwurf II"
+      },
       {
         "id": 3,
         "value": "Kelsen Entwurf III"
@@ -21,44 +110,18 @@
       {
         "id": 6,
         "value": "Kelsen Entwurf VI"
-      }
-    ]
-  },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "name": "Typoskript",
-    "has_description": "",
-    "bv_id": "bv_manifestation_type_id__2",
-    "document": [
-      {
-        "id": 1,
-        "value": "Kelsen Entwurf I"
       },
-      {
-        "id": 2,
-        "value": "Kelsen Entwurf II"
-      }
-    ]
-  },
-  "3": {
-    "id": 3,
-    "order": "3.00000000000000000000",
-    "name": "Druck",
-    "has_description": "",
-    "bv_id": "bv_manifestation_type_id__3",
-    "document": []
-  },
-  "4": {
-    "id": 4,
-    "order": "4.00000000000000000000",
-    "name": "Lithographie",
-    "has_description": "",
-    "bv_id": "bv_manifestation_type_id__4",
-    "document": [
       {
         "id": 7,
         "value": "Falser II"
+      },
+      {
+        "id": 8,
+        "value": "Falser I"
+      },
+      {
+        "id": 13,
+        "value": "unidentifizierter Entwurf nach Linz"
       }
     ]
   }

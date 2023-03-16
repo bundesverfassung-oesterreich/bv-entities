@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "name": "Datenset A",
     "bv_id": "bv_data_set_id__1",
-    "has_description": "Gesetzesentwürfe",
+    "has_description": "Verfassungsentwürfe und Verfassungstext",
     "document": [
       {
         "id": 1,
@@ -25,6 +25,78 @@
       {
         "id": 5,
         "value": "Kelsen Entwurf V"
+      },
+      {
+        "id": 6,
+        "value": "Kelsen Entwurf VI"
+      },
+      {
+        "id": 7,
+        "value": "Falser II"
+      },
+      {
+        "id": 8,
+        "value": "Falser I"
+      },
+      {
+        "id": 9,
+        "value": "Mayr II"
+      },
+      {
+        "id": 10,
+        "value": "Rehrl"
+      },
+      {
+        "id": 11,
+        "value": "B-VG Sonderdruck"
+      },
+      {
+        "id": 12,
+        "value": "VfA Entwurf KNV Beilage"
+      },
+      {
+        "id": 13,
+        "value": "unidentifizierter Entwurf nach Linz"
+      },
+      {
+        "id": 14,
+        "value": "CS II KNV Beilage"
+      },
+      {
+        "id": 15,
+        "value": "Abram KNV Beilagen"
+      },
+      {
+        "id": 16,
+        "value": "Danneberg"
+      },
+      {
+        "id": 18,
+        "value": "Evidenzexemplar handschriftlich"
+      },
+      {
+        "id": 19,
+        "value": "Großdeutsch Sonderdruck"
+      },
+      {
+        "id": 20,
+        "value": "Renner-Mayr"
+      },
+      {
+        "id": 21,
+        "value": "UA 15.September 1920"
+      },
+      {
+        "id": 22,
+        "value": "UA 23. September 1920"
+      },
+      {
+        "id": 23,
+        "value": "UA 23. September 1920 Textvariante"
+      },
+      {
+        "id": 24,
+        "value": "UA 26. August 1920 Textvariante"
       }
     ]
   },
@@ -34,12 +106,7 @@
     "name": "Datenset B",
     "bv_id": "bv_data_set_id__2",
     "has_description": "Protokolle",
-    "document": [
-      {
-        "id": 6,
-        "value": "Kelsen Entwurf VI"
-      }
-    ]
+    "document": []
   },
   "3": {
     "id": 3,

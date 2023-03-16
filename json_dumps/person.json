@@ -66,6 +66,74 @@
       {
         "id": 6,
         "value": "Kelsen Entwurf VI"
+      },
+      {
+        "id": 7,
+        "value": "Falser II"
+      },
+      {
+        "id": 8,
+        "value": "Falser I"
+      },
+      {
+        "id": 9,
+        "value": "Mayr II"
+      },
+      {
+        "id": 10,
+        "value": "Rehrl"
+      },
+      {
+        "id": 11,
+        "value": "B-VG Sonderdruck"
+      },
+      {
+        "id": 12,
+        "value": "VfA Entwurf KNV Beilage"
+      },
+      {
+        "id": 13,
+        "value": "unidentifizierter Entwurf nach Linz"
+      },
+      {
+        "id": 14,
+        "value": "CS II KNV Beilage"
+      },
+      {
+        "id": 15,
+        "value": "Abram KNV Beilagen"
+      },
+      {
+        "id": 16,
+        "value": "Danneberg"
+      },
+      {
+        "id": 18,
+        "value": "Evidenzexemplar handschriftlich"
+      },
+      {
+        "id": 19,
+        "value": "Großdeutsch Sonderdruck"
+      },
+      {
+        "id": 20,
+        "value": "Renner-Mayr"
+      },
+      {
+        "id": 21,
+        "value": "UA 15.September 1920"
+      },
+      {
+        "id": 22,
+        "value": "UA 23. September 1920"
+      },
+      {
+        "id": 23,
+        "value": "UA 23. September 1920 Textvariante"
+      },
+      {
+        "id": 24,
+        "value": "UA 26. August 1920 Textvariante"
       }
     ],
     "project_data": [],
@@ -92,11 +160,15 @@
     "order": "4.00000000000000000000",
     "name": "Falser, Stephan",
     "bv_id": "bv_person_id__4",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/126264198",
     "document": [
       {
         "id": 7,
         "value": "Falser II"
+      },
+      {
+        "id": 8,
+        "value": "Falser I"
       }
     ],
     "document - has_digitizing_agent": [],
@@ -109,7 +181,319 @@
     "name": "Verfassungsausschuss",
     "bv_id": "bv_person_id__5",
     "gnd": "",
+    "document": [
+      {
+        "id": 12,
+        "value": "VfA Entwurf KNV Beilage"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": [
+      {
+        "id": 9976,
+        "value": "Gruppe",
+        "color": "light-gray"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Gassner, Miriam",
+    "bv_id": "bv_person_id__6",
+    "gnd": "",
     "document": [],
+    "document - has_digitizing_agent": [
+      {
+        "id": 1,
+        "value": "Kelsen Entwurf I"
+      },
+      {
+        "id": 2,
+        "value": "Kelsen Entwurf II"
+      },
+      {
+        "id": 3,
+        "value": "Kelsen Entwurf III"
+      },
+      {
+        "id": 4,
+        "value": "Kelsen Entwurf IV"
+      },
+      {
+        "id": 5,
+        "value": "Kelsen Entwurf V"
+      },
+      {
+        "id": 6,
+        "value": "Kelsen Entwurf VI"
+      },
+      {
+        "id": 7,
+        "value": "Falser II"
+      },
+      {
+        "id": 8,
+        "value": "Falser I"
+      },
+      {
+        "id": 9,
+        "value": "Mayr II"
+      },
+      {
+        "id": 10,
+        "value": "Rehrl"
+      },
+      {
+        "id": 11,
+        "value": "B-VG Sonderdruck"
+      },
+      {
+        "id": 12,
+        "value": "VfA Entwurf KNV Beilage"
+      },
+      {
+        "id": 13,
+        "value": "unidentifizierter Entwurf nach Linz"
+      },
+      {
+        "id": 14,
+        "value": "CS II KNV Beilage"
+      },
+      {
+        "id": 15,
+        "value": "Abram KNV Beilagen"
+      },
+      {
+        "id": 16,
+        "value": "Danneberg"
+      },
+      {
+        "id": 18,
+        "value": "Evidenzexemplar handschriftlich"
+      },
+      {
+        "id": 19,
+        "value": "Großdeutsch Sonderdruck"
+      },
+      {
+        "id": 20,
+        "value": "Renner-Mayr"
+      },
+      {
+        "id": 21,
+        "value": "UA 15.September 1920"
+      },
+      {
+        "id": 22,
+        "value": "UA 23. September 1920"
+      },
+      {
+        "id": 23,
+        "value": "UA 23. September 1920 Textvariante"
+      },
+      {
+        "id": 24,
+        "value": "UA 26. August 1920 Textvariante"
+      }
+    ],
+    "project_data": [],
+    "person_type": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Mayr, Michael",
+    "bv_id": "bv_person_id__7",
+    "gnd": "https://d-nb.info/gnd/116973536",
+    "document": [
+      {
+        "id": 9,
+        "value": "Mayr II"
+      },
+      {
+        "id": 20,
+        "value": "Renner-Mayr"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Danneberg, Robert",
+    "bv_id": "bv_person_id__8",
+    "gnd": "https://d-nb.info/gnd/118523643",
+    "document": [
+      {
+        "id": 16,
+        "value": "Danneberg"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Rehrl, Franz",
+    "bv_id": "bv_person_id__9",
+    "gnd": "https://d-nb.info/gnd/12073978X",
+    "document": [
+      {
+        "id": 10,
+        "value": "Rehrl"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Konstituierende Nationalversammlung",
+    "bv_id": "bv_person_id__10",
+    "gnd": "",
+    "document": [
+      {
+        "id": 11,
+        "value": "B-VG Sonderdruck"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [
+      {
+        "id": 1,
+        "value": "Die Entstehung des Bundes-Verfassungsgesetzes 1920"
+      }
+    ],
+    "person_type": [
+      {
+        "id": 9976,
+        "value": "Gruppe",
+        "color": "light-gray"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Länderkonferenz",
+    "bv_id": "bv_person_id__11",
+    "gnd": "",
+    "document": [
+      {
+        "id": 13,
+        "value": "unidentifizierter Entwurf nach Linz"
+      },
+      {
+        "id": 18,
+        "value": "Evidenzexemplar handschriftlich"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": [
+      {
+        "id": 9976,
+        "value": "Gruppe",
+        "color": "light-gray"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Christlichsoziale Partei",
+    "bv_id": "bv_person_id__12",
+    "gnd": "",
+    "document": [
+      {
+        "id": 14,
+        "value": "CS II KNV Beilage"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Abram, Simon",
+    "bv_id": "bv_person_id__13",
+    "gnd": "https://d-nb.info/gnd/1073552101",
+    "document": [
+      {
+        "id": 15,
+        "value": "Abram KNV Beilagen"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Großdeutsche Volkspartei",
+    "bv_id": "bv_person_id__14",
+    "gnd": "",
+    "document": [
+      {
+        "id": 19,
+        "value": "Großdeutsch Sonderdruck"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Renner, Karl",
+    "bv_id": "bv_person_id__15",
+    "gnd": "https://d-nb.info/gnd/118599739",
+    "document": [
+      {
+        "id": 20,
+        "value": "Renner-Mayr"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Unterausschuss des Verfassungsausschusses",
+    "bv_id": "bv_person_id__16",
+    "gnd": "",
+    "document": [
+      {
+        "id": 21,
+        "value": "UA 15.September 1920"
+      },
+      {
+        "id": 22,
+        "value": "UA 23. September 1920"
+      },
+      {
+        "id": 23,
+        "value": "UA 23. September 1920 Textvariante"
+      },
+      {
+        "id": 24,
+        "value": "UA 26. August 1920 Textvariante"
+      }
+    ],
     "document - has_digitizing_agent": [],
     "project_data": [],
     "person_type": [

@@ -4,16 +4,21 @@
     "order": "1.00000000000000000000",
     "doc_title": "Kelsen Entwurf I",
     "bv_id": "bv_doc_id__1",
-    "written_date": "irgendwann im Frühling 1919",
-    "not_before": "1922-01-01",
-    "not_after": "1922-12-31",
+    "written_date": "Zwischen Mai und November 1919",
+    "not_before": "1919-05-01",
+    "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 2,
-        "value": "Typoskript"
+        "id": 4,
+        "value": "Lithographie"
       }
     ],
-    "type_of_document": [],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
     "has_description": null,
     "has_author": [
       {
@@ -21,7 +26,7 @@
         "value": "Kelsen, Hans"
       }
     ],
-    "shelfmark": null,
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": null,
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344658",
@@ -29,6 +34,10 @@
       {
         "id": 2,
         "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
       }
     ],
     "data_set": [
@@ -43,16 +52,21 @@
     "order": "2.00000000000000000000",
     "doc_title": "Kelsen Entwurf II",
     "bv_id": "bv_doc_id__2",
-    "written_date": "1922",
-    "not_before": "1922-01-01",
-    "not_after": "1922-12-31",
+    "written_date": "Zwischen Mai und November 1919",
+    "not_before": "1919-05-01",
+    "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 2,
-        "value": "Typoskript"
+        "id": 4,
+        "value": "Lithographie"
       }
     ],
-    "type_of_document": [],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
     "has_description": null,
     "has_author": [
       {
@@ -60,7 +74,7 @@
         "value": "Kelsen, Hans"
       }
     ],
-    "shelfmark": null,
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344662",
@@ -68,6 +82,10 @@
       {
         "id": 2,
         "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
       }
     ],
     "data_set": [
@@ -82,16 +100,21 @@
     "order": "3.00000000000000000000",
     "doc_title": "Kelsen Entwurf III",
     "bv_id": "bv_doc_id__3",
-    "written_date": "1923",
-    "not_before": "1923-01-01",
-    "not_after": "1923-12-31",
+    "written_date": "Zwischen Mai und November 1919",
+    "not_before": "1919-05-01",
+    "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 1,
-        "value": "Manuskript"
+        "id": 4,
+        "value": "Lithographie"
       }
     ],
-    "type_of_document": [],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
     "has_description": null,
     "has_author": [
       {
@@ -99,7 +122,7 @@
         "value": "Kelsen, Hans"
       }
     ],
-    "shelfmark": null,
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344669",
@@ -107,6 +130,10 @@
       {
         "id": 2,
         "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
       }
     ],
     "data_set": [
@@ -121,16 +148,21 @@
     "order": "4.00000000000000000000",
     "doc_title": "Kelsen Entwurf IV",
     "bv_id": "bv_doc_id__4",
-    "written_date": "1923",
-    "not_before": "1923-01-01",
-    "not_after": "1923-12-31",
+    "written_date": "Zwischen Mai und November 1919",
+    "not_before": "1919-05-01",
+    "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 1,
-        "value": "Manuskript"
+        "id": 4,
+        "value": "Lithographie"
       }
     ],
-    "type_of_document": [],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
     "has_description": "",
     "has_author": [
       {
@@ -138,7 +170,7 @@
         "value": "Kelsen, Hans"
       }
     ],
-    "shelfmark": "",
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344674",
@@ -146,6 +178,10 @@
       {
         "id": 2,
         "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
       }
     ],
     "data_set": [
@@ -160,16 +196,21 @@
     "order": "5.00000000000000000000",
     "doc_title": "Kelsen Entwurf V",
     "bv_id": "bv_doc_id__5",
-    "written_date": "1923",
-    "not_before": "1923-01-01",
-    "not_after": "1923-12-31",
+    "written_date": "Zwischen Mai und November 1919",
+    "not_before": "1919-05-01",
+    "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 1,
-        "value": "Manuskript"
+        "id": 4,
+        "value": "Lithographie"
       }
     ],
-    "type_of_document": [],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
     "has_description": "",
     "has_author": [
       {
@@ -177,7 +218,7 @@
         "value": "Kelsen, Hans"
       }
     ],
-    "shelfmark": "",
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344734",
@@ -185,6 +226,10 @@
       {
         "id": 2,
         "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
       }
     ],
     "data_set": [
@@ -199,16 +244,21 @@
     "order": "6.00000000000000000000",
     "doc_title": "Kelsen Entwurf VI",
     "bv_id": "bv_doc_id__6",
-    "written_date": "1923",
-    "not_before": "1923-01-01",
-    "not_after": "1923-12-31",
+    "written_date": "Zwischen Mai und November 1919",
+    "not_before": "1919-05-01",
+    "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 1,
-        "value": "Manuskript"
+        "id": 4,
+        "value": "Lithographie"
       }
     ],
-    "type_of_document": [],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
     "has_description": "",
     "has_author": [
       {
@@ -216,7 +266,7 @@
         "value": "Kelsen, Hans"
       }
     ],
-    "shelfmark": "",
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
     "transkribus_col_id": "188933",
     "transkribus_doc_id": "1344741",
@@ -224,12 +274,16 @@
       {
         "id": 2,
         "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
       }
     ],
     "data_set": [
       {
-        "id": 2,
-        "value": "Datenset B"
+        "id": 1,
+        "value": "Datenset A"
       }
     ]
   },
@@ -247,8 +301,13 @@
         "value": "Lithographie"
       }
     ],
-    "type_of_document": [],
-    "has_description": "",
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Falser II (Titel des Dokuments: \"Die Verfassung des Bundesstaates Republik Österreich\"), Zustand gut, wenige Ergänzungen (Hinweis auf fehlenden Artikel bzw. Fehler bei der Zählung)",
     "has_author": [
       {
         "id": 4,
@@ -259,26 +318,793 @@
     "goobi_id": "",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": []
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "doc_title": "Falser I",
     "bv_id": "bv_doc_id__8",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
+    "written_date": "7. Oktober 1919",
+    "not_before": "1919-10-07",
+    "not_after": "1919-10-07",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Falser I (Titel des Dokuments: \"Die Verfassung des Bundesstaates Österreich\"), Zustand gut, ohne Ergänzungen",
+    "has_author": [
+      {
+        "id": 4,
+        "value": "Falser, Stephan"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 3",
     "goobi_id": "14240",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": []
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "doc_title": "Mayr II",
+    "bv_id": "bv_doc_id__9",
+    "written_date": "Zwischen dem 18. Februar und dem 10. April 1920",
+    "not_before": "1920-02-18",
+    "not_after": "1920-04-10",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Mayr II (Titel des Dokuments: \"Vorentwurf einer Bundesverfassung, 2. Fassung\"), ZUstand sehr gut, keine Anmerkungen.",
+    "has_author": [
+      {
+        "id": 7,
+        "value": "Mayr, Michael"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 8b",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "doc_title": "Rehrl",
+    "bv_id": "bv_doc_id__10",
+    "written_date": "Im Dezember 1919",
+    "not_before": "1919-12-01",
+    "not_after": "1919-12-31",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Rehrl (Titel des Dokuments: \"Die Bundesverfassung Österreichs\"), Zustand: mäßig, zahlreiche Unterstreichungen, Anmerkungen in Steno",
+    "has_author": [
+      {
+        "id": 9,
+        "value": "Rehrl, Franz"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskenzlei, karton 250, Mappe3.",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "doc_title": "B-VG Sonderdruck",
+    "bv_id": "bv_doc_id__11",
+    "written_date": "1. Oktober 1920",
+    "not_before": "1920-10-01",
+    "not_after": "1920-10-01",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 2,
+        "value": "Verfassungstext"
+      }
+    ],
+    "has_description": "B-VG (Titel des Dokuments: Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz) Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 10,
+        "value": "Konstituierende Nationalversammlung"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 16",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "doc_title": "VfA Entwurf KNV Beilage",
+    "bv_id": "bv_doc_id__12",
+    "written_date": "26. September 1920",
+    "not_before": "1920-09-26",
+    "not_after": "1920-09-26",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "VfA Entwurf (Titel des Dokuments: Antrag des verfassungsausschusses) KNV Beilage 991, Zustand gut, wenige Anmerkungen",
+    "has_author": [
+      {
+        "id": 5,
+        "value": "Verfassungsausschuss"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 16",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "doc_title": "unidentifizierter Entwurf nach Linz",
+    "bv_id": "bv_doc_id__13",
+    "written_date": "Zwischen dem 23. April 1920 und 8. Juli 1920",
+    "not_before": "1920-04-23",
+    "not_after": "1920-07-07",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Nicht identifizierter, undatierter Entwurf, betitelt \"Linzer Entwurf neuer Text\". Gemeint dabei ist folgendes: in der linken Spalte Verweise auf die Dokumentstruktur von Mayr II (=Linzer Entwurf). Restlicher Text modifizierte Variante, unklar was genau??? Unbekannte Variante nach Evidenzexemplar??? Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E 1731 (Nachlass Renner) Mappe 38",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "doc_title": "CS II KNV Beilage",
+    "bv_id": "bv_doc_id__14",
+    "written_date": "25. Juni 1920",
+    "not_before": "1920-06-25",
+    "not_after": "1929-06-25",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "CS II (Titel des Dokuments: \"Antrag der Abgeordneten Dr. Mayr und Genossen betreffend die Schaffung einer Bundesverfassung für die Republik Österreich\"), KNVV Beilage 888, Zustand gut, wenige handschriftliche Anmerkungen",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E 1707 (Nachlass Mayr) Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "doc_title": "Abram KNV Beilagen",
+    "bv_id": "bv_doc_id__15",
+    "written_date": "7. Juli 1920",
+    "not_before": "1920-07-07",
+    "not_after": "1920-07-07",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Abram (Titel des Dokuments: Antrag des Abgeordneten Abram und Genossen auf Schaffung einer Bundesverfassung für die Republik Österreich) KNV Beilage 904, Zustand gut, am Titelblatt handschriftliche Ergänzungen",
+    "has_author": [
+      {
+        "id": 13,
+        "value": "Abram, Simon"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "doc_title": "Danneberg",
+    "bv_id": "bv_doc_id__16",
+    "written_date": "Zwischen dem 18. Februar 1920 und dem 20. April 1920",
+    "not_before": "1920-02-18",
+    "not_after": "1920-04-19",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Danneberg (Titel des Dokuments: \"Sozialdemokratischer Entwurf einer Bundesverfassung, April 1920\"), Zustand gut, wenige handschriftliche Ergänzungen und Unterstreichungen",
+    "has_author": [
+      {
+        "id": 8,
+        "value": "Danneberg, Robert"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "doc_title": "Evidenzexemplar handschriftlich",
+    "bv_id": "bv_doc_id__18",
+    "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
+    "not_before": "1920-04-24",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Evidenzexemplar (basierend auf Mayr II -> Titel des Dokuments: \"Zweite Fassung Vorentwurf einer Bundesstaatsverfassung\"). Parteienstandpunkte händisch eingetragen, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift und roter Tinte",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "doc_title": "Großdeutsch Sonderdruck",
+    "bv_id": "bv_doc_id__19",
+    "written_date": "18. Mai 1920 (aber vor dem 20. April 1920 entstanden)",
+    "not_before": "1920-04-20",
+    "not_after": "1920-05-18",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Großdeutsch (Titel des Dokuments: \"Entwurf einer österreichischen Verfassung beschlossen von den am 18. und 19. April 1920 in Linz versammelten Vertretern der nationalen Partei- und Landes-Organisationen\"), Sonderdruck, Zustand gut, wenige handschriftliche Ergänzungen, Anstreichungen",
+    "has_author": [
+      {
+        "id": 14,
+        "value": "Großdeutsche Volkspartei"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "doc_title": "Renner-Mayr",
+    "bv_id": "bv_doc_id__20",
+    "written_date": "8. Juli 1920 (aber vor dem 7. Juli 1920 entstanden)",
+    "not_before": "1920-05-01",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Renner-Mayr (Titel des Dokuments \"Das Ergebnis der Vereinbarungen über die österreichische Bundesverfassung\"), Zustand: gut, zahlreiche handschriftliche Ergänzungen in Bleistift, eingeklebte Texte [Lithographien] mit Textvarianten zu einzelnen Artikeln",
+    "has_author": [
+      {
+        "id": 7,
+        "value": "Mayr, Michael"
+      },
+      {
+        "id": 15,
+        "value": "Renner, Karl"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "doc_title": "UA 15.September 1920",
+    "bv_id": "bv_doc_id__21",
+    "written_date": "15. September 1920",
+    "not_before": "1920-09-15",
+    "not_after": "1920-09-15",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "UA 15. September (Titel des Dokuments: \"Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird, Fassung nach dem Stande der Beratungen am 15. September 1920\"), Zustand gut, einige handschriftliche Ergänzungen in Bleistift",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "doc_title": "UA 23. September 1920",
+    "bv_id": "bv_doc_id__22",
+    "written_date": "23. September 1920",
+    "not_before": "1920-09-23",
+    "not_after": "1920-09-23",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "UA 23. September (Titel des Dokuments: \"Ergebnis der Beratungen des Unterausschusses des Verfassungsausschusses\"), Zustand gut, einige handschriftliche Ergänzungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "doc_title": "UA 23. September 1920 Textvariante",
+    "bv_id": "bv_doc_id__23",
+    "written_date": "23. September 1920",
+    "not_before": "1920-09-23",
+    "not_after": "1920-09-23",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "UA 23. September Textvariante (Titel des Dokuments: \"Ergebnis der Beratungen des Unterausschusses des Verfassungsausschusses\"), dabei manche Artikel auf andersformatigen Blättern (Lithographien) eingelegt. Unklar, ob Vorstufe zum Druck oder Textvariante des UA 23. September, Zustand gut, einige handschriftliche Ergänzungen in Bleistift, eingelegte, lithographierten Blätter mit Textvarianten einzelner Artikel oder Passagen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "doc_title": "UA 26. August 1920 Textvariante",
+    "bv_id": "bv_doc_id__24",
+    "written_date": "26. August 1920",
+    "not_before": "1920-08-26",
+    "not_after": "1920-08-26",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "UA-Entwurf 26. August Textvariante (Titel des Dokuments: \"Entwurf eines Gesetzes, betreffend die Verfassung der Republik Österreich\"), unklar welchen Stand der Bearbeitung im UA das Dokument wiedergibt. Handschriftlich gekennzeichnet mit \"Seipel II\", einliegend ein Blatt in Maschinschrift mit Textvarianten zu den Artikeln 92 und 92a, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   }
 }
