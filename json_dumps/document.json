@@ -7,11 +7,12 @@
     "written_date": "irgendwann im Frühling 1919",
     "not_before": "1922-01-01",
     "not_after": "1922-12-31",
-    "type_of_manifestation": {
-      "id": 9963,
-      "value": "Typoskript",
-      "color": "red"
-    },
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
     "type_of_document": [],
     "has_description": null,
     "has_author": [
@@ -45,11 +46,12 @@
     "written_date": "1922",
     "not_before": "1922-01-01",
     "not_after": "1922-12-31",
-    "type_of_manifestation": {
-      "id": 9963,
-      "value": "Typoskript",
-      "color": "red"
-    },
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
     "type_of_document": [],
     "has_description": null,
     "has_author": [
@@ -83,11 +85,12 @@
     "written_date": "1923",
     "not_before": "1923-01-01",
     "not_after": "1923-12-31",
-    "type_of_manifestation": {
-      "id": 9962,
-      "value": "Manuskript",
-      "color": "blue"
-    },
+    "type_of_manifestation": [
+      {
+        "id": 1,
+        "value": "Manuskript"
+      }
+    ],
     "type_of_document": [],
     "has_description": null,
     "has_author": [
@@ -121,11 +124,12 @@
     "written_date": "1923",
     "not_before": "1923-01-01",
     "not_after": "1923-12-31",
-    "type_of_manifestation": {
-      "id": 9962,
-      "value": "Manuskript",
-      "color": "blue"
-    },
+    "type_of_manifestation": [
+      {
+        "id": 1,
+        "value": "Manuskript"
+      }
+    ],
     "type_of_document": [],
     "has_description": "",
     "has_author": [
@@ -159,11 +163,12 @@
     "written_date": "1923",
     "not_before": "1923-01-01",
     "not_after": "1923-12-31",
-    "type_of_manifestation": {
-      "id": 9962,
-      "value": "Manuskript",
-      "color": "blue"
-    },
+    "type_of_manifestation": [
+      {
+        "id": 1,
+        "value": "Manuskript"
+      }
+    ],
     "type_of_document": [],
     "has_description": "",
     "has_author": [
@@ -197,11 +202,12 @@
     "written_date": "1923",
     "not_before": "1923-01-01",
     "not_after": "1923-12-31",
-    "type_of_manifestation": {
-      "id": 9962,
-      "value": "Manuskript",
-      "color": "blue"
-    },
+    "type_of_manifestation": [
+      {
+        "id": 1,
+        "value": "Manuskript"
+      }
+    ],
     "type_of_document": [],
     "has_description": "",
     "has_author": [
@@ -235,11 +241,12 @@
     "written_date": "18. Dezember 1919",
     "not_before": "1919-12-18",
     "not_after": "1919-12-18",
-    "type_of_manifestation": {
-      "id": 9965,
-      "value": "Lithographie",
-      "color": "light-green"
-    },
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
     "type_of_document": [],
     "has_description": "",
     "has_author": [
@@ -263,7 +270,7 @@
     "written_date": "",
     "not_before": null,
     "not_after": null,
-    "type_of_manifestation": null,
+    "type_of_manifestation": [],
     "type_of_document": [],
     "has_description": "",
     "has_author": [],
