@@ -80,7 +80,7 @@
       },
       {
         "id": 20,
-        "value": "Renner-Mayr"
+        "value": "Renner-Mayr mit Einklebungen"
       },
       {
         "id": 21,
@@ -97,6 +97,30 @@
       {
         "id": 24,
         "value": "UA 26. August 1920 Textvariante"
+      },
+      {
+        "id": 26,
+        "value": "Renner-Mayr saubere Version"
+      },
+      {
+        "id": 27,
+        "value": "Ministerial II Typoskript"
+      },
+      {
+        "id": 28,
+        "value": "Großdeutsch KNV Beilage"
+      },
+      {
+        "id": 29,
+        "value": "Mayr I"
+      },
+      {
+        "id": 30,
+        "value": "Evidenzexemplar mschinschriftlich"
+      },
+      {
+        "id": 31,
+        "value": "CS I Sonderdruck"
       }
     ]
   },

@@ -19,7 +19,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": null,
+    "has_description": "Kelsen I (Titel des Dokuments \"Entwurf I\"), Zustand gut, keine Anmerkungen",
     "has_author": [
       {
         "id": 1,
@@ -28,8 +28,8 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": null,
-    "transkribus_col_id": "188933",
-    "transkribus_doc_id": "1344658",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -57,8 +57,8 @@
     "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 4,
-        "value": "Lithographie"
+        "id": 2,
+        "value": "Typoskript"
       }
     ],
     "type_of_document": [
@@ -67,7 +67,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": null,
+    "has_description": "Kelsen II (Titel des Dokuments: \"Entwurf II\"), Zustand gut, zahlreiche handschriftliche Ergänzungen und Korrekturen",
     "has_author": [
       {
         "id": 1,
@@ -76,8 +76,8 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
-    "transkribus_col_id": "188933",
-    "transkribus_doc_id": "1344662",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -105,8 +105,8 @@
     "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 4,
-        "value": "Lithographie"
+        "id": 2,
+        "value": "Typoskript"
       }
     ],
     "type_of_document": [
@@ -115,7 +115,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": null,
+    "has_description": "Kelsen III (Titel des Dokuments \"Entwurf III\"), Zustand gut, keine Anmerkungen",
     "has_author": [
       {
         "id": 1,
@@ -124,8 +124,8 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
-    "transkribus_col_id": "188933",
-    "transkribus_doc_id": "1344669",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -153,8 +153,8 @@
     "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 4,
-        "value": "Lithographie"
+        "id": 2,
+        "value": "Typoskript"
       }
     ],
     "type_of_document": [
@@ -163,7 +163,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "",
+    "has_description": "Kelsen IV (Titel des Dokuments: \"Entwurf IV\"), Zustand: gut, wenngleich schlechtes Durchschlagpapier, keine Anmerkungen",
     "has_author": [
       {
         "id": 1,
@@ -172,8 +172,8 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
-    "transkribus_col_id": "188933",
-    "transkribus_doc_id": "1344674",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -201,8 +201,8 @@
     "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 4,
-        "value": "Lithographie"
+        "id": 2,
+        "value": "Typoskript"
       }
     ],
     "type_of_document": [
@@ -211,7 +211,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "",
+    "has_description": "Kelsen V (Titel des Dokuments \"Entwurf V\"), Zustand gut, keine Anmerkungen",
     "has_author": [
       {
         "id": 1,
@@ -220,8 +220,8 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
-    "transkribus_col_id": "188933",
-    "transkribus_doc_id": "1344734",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -249,8 +249,8 @@
     "not_after": "1919-11-30",
     "type_of_manifestation": [
       {
-        "id": 4,
-        "value": "Lithographie"
+        "id": 2,
+        "value": "Typoskript"
       }
     ],
     "type_of_document": [
@@ -259,7 +259,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "",
+    "has_description": "Kelsen VI (Titel des Dokuments \"Entwurf VI\"), Zustand gut, keine Ergänzungen, Artikel teils nicht nummeriert",
     "has_author": [
       {
         "id": 1,
@@ -268,8 +268,8 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "",
-    "transkribus_col_id": "188933",
-    "transkribus_doc_id": "1344741",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -363,7 +363,7 @@
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 3",
-    "goobi_id": "14240",
+    "goobi_id": "",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -403,7 +403,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Mayr II (Titel des Dokuments: \"Vorentwurf einer Bundesverfassung, 2. Fassung\"), ZUstand sehr gut, keine Anmerkungen.",
+    "has_description": "Mayr II (Titel des Dokuments: \"Vorentwurf einer Bundesverfassung, 2. Fassung\"), Zustand sehr gut, keine Anmerkungen.",
     "has_author": [
       {
         "id": 7,
@@ -866,7 +866,7 @@
   "20": {
     "id": 20,
     "order": "19.00000000000000000000",
-    "doc_title": "Renner-Mayr",
+    "doc_title": "Renner-Mayr mit Einklebungen",
     "bv_id": "bv_doc_id__20",
     "written_date": "8. Juli 1920 (aber vor dem 7. Juli 1920 entstanden)",
     "not_before": "1920-05-01",
@@ -1106,5 +1106,316 @@
         "value": "Datenset A"
       }
     ]
+  },
+  "26": {
+    "id": 26,
+    "order": "24.00000000000000000000",
+    "doc_title": "Renner-Mayr saubere Version",
+    "bv_id": "bv_doc_id__26",
+    "written_date": "8. Juli 1920 (aber vor dem 7. Juli 1920 entstanden)",
+    "not_before": "1920-05-01",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Renner-Mayr (Titel des Dokuments \"Das Ergebnis der Vereinbarungen über die österreichische Bundesverfassung\"), Zustand: gut, keine Ergänzungen",
+    "has_author": [
+      {
+        "id": 7,
+        "value": "Mayr, Michael"
+      },
+      {
+        "id": 15,
+        "value": "Renner, Karl"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 10",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "25.00000000000000000000",
+    "doc_title": "Ministerial II Typoskript",
+    "bv_id": "bv_doc_id__27",
+    "written_date": "12. April 1920",
+    "not_before": "1920-04-12",
+    "not_after": "1920-04-12",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Ministerial II (Titel des Dokuments: \"Vorgelegter Entwurf 12/4/20\"), Typoskript auf Durchschlagpapier, Papier sehr dünn, Schrift blau. Zustand: mäßig, Papier rissig, teils geknittert, Stücke fehlen. Wenige handschriftliche Anmerkungen",
+    "has_author": [
+      {
+        "id": 17,
+        "value": "Staatssekretariat für die Verfasssungs- und Verwaltungsreform"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 10",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "26.00000000000000000000",
+    "doc_title": "Großdeutsch KNV Beilage",
+    "bv_id": "bv_doc_id__28",
+    "written_date": "18. Mai 1920 (aber vor dem 20. April 1920 entstanden)",
+    "not_before": "1920-04-20",
+    "not_after": "1920-05-18",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Großdeutsch (Titel des Dokuments \"Antrag des Abgeordneten Dinghofer und Genossen betreffend die Grundzüge der österreichischen Verfassung\"), KNV Beilage 842, Zustand: gut, handschriftliche Ergänzung am Titelblatt",
+    "has_author": [
+      {
+        "id": 14,
+        "value": "Großdeutsche Volkspartei"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 10",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "order": "27.00000000000000000000",
+    "doc_title": "Mayr I",
+    "bv_id": "bv_doc_id__29",
+    "written_date": "Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in der Rechspost)",
+    "not_before": "1920-01-25",
+    "not_after": "1920-02-10",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Mayr I (Titel des Dokuments \"Vorentwurf einer Bundesstaatsverfassung\"), Zustand: gut, zahlreiche handschriftliche Ergänzungen und Anstreichungen, vermutlich von Seitz",
+    "has_author": [
+      {
+        "id": 7,
+        "value": "Mayr, Michael"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "order": "28.00000000000000000000",
+    "doc_title": "Evidenzexemplar mschinschriftlich",
+    "bv_id": "bv_doc_id__30",
+    "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
+    "not_before": "1920-04-24",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Evidenzexemplar (basierend auf Mayr II -> Titel des Dokuments: \"Zweite Fassung Vorentwurf einer Bundesstaatsverfassung. Mit Ersichtlichmachung der Ergebnisse der Linzer Länderkonferenz\"). Parteienstandpunkte maschinschriftlich eingetragen (rote bzw. schwarze Tinte), Zustand gut, zahlreiche maschinschriftliche Ergänzungen",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "order": "29.00000000000000000000",
+    "doc_title": "CS I Sonderdruck",
+    "bv_id": "bv_doc_id__31",
+    "written_date": "14. Mai 1919 (Einbringung in der konstituierenden Nationalversammlung)",
+    "not_before": "1919-05-14",
+    "not_after": "1919-05-14",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "CS I (Titel des Dokuments \"Der deutsche Bundesfreistaat Österreich\"), Sonderdruck, Zustand gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "order": "30.00000000000000000000",
+    "doc_title": "",
+    "bv_id": "bv_doc_id__32",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [],
+    "data_set": []
   }
 }

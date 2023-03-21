@@ -13,7 +13,32 @@
     "name": "Typoskript",
     "has_description": "",
     "bv_id": "bv_manifestation_type_id__2",
-    "document": []
+    "document": [
+      {
+        "id": 2,
+        "value": "Kelsen Entwurf II"
+      },
+      {
+        "id": 3,
+        "value": "Kelsen Entwurf III"
+      },
+      {
+        "id": 4,
+        "value": "Kelsen Entwurf IV"
+      },
+      {
+        "id": 5,
+        "value": "Kelsen Entwurf V"
+      },
+      {
+        "id": 6,
+        "value": "Kelsen Entwurf VI"
+      },
+      {
+        "id": 27,
+        "value": "Ministerial II Typoskript"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -60,7 +85,7 @@
       },
       {
         "id": 20,
-        "value": "Renner-Mayr"
+        "value": "Renner-Mayr mit Einklebungen"
       },
       {
         "id": 21,
@@ -77,6 +102,26 @@
       {
         "id": 24,
         "value": "UA 26. August 1920 Textvariante"
+      },
+      {
+        "id": 26,
+        "value": "Renner-Mayr saubere Version"
+      },
+      {
+        "id": 28,
+        "value": "Großdeutsch KNV Beilage"
+      },
+      {
+        "id": 29,
+        "value": "Mayr I"
+      },
+      {
+        "id": 30,
+        "value": "Evidenzexemplar mschinschriftlich"
+      },
+      {
+        "id": 31,
+        "value": "CS I Sonderdruck"
       }
     ]
   },
@@ -90,26 +135,6 @@
       {
         "id": 1,
         "value": "Kelsen Entwurf I"
-      },
-      {
-        "id": 2,
-        "value": "Kelsen Entwurf II"
-      },
-      {
-        "id": 3,
-        "value": "Kelsen Entwurf III"
-      },
-      {
-        "id": 4,
-        "value": "Kelsen Entwurf IV"
-      },
-      {
-        "id": 5,
-        "value": "Kelsen Entwurf V"
-      },
-      {
-        "id": 6,
-        "value": "Kelsen Entwurf VI"
       },
       {
         "id": 7,
