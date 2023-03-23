@@ -1402,8 +1402,56 @@
   "32": {
     "id": 32,
     "order": "30.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Mayr I Typoskript",
     "bv_id": "bv_doc_id__32",
+    "written_date": "/. Februar 1920 (Datum der Übersendung des Entwurfs von Mayr an Seitz)",
+    "not_before": "1920-02-07",
+    "not_after": "1920-02-07",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Mayr I (Dokument hat keinen Titel), Typoskript, ein Blatt pro Artikel, Zustand gut, zum Teil bei einzelnen Artikeln STreichungen, Markierungen, Anmerkungen, manche Artikel in zwei Varianten vorhanden",
+    "has_author": [
+      {
+        "id": 7,
+        "value": "Mayr, Michael"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 8",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "order": "31.00000000000000000000",
+    "doc_title": "",
+    "bv_id": "bv_doc_id__33",
     "written_date": "",
     "not_before": null,
     "not_after": null,

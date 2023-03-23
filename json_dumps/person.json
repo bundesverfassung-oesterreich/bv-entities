@@ -158,6 +158,10 @@
       {
         "id": 31,
         "value": "CS I Sonderdruck"
+      },
+      {
+        "id": 32,
+        "value": "Mayr I Typoskript"
       }
     ],
     "project_data": [],
@@ -344,6 +348,10 @@
       {
         "id": 31,
         "value": "CS I Sonderdruck"
+      },
+      {
+        "id": 32,
+        "value": "Mayr I Typoskript"
       }
     ],
     "project_data": [],
@@ -371,6 +379,10 @@
       {
         "id": 29,
         "value": "Mayr I Druck"
+      },
+      {
+        "id": 32,
+        "value": "Mayr I Typoskript"
       }
     ],
     "document - has_digitizing_agent": [],
