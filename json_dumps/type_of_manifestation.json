@@ -126,6 +126,14 @@
       {
         "id": 31,
         "value": "CS I Sonderdruck"
+      },
+      {
+        "id": 33,
+        "value": "UA 26. August 1920"
+      },
+      {
+        "id": 34,
+        "value": "UA 1. September 1920"
       }
     ]
   },
@@ -151,6 +159,19 @@
       {
         "id": 13,
         "value": "unidentifizierter Entwurf nach Linz"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Manuskript bestehend aus Handschrift und Typoskript",
+    "has_description": "",
+    "bv_id": "bv_manifestation_type_id__5",
+    "document": [
+      {
+        "id": 35,
+        "value": "Renner Entwurf 1918"
       }
     ]
   }

@@ -28,7 +28,7 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
     "goobi_id": "14485",
-    "transkribus_col_id": null,
+    "transkribus_col_id": "194656",
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
@@ -507,7 +507,7 @@
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 16",
-    "goobi_id": "",
+    "goobi_id": "14541",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -747,7 +747,7 @@
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
-    "goobi_id": "",
+    "goobi_id": "14540",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -1331,7 +1331,7 @@
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
-    "goobi_id": "",
+    "goobi_id": "14565",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -1404,7 +1404,7 @@
     "order": "30.00000000000000000000",
     "doc_title": "Mayr I Typoskript",
     "bv_id": "bv_doc_id__32",
-    "written_date": "/. Februar 1920 (Datum der Übersendung des Entwurfs von Mayr an Seitz)",
+    "written_date": "7. Februar 1920 (Datum der Übersendung des Entwurfs von Mayr an Seitz)",
     "not_before": "1920-02-07",
     "not_after": "1920-02-07",
     "type_of_manifestation": [
@@ -1450,20 +1450,145 @@
   "33": {
     "id": 33,
     "order": "31.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "UA 26. August 1920",
     "bv_id": "bv_doc_id__33",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
+    "written_date": "26. August 1920",
+    "not_before": "1920-08-26",
+    "not_after": "1920-08-26",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "UA 26. August (Titel des Dokuments: \"Entwurf eines Gesetzes betreffend die Verfassung der Republik Österreich\") Zustand gut, wenige handschriftliche Ergänzungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 9",
     "goobi_id": "",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": []
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "order": "32.00000000000000000000",
+    "doc_title": "UA 1. September 1920",
+    "bv_id": "bv_doc_id__34",
+    "written_date": "1. September 1920",
+    "not_before": "1920-09-01",
+    "not_after": "1920-09-01",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "UA 1. September (Titel des Dokuments: \"Entwurf eines Gesetzes betreffend die Verfassung der Republik Österreich\"), Zustand gut, wenige handschriftliche Ergänzungen. Vorsicht! Kopf des Dokuments ident mit UA 26. August, jedoch Abweichung bei der Gestaltung einzelner Artikel",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 9",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "order": "33.00000000000000000000",
+    "doc_title": "Renner Entwurf 1918",
+    "bv_id": "bv_doc_id__35",
+    "written_date": "November 1918",
+    "not_before": "1918-11-01",
+    "not_after": "1918-11-30",
+    "type_of_manifestation": [
+      {
+        "id": 5,
+        "value": "Manuskript bestehend aus Handschrift und Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Renner Entwurf 1918 (Titel des Dokuments: \"Entwurf einer provisorischen Verfassung\"), Zustand mäßig, zahllose Streichungen, Ergänzungen, Anmerungen. Definitiver Text teils schwer zu identifizieren",
+    "has_author": [
+      {
+        "id": 15,
+        "value": "Renner, Karl"
+      }
+    ],
+    "shelfmark": "AVA, Nachlasssammlung, E 1731 (Nachlass Renner) Mappe 292",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   }
 }
