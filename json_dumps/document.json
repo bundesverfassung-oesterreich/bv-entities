@@ -547,7 +547,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "VfA Entwurf (Titel des Dokuments: Antrag des verfassungsausschusses) KNV Beilage 991, Zustand gut, wenige Anmerkungen",
+    "has_description": "VfA Entwurf (Titel des Dokuments: \"Antrag des Verfassungsausschusses\") KNV Beilage 991, Zustand gut, wenige Anmerkungen",
     "has_author": [
       {
         "id": 5,
@@ -643,7 +643,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "CS II (Titel des Dokuments: \"Antrag der Abgeordneten Dr. Mayr und Genossen betreffend die Schaffung einer Bundesverfassung für die Republik Österreich\"), KNVV Beilage 888, Zustand gut, wenige handschriftliche Anmerkungen",
+    "has_description": "CS II (Titel des Dokuments: \"Antrag der Abgeordneten Dr. Mayr und Genossen betreffend die Schaffung einer Bundesverfassung für die Republik Österreich\"), KNV Beilage 888, Zustand gut, wenige handschriftliche Anmerkungen",
     "has_author": [
       {
         "id": 12,
@@ -1179,7 +1179,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Ministerial II (Titel des Dokuments: \"Vorgelegter Entwurf 12/4/20\"), Typoskript auf Durchschlagpapier, Papier sehr dünn, Schrift blau. Zustand: mäßig, Papier rissig, teils geknittert, Stücke fehlen. Wenige handschriftliche Anmerkungen",
+    "has_description": "Ministerial II (Titel des Dokuments: \"Vorgelegter Entwurf 12/4/20\"), Typoskript auf Durchschlagpapier, Papier sehr dünn, Schrift blau. Zustand: mäßig, Papier rissig, teils zerknittert, Stücke fehlen. Wenige handschriftliche Anmerkungen",
     "has_author": [
       {
         "id": 17,
@@ -1419,7 +1419,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Mayr I (Dokument hat keinen Titel), Typoskript, ein Blatt pro Artikel, Zustand gut, zum Teil bei einzelnen Artikeln STreichungen, Markierungen, Anmerkungen, manche Artikel in zwei Varianten vorhanden",
+    "has_description": "Mayr I (Dokument hat keinen Titel), Typoskript, ein Blatt pro Artikel, Zustand gut, zum Teil bei einzelnen Artikeln Streichungen, Markierungen, Anmerkungen, manche Artikel in zwei Varianten vorhanden",
     "has_author": [
       {
         "id": 7,
@@ -1563,7 +1563,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Renner Entwurf 1918 (Titel des Dokuments: \"Entwurf einer provisorischen Verfassung\"), Zustand mäßig, zahllose Streichungen, Ergänzungen, Anmerungen. Definitiver Text teils schwer zu identifizieren",
+    "has_description": "Renner Entwurf 1918 (Titel des Dokuments: \"Entwurf einer provisorischen Verfassung\"), Zustand mäßig, zahllose Streichungen, Ergänzungen, Anmerkungen. Definitiver Text teils schwer zu identifizieren",
     "has_author": [
       {
         "id": 15,
