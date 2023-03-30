@@ -12,5 +12,12 @@
     "name": "Verfassungstext",
     "has_description": "Text der Bundesverfassung vom 1. Oktober 1920, wie er von der Konstituierenden Nationalversammlung beschlossen wurde",
     "bv_id": "bv_doctype_id__2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Sitzungsprotokoll",
+    "has_description": "",
+    "bv_id": "bv_doctype_id__3"
   }
 }

@@ -146,7 +146,12 @@
     "name": "Datenset B",
     "bv_id": "bv_data_set_id__2",
     "has_description": "Protokolle",
-    "document": []
+    "document": [
+      {
+        "id": 36,
+        "value": "Protokoll UA 11. Juli 1920"
+      }
+    ]
   },
   "3": {
     "id": 3,
