@@ -1638,5 +1638,485 @@
         "value": "Datenset B"
       }
     ]
+  },
+  "37": {
+    "id": 37,
+    "order": "36.00000000000000000000",
+    "doc_title": "Protokoll UA 12. Juli 1920",
+    "bv_id": "bv_doc_id__37",
+    "written_date": "12. Juli 1920",
+    "not_before": "1920-07-12",
+    "not_after": "1920-07-12",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920, Lithographie auf dünnem Durchschlagpapier, Zustand mäßig, Papier stark gewellt, zum Teil Ränder ausgerissen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920",
+    "goobi_id": "14586",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "37.00000000000000000000",
+    "doc_title": "Protokoll UA 20. Juli 1920",
+    "bv_id": "bv_doc_id__38",
+    "written_date": "20. Juli 1920",
+    "not_before": "1920-07-20",
+    "not_after": "1920-07-20",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920, Lithographie, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920",
+    "goobi_id": "14587",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "38.00000000000000000000",
+    "doc_title": "Protokoll UA 22. Juli 1920",
+    "bv_id": "bv_doc_id__39",
+    "written_date": "22. Juli 1920",
+    "not_before": "1920-07-22",
+    "not_after": "1920-07-22",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920, beiliegend ein Communique betreffend die im UA geführte Diskussion der Artikel 10-12 des Linzer Entwurfes, Lithographie, Zustand: gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920",
+    "goobi_id": "14588",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "order": "39.00000000000000000000",
+    "doc_title": "Protokoll UA 17. August 1920",
+    "bv_id": "bv_doc_id__40",
+    "written_date": "17. August 1920",
+    "not_before": "1920-08-17",
+    "not_after": "1920-08-17",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 5. Sitzung des Subkomitees des Verfassungsausschusses vom 17. August 1920, Lithographie auf Durchschlagpapier, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/74 ex 1920",
+    "goobi_id": "14589",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "40.00000000000000000000",
+    "doc_title": "Protokoll UA 18. August 1920",
+    "bv_id": "bv_doc_id__41",
+    "written_date": "18. August 1920",
+    "not_before": "1920-08-18",
+    "not_after": "1920-08-18",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920",
+    "goobi_id": "14590",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "41.00000000000000000000",
+    "doc_title": "Protokoll UA 20. August 1920",
+    "bv_id": "bv_doc_id__42",
+    "written_date": "20. August 1920",
+    "not_before": "1920-08-20",
+    "not_after": "1920-08-20",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 7. Sitzung des Subkomitees des Verfassungsausschusses vom 20. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/76 ex 1920",
+    "goobi_id": "14591",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "42.00000000000000000000",
+    "doc_title": "Protokoll UA 21. August 1920",
+    "bv_id": "bv_doc_id__43",
+    "written_date": "21. August 1920",
+    "not_before": "1920-08-21",
+    "not_after": "1920-08-21",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920, Lithographie auf dünnem Papier, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920",
+    "goobi_id": "14592",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "43.00000000000000000000",
+    "doc_title": "Protokoll UA 23. August 1920",
+    "bv_id": "bv_doc_id__44",
+    "written_date": "23. August 1920",
+    "not_before": "1920-08-23",
+    "not_after": "1920-08-23",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920",
+    "goobi_id": "14593",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "44.00000000000000000000",
+    "doc_title": "Protokoll UA 24. August 1920",
+    "bv_id": "bv_doc_id__45",
+    "written_date": "24. August 1920",
+    "not_before": "1920-08-24",
+    "not_after": "1920-08-24",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79 ex 1920",
+    "goobi_id": "14594",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "45.00000000000000000000",
+    "doc_title": "Protokoll UA 25. August 1920",
+    "bv_id": "bv_doc_id__46",
+    "written_date": "25. August 1920",
+    "not_before": "1920-08-25",
+    "not_after": "1920-08-25",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 11. Sitzung des Subkomitees des Verfassungsausschusses vom 25. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
+    "has_author": [
+      {
+        "id": 16,
+        "value": "Unterausschuss des Verfassungsausschusses"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79 ex 1920",
+    "goobi_id": "14595",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
   }
 }
