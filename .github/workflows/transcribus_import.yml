@@ -1,10 +1,7 @@
 name: Dump Entities from Baserow
 
 on:
-  schedule:
-  - cron: "37 */12 * * *"
   workflow_dispatch:
-
 
 jobs:
   download:
@@ -14,6 +11,7 @@ jobs:
       BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
       BASEROW_USER: ${{secrets.BASEROW_USER}}
       BASEROW_PW: ${{secrets.BASEROW_PW}}
+      GITHUB_USER_TOKEN: ${{ secrets.ACTIONS_KEY }}
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v3
@@ -27,3 +25,11 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Data update from Baserow
+      - name: trigger transcribus import
+        run: |
+          status=$(curl --request POST \
+          --url 'https://api.github.com/repos/bundesverfassung-oesterreich/bv-transkribus-import/dispatches' \
+          --header "authorization: token $GITHUB_USER_TOKEN" \
+          --data '{"event_type": "transkribus import (triggered by transkribus-entities-workflow)"}')
+          if [ -n "$status" ]; then  exit 1; fi
+          echo "Transkribus import-job should be running now."
