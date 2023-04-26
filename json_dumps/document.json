@@ -2550,5 +2550,101 @@
         "value": "Datenset B"
       }
     ]
+  },
+  "56": {
+    "id": 56,
+    "order": "55.00000000000000000000",
+    "doc_title": "Protokoll 1. Länderkonferenz 23. November 1918",
+    "bv_id": "bv_doc_id__56",
+    "written_date": "23. November 1918",
+    "not_before": "1918-11-23",
+    "not_after": "1918-11-23",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 1. Länderkonferenz vom 23. November 1918 (=Kabinettsratsprotokoll Nr. 15)\n\nTyp: Lithographie\n\nZustand: gut",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 5",
+    "goobi_id": "14612",
+    "transkribus_col_id": "196428",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "56.00000000000000000000",
+    "doc_title": "Protokoll 2. Länderkonferenz 4. und 5. Jänner 1919",
+    "bv_id": "bv_doc_id__57",
+    "written_date": "4. und 5. Jänner 1919",
+    "not_before": "1919-01-04",
+    "not_after": "1919-01-05",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der 2. Länderkonferenz vom 4. und 5. Jänner 1919 (=Kabinettsratsprotokoll Nr. 28)",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 5",
+    "goobi_id": "14613",
+    "transkribus_col_id": "196428",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
   }
 }
