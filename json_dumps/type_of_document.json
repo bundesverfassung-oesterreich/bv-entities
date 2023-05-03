@@ -19,5 +19,12 @@
     "name": "Sitzungsprotokoll",
     "has_description": "",
     "bv_id": "bv_doctype_id__3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Stellungnahme zum Verfassungsentwurf",
+    "has_description": "",
+    "bv_id": "bv_doctype_id__4"
   }
 }

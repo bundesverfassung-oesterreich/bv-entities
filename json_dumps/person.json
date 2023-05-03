@@ -278,6 +278,18 @@
       {
         "id": 61,
         "value": "Protokoll 7. Länderkonferenz"
+      },
+      {
+        "id": 62,
+        "value": "B-VG saubere Variante"
+      },
+      {
+        "id": 63,
+        "value": "Bericht VfA Sonderdruck"
+      },
+      {
+        "id": 64,
+        "value": "VfÜG Sonderdruck"
       }
     ],
     "project_data": [],
@@ -329,6 +341,10 @@
       {
         "id": 12,
         "value": "VfA Entwurf KNV Beilage"
+      },
+      {
+        "id": 63,
+        "value": "Bericht VfA Sonderdruck"
       }
     ],
     "document - has_digitizing_agent": [],
@@ -584,6 +600,18 @@
       {
         "id": 61,
         "value": "Protokoll 7. Länderkonferenz"
+      },
+      {
+        "id": 62,
+        "value": "B-VG saubere Variante"
+      },
+      {
+        "id": 63,
+        "value": "Bericht VfA Sonderdruck"
+      },
+      {
+        "id": 64,
+        "value": "VfÜG Sonderdruck"
       }
     ],
     "project_data": [],
@@ -663,6 +691,14 @@
       {
         "id": 11,
         "value": "B-VG Sonderdruck"
+      },
+      {
+        "id": 62,
+        "value": "B-VG saubere Variante"
+      },
+      {
+        "id": 64,
+        "value": "VfÜG Sonderdruck"
       }
     ],
     "document - has_digitizing_agent": [],

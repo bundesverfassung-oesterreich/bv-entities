@@ -2581,7 +2581,7 @@
     "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 5",
     "goobi_id": "14612",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "1411099",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -2629,7 +2629,7 @@
     "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 5",
     "goobi_id": "14613",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "1411100",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -2677,7 +2677,7 @@
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
     "goobi_id": "14614",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "1418106",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -2725,7 +2725,7 @@
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
     "goobi_id": "14615",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "1418107",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -2773,7 +2773,7 @@
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
     "goobi_id": "14616",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "1418269",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -2821,7 +2821,7 @@
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
     "goobi_id": "14617",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "1418270",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -2836,6 +2836,150 @@
       {
         "id": 2,
         "value": "Datenset B"
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "order": "61.00000000000000000000",
+    "doc_title": "B-VG saubere Variante",
+    "bv_id": "bv_doc_id__62",
+    "written_date": "1. Oktober 1920",
+    "not_before": "1920-10-01",
+    "not_after": "1920-10-01",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 2,
+        "value": "Verfassungstext"
+      }
+    ],
+    "has_description": "B-VG (\"Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz\")\n\nTyp: Druck\n\nZustand: gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 10,
+        "value": "Konstituierende Nationalversammlung"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
+    "goobi_id": "14618",
+    "transkribus_col_id": "195363",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "order": "62.00000000000000000000",
+    "doc_title": "Bericht VfA Sonderdruck",
+    "bv_id": "bv_doc_id__63",
+    "written_date": "26. September 1920",
+    "not_before": "1920-09-26",
+    "not_after": "1920-09-26",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 4,
+        "value": "Stellungnahme zum Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Bericht VfA (\"Bericht des Verfassungsausschusses über den Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird [Bundes-Verfassungsgesetz]\"), \n\nKNV Beilage 991\n\nTyp: Druck\n\nZustand: gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 5,
+        "value": "Verfassungsausschuss"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
+    "goobi_id": "14619",
+    "transkribus_col_id": "195363",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "order": "63.00000000000000000000",
+    "doc_title": "VfÜG Sonderdruck",
+    "bv_id": "bv_doc_id__64",
+    "written_date": "1. Oktober 1920",
+    "not_before": "1920-10-01",
+    "not_after": "1920-10-01",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 2,
+        "value": "Verfassungstext"
+      }
+    ],
+    "has_description": "VfÜG (\"Verfassungsgesetz vom 1. Oktober 1920, Betreffend den Übergang zur bundesstaatlichen Verfassung\")\n\nTyp: Druck\n\nZustand: gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 10,
+        "value": "Konstituierende Nationalversammlung"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
+    "goobi_id": "",
+    "transkribus_col_id": "195363",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
       }
     ]
   }
