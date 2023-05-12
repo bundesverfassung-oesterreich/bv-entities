@@ -5,7 +5,7 @@ on:
 
 jobs:
   download:
-    name: dump baserow
+    name: dump baserow & an trigger transkribus-import
     runs-on: ubuntu-latest
     env:
       BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
