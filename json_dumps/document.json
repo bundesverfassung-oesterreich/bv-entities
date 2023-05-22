@@ -2986,20 +2986,49 @@
   "65": {
     "id": 65,
     "order": "64.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Gegenüberstellung der Differenzpunkte CS SD",
     "bv_id": "bv_doc_id__65",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
-    "goobi_id": "",
-    "transkribus_col_id": null,
+    "written_date": "Nach dem 23. April 1920",
+    "not_before": "1920-04-23",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 4,
+        "value": "Stellungnahme zum Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Gegenüberstellung der Differenzpunkte CS SD (\"Kurze Gegenüberstellung der wesentlichen Differenzpunkte zwischen den sozialdemokratischen un den christlichsozialen Verfassungsvorschlägen bei der Linzer Länderkonferenz\")\n\nTyp: Lithographie\n\nZustand: gut, keine Anmerkungen.\n\nAnmerkung: offenbar Zwischenstufe zwischen Evidenzexemplar und Renner-Mayr",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 11",
+    "goobi_id": "14636",
+    "transkribus_col_id": "196428",
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": []
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
   }
 }
