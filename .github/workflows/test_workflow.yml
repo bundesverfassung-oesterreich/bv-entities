@@ -1,0 +1,12 @@
+name: import scans to transcribus
+on:
+  workflow_dispatch:
+  repository_dispatch:
+jobs:
+  download:
+    name: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: test
+        run: |
+          echo "working"
