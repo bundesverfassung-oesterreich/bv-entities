@@ -1,4 +1,4 @@
-name: import scans to transcribus
+name: test workflow
 on:
   workflow_dispatch:
   repository_dispatch:
