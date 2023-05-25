@@ -1,8 +1,7 @@
 name: import scans to transcribus
-
 on:
   workflow_dispatch:
-
+  repository_dispatch:
 jobs:
   download:
     name: dump baserow & an trigger transkribus-import
