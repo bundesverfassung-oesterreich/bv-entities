@@ -5,6 +5,8 @@
 GITHUB_USER_TOKEN=""
 # this worklow does nothing, for testing only
 WORKFLOW_FILENAME="test_workflow.yml"
+# this worklfow also does nothing but it always fails
+# WORKFLOW_FILENAME="test_error_workflow.yml"
 # this is the productive worklflow
 # WORKFLOW_FILENAME="transcribus_import.yml"
 # some vars
