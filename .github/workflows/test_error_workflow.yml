@@ -1,0 +1,14 @@
+name: test workflow
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: transkribus-import
+jobs:
+  download:
+    name: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: test
+        run: |
+          echo "working"
+          exit 1
