@@ -3030,5 +3030,53 @@
         "value": "Datenset B"
       }
     ]
+  },
+  "66": {
+    "id": 66,
+    "order": "65.00000000000000000000",
+    "doc_title": "CS I KNV-Beilage",
+    "bv_id": "bv_doc_id__66",
+    "written_date": "14. Mai 1919",
+    "not_before": "1919-05-14",
+    "not_after": "1919-05-14",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "CS I KNV-Beilage (\"Verfassung des deutschen Bundesfreistaates Österreich\") \n\nTyp: Druck\n\nZustand: gut, keine Ergänzungen",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei"
+      }
+    ],
+    "shelfmark": "AvA, Justizministerium, Signatur I-VI/1, Kt. 1816",
+    "goobi_id": "14640",
+    "transkribus_col_id": "195363",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   }
 }
