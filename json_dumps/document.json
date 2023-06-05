@@ -3078,5 +3078,53 @@
         "value": "Datenset A"
       }
     ]
+  },
+  "67": {
+    "id": 67,
+    "order": "66.00000000000000000000",
+    "doc_title": "Mayr I Druck saubere Fassung",
+    "bv_id": "bv_doc_id__67",
+    "written_date": "Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in der Rechspost)",
+    "not_before": "1920-01-25",
+    "not_after": "1920-02-10",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Mayr I (\"Vorentwurf einer Bundesstaatsverfassung\")\n\nTyp: Druck\n\nZustand: gut, wenige handschriftliche Anmerkungen",
+    "has_author": [
+      {
+        "id": 7,
+        "value": "Mayr, Michael"
+      }
+    ],
+    "shelfmark": "AvA, Justizministerium, Signatur I-VI/1, Kt. 1816",
+    "goobi_id": "14641",
+    "transkribus_col_id": "195363",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   }
 }
