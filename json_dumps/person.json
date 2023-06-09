@@ -302,6 +302,18 @@
       {
         "id": 67,
         "value": "Mayr I Druck saubere Fassung"
+      },
+      {
+        "id": 68,
+        "value": "Großdeutsch Sonderdruck Textvariante 1"
+      },
+      {
+        "id": 69,
+        "value": "Großdeutsch Sonderdruck Textvariante 2"
+      },
+      {
+        "id": 70,
+        "value": "Bericht 5. Länderkonferenz"
       }
     ],
     "project_data": [],
@@ -636,6 +648,18 @@
       {
         "id": 67,
         "value": "Mayr I Druck saubere Fassung"
+      },
+      {
+        "id": 68,
+        "value": "Großdeutsch Sonderdruck Textvariante 1"
+      },
+      {
+        "id": 69,
+        "value": "Großdeutsch Sonderdruck Textvariante 2"
+      },
+      {
+        "id": 70,
+        "value": "Bericht 5. Länderkonferenz"
       }
     ],
     "project_data": [],
@@ -798,6 +822,10 @@
       {
         "id": 65,
         "value": "Gegenüberstellung der Differenzpunkte CS SD"
+      },
+      {
+        "id": 70,
+        "value": "Bericht 5. Länderkonferenz"
       }
     ],
     "document - has_digitizing_agent": [],
@@ -864,6 +892,14 @@
       {
         "id": 28,
         "value": "Großdeutsch KNV Beilage"
+      },
+      {
+        "id": 68,
+        "value": "Großdeutsch Sonderdruck Textvariante 1"
+      },
+      {
+        "id": 69,
+        "value": "Großdeutsch Sonderdruck Textvariante 2"
       }
     ],
     "document - has_digitizing_agent": [],

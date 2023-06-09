@@ -3126,5 +3126,149 @@
         "value": "Datenset A"
       }
     ]
+  },
+  "68": {
+    "id": 68,
+    "order": "67.00000000000000000000",
+    "doc_title": "Großdeutsch Sonderdruck Textvariante 1",
+    "bv_id": "bv_doc_id__68",
+    "written_date": "Vor dem 18. Mai 1920 (vor Einbringung des GD Entwurfs in der KNV) entstanden",
+    "not_before": "1920-01-01",
+    "not_after": "1920-05-18",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Großdeutsch Sonderdruck Textvariante 1 (\"Vorentwurf einer österreichischen Verfassung unter Mitwirkung von Mitgliedern der Großdeutschen Vereinigung, ausgearbeitet von Mitgliedern der Deutschen Freiheits- und Ordnungspartei in Oberösterreich und von Mitgliedern der Nationaldemokratischen Partei\")\n\nTyp: Druck\n\nZustand: sehr gut, keine Ergänzungen oder Anstreichungen\n\nUmfang: 20 Seiten\n\nAnzahl Artikel: 103",
+    "has_author": [
+      {
+        "id": 14,
+        "value": "Großdeutsche Volkspartei"
+      }
+    ],
+    "shelfmark": "AdR, BKA/Inneres, Parteiarchive, Archiv der GDVP, Kt. 113",
+    "goobi_id": "14642",
+    "transkribus_col_id": "195363",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "68.00000000000000000000",
+    "doc_title": "Großdeutsch Sonderdruck Textvariante 2",
+    "bv_id": "bv_doc_id__69",
+    "written_date": "Vor dem 18. Mai 1920 (vor Einbringung des GD Entwurfs in der KNV) entstanden",
+    "not_before": "1920-01-01",
+    "not_after": "1920-05-18",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Großdeutsch Sonderdruck Textvariante 2 (\"Deutscher Volksbund für Österreich - Entwurf einer österreichischen Verfassung\")\n\nTyp: Druck\n\nZustand: sehr gut, keine Ergänzungen oder Anstreichungen\n\nUmfang: 19 Seiten\n\nAnzahl Artikel: 101",
+    "has_author": [
+      {
+        "id": 14,
+        "value": "Großdeutsche Volkspartei"
+      }
+    ],
+    "shelfmark": "AdR, BKA/Inneres, Parteiarchive, Archiv der GDVP, Kt. 113",
+    "goobi_id": "14643",
+    "transkribus_col_id": "195363",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "69.00000000000000000000",
+    "doc_title": "Bericht 5. Länderkonferenz",
+    "bv_id": "bv_doc_id__70",
+    "written_date": "20. Mai 1919",
+    "not_before": "1919-05-20",
+    "not_after": "1919-05-20",
+    "type_of_manifestation": [
+      {
+        "id": 4,
+        "value": "Lithographie"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Bericht über die 5. Länderkonferenz vom 20. Mai 1919 (enthalten in Kabinettsratsprotokoll Nr. 72 vom gleichen Tag, inkl. einer Presseaussendung und einer Vollzugsanweisung)\n\nTyp: Lithographie\n\nZustand: gut\n\nUmfang: 6 Seiten",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 8",
+    "goobi_id": "14644",
+    "transkribus_col_id": "196428",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B"
+      }
+    ]
   }
 }
