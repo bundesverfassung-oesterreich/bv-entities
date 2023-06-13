@@ -19,7 +19,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Kelsen I (Titel des Dokuments \"Entwurf I\"), Zustand gut, keine Anmerkungen",
+    "has_description": "Kelsen I (Titel des Dokuments \"Entwurf I\"), Zustand gut, keine Anmerkungen, 126 Artikel",
     "has_author": [
       {
         "id": 1,
@@ -67,7 +67,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Kelsen II (Titel des Dokuments: \"Entwurf II\"), Zustand gut, zahlreiche handschriftliche Ergänzungen und Korrekturen",
+    "has_description": "Kelsen II (Titel des Dokuments: \"Entwurf II\"), Zustand gut, zahlreiche handschriftliche Ergänzungen und Korrekturen, 170 Artikel",
     "has_author": [
       {
         "id": 1,
@@ -115,7 +115,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Kelsen III (Titel des Dokuments \"Entwurf III\"), Zustand gut, keine Anmerkungen",
+    "has_description": "Kelsen III (Titel des Dokuments \"Entwurf III\"), Zustand gut, keine Anmerkungen, 161 Artikel",
     "has_author": [
       {
         "id": 1,
@@ -163,7 +163,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Kelsen IV (Titel des Dokuments: \"Entwurf IV\"), Zustand: gut, wenngleich schlechtes Durchschlagpapier, keine Anmerkungen",
+    "has_description": "Kelsen IV (Titel des Dokuments: \"Entwurf IV\"), Zustand: gut, wenngleich schlechtes Durchschlagpapier, keine Anmerkungen, 131 Artikel",
     "has_author": [
       {
         "id": 1,
@@ -211,7 +211,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Kelsen V (Titel des Dokuments \"Entwurf V\"), Zustand gut, keine Anmerkungen",
+    "has_description": "Kelsen V (Titel des Dokuments \"Entwurf V\"), Zustand gut, keine Anmerkungen, 198 Artikel",
     "has_author": [
       {
         "id": 1,
@@ -307,7 +307,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Falser II (Titel des Dokuments: \"Die Verfassung des Bundesstaates Republik Österreich\"), Zustand gut, wenige Ergänzungen (Hinweis auf fehlenden Artikel bzw. Fehler bei der Zählung)",
+    "has_description": "Falser II (Titel des Dokuments: \"Die Verfassung des Bundesstaates Republik Österreich\"), Zustand gut, wenige Ergänzungen (Hinweis auf fehlenden Artikel bzw. Fehler bei der Zählung), 37 Artikel",
     "has_author": [
       {
         "id": 4,
@@ -355,7 +355,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Falser I (Titel des Dokuments: \"Die Verfassung des Bundesstaates Österreich\"), Zustand gut, ohne Ergänzungen",
+    "has_description": "Falser I (Titel des Dokuments: \"Die Verfassung des Bundesstaates Österreich\"), Zustand gut, ohne Ergänzungen, 39 Artikel",
     "has_author": [
       {
         "id": 4,
@@ -403,7 +403,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Mayr II (Titel des Dokuments: \"Vorentwurf einer Bundesverfassung, 2. Fassung\"), Zustand sehr gut, keine Anmerkungen.",
+    "has_description": "Mayr II (Titel des Dokuments: \"Vorentwurf einer Bundesverfassung, 2. Fassung\"), Zustand sehr gut, keine Anmerkungen, 157 Artikel",
     "has_author": [
       {
         "id": 7,
@@ -451,7 +451,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Rehrl (Titel des Dokuments: \"Die Bundesverfassung Österreichs\"), Zustand: mäßig, zahlreiche Unterstreichungen, Anmerkungen in Steno",
+    "has_description": "Rehrl (Titel des Dokuments: \"Die Bundesverfassung Österreichs\"), Zustand: mäßig, zahlreiche Unterstreichungen, Anmerkungen in Steno, keine formale Artikelzählung",
     "has_author": [
       {
         "id": 9,
@@ -499,7 +499,7 @@
         "value": "Verfassungstext"
       }
     ],
-    "has_description": "B-VG (Titel des Dokuments: Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz) Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen",
+    "has_description": "B-VG (Titel des Dokuments: Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz) Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen, 152 Artikel",
     "has_author": [
       {
         "id": 10,
@@ -547,7 +547,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "VfA Entwurf (Titel des Dokuments: \"Antrag des Verfassungsausschusses\") KNV Beilage 991, Zustand gut, wenige Anmerkungen",
+    "has_description": "VfA Entwurf (Titel des Dokuments: \"Antrag des Verfassungsausschusses\") KNV Beilage 991, Zustand gut, wenige Anmerkungen, 153 Artikel",
     "has_author": [
       {
         "id": 5,
@@ -595,7 +595,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Nicht identifizierter, undatierter Entwurf, betitelt \"Linzer Entwurf neuer Text\". Gemeint dabei ist folgendes: in der linken Spalte Verweise auf die Dokumentstruktur von Mayr II (=Linzer Entwurf). Restlicher Text modifizierte Variante, unklar was genau??? Unbekannte Variante nach Evidenzexemplar??? Zustand gut, ohne Anmerkungen",
+    "has_description": "Nicht identifizierter, undatierter Entwurf, betitelt \"Linzer Entwurf neuer Text\". Gemeint dabei ist folgendes: in der linken Spalte Verweise auf die Dokumentstruktur von Mayr II (=Linzer Entwurf). Restlicher Text modifizierte Variante, unklar was genau??? Unbekannte Variante nach Evidenzexemplar??? Zustand gut, ohne Anmerkungen, 132 Artikel, die aber nicht alle wörtlich ausgeführt werden (siehe am Schluss 126-132)",
     "has_author": [
       {
         "id": 11,
@@ -643,7 +643,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "CS II (Titel des Dokuments: \"Antrag der Abgeordneten Dr. Mayr und Genossen betreffend die Schaffung einer Bundesverfassung für die Republik Österreich\"), KNV Beilage 888, Zustand gut, wenige handschriftliche Anmerkungen",
+    "has_description": "CS II (Titel des Dokuments: \"Antrag der Abgeordneten Dr. Mayr und Genossen betreffend die Schaffung einer Bundesverfassung für die Republik Österreich\"), KNV Beilage 888, Zustand gut, wenige handschriftliche Anmerkungen, 32 Artikel",
     "has_author": [
       {
         "id": 12,
@@ -691,7 +691,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Abram (Titel des Dokuments: Antrag des Abgeordneten Abram und Genossen auf Schaffung einer Bundesverfassung für die Republik Österreich) KNV Beilage 904, Zustand gut, am Titelblatt handschriftliche Ergänzungen",
+    "has_description": "Abram (Titel des Dokuments: Antrag des Abgeordneten Abram und Genossen auf Schaffung einer Bundesverfassung für die Republik Österreich) KNV Beilage 904, Zustand gut, am Titelblatt handschriftliche Ergänzungen, 174 Artikel",
     "has_author": [
       {
         "id": 13,
@@ -739,7 +739,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Danneberg (Titel des Dokuments: \"Sozialdemokratischer Entwurf einer Bundesverfassung, April 1920\"), Zustand gut, wenige handschriftliche Ergänzungen und Unterstreichungen",
+    "has_description": "Danneberg (Titel des Dokuments: \"Sozialdemokratischer Entwurf einer Bundesverfassung, April 1920\"), Zustand gut, wenige handschriftliche Ergänzungen und Unterstreichungen, 162 Artikel",
     "has_author": [
       {
         "id": 8,
@@ -787,7 +787,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Evidenzexemplar (basierend auf Mayr II -> Titel des Dokuments: \"Zweite Fassung Vorentwurf einer Bundesstaatsverfassung\"). Parteienstandpunkte händisch eingetragen, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift und roter Tinte",
+    "has_description": "Evidenzexemplar (basierend auf Mayr II -> Titel des Dokuments: \"Zweite Fassung Vorentwurf einer Bundesstaatsverfassung\"). Parteienstandpunkte händisch eingetragen, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift und roter Tinte, 157 Artikel",
     "has_author": [
       {
         "id": 11,
@@ -835,7 +835,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Großdeutsch (Titel des Dokuments: \"Entwurf einer österreichischen Verfassung beschlossen von den am 18. und 19. April 1920 in Linz versammelten Vertretern der nationalen Partei- und Landes-Organisationen\"), Sonderdruck, Zustand gut, wenige handschriftliche Ergänzungen, Anstreichungen",
+    "has_description": "Großdeutsch (Titel des Dokuments: \"Entwurf einer österreichischen Verfassung beschlossen von den am 18. und 19. April 1920 in Linz versammelten Vertretern der nationalen Partei- und Landes-Organisationen\"), Sonderdruck, Zustand gut, wenige handschriftliche Ergänzungen, Anstreichungen, 104 Artikel",
     "has_author": [
       {
         "id": 14,
@@ -883,7 +883,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Renner-Mayr (Titel des Dokuments \"Das Ergebnis der Vereinbarungen über die österreichische Bundesverfassung\"), Zustand: gut, zahlreiche handschriftliche Ergänzungen in Bleistift, eingeklebte Texte [Lithographien] mit Textvarianten zu einzelnen Artikeln",
+    "has_description": "Renner-Mayr (Titel des Dokuments \"Das Ergebnis der Vereinbarungen über die österreichische Bundesverfassung\"), Zustand: gut, zahlreiche handschriftliche Ergänzungen in Bleistift, eingeklebte Texte [Lithographien] mit Textvarianten zu einzelnen Artikeln, 162 Artikel",
     "has_author": [
       {
         "id": 7,
