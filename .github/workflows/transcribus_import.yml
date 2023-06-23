@@ -10,7 +10,7 @@ jobs:
       BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
       BASEROW_USER: ${{secrets.BASEROW_USER}}
       BASEROW_PW: ${{secrets.BASEROW_PW}}
-      GITHUB_USER_TOKEN: ${{ secrets.ACTIONS_KEY }}
+      GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v3
