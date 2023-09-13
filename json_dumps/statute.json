@@ -1,0 +1,16 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "Name": "",
+    "bv_id": "bv_statute_id__1",
+    "short_name": ""
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "Name": "",
+    "bv_id": "bv_statute_id__2",
+    "short_name": ""
+  }
+}

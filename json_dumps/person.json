@@ -317,7 +317,13 @@
       }
     ],
     "project_data": [],
-    "person_type": []
+    "person_type": [
+      {
+        "id": 11409,
+        "value": "Personal",
+        "color": "green"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -333,7 +339,13 @@
         "value": "Die Entstehung des Bundes-Verfassungsgesetzes 1920"
       }
     ],
-    "person_type": []
+    "person_type": [
+      {
+        "id": 11409,
+        "value": "Personal",
+        "color": "green"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -663,7 +675,13 @@
       }
     ],
     "project_data": [],
-    "person_type": []
+    "person_type": [
+      {
+        "id": 11409,
+        "value": "Personal",
+        "color": "green"
+      }
+    ]
   },
   "7": {
     "id": 7,
