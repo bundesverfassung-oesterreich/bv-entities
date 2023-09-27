@@ -3274,20 +3274,97 @@
   "71": {
     "id": 71,
     "order": "70.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Ministerialentwurf Typoskript aus VGA Archiv",
     "bv_id": "bv_doc_id__71",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
-    "goobi_id": "",
+    "written_date": "12. April 1920",
+    "not_before": "1920-04-12",
+    "not_after": "1920-04-12",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Ministerialentwurf (wie in Ermacora IV). Typ: Typoskript. Zustand: gut, einige handschriftliche Ergänzungen, Papier leicht verknittert, letzte Seite fehlt. 167 Artikel (jedoch nur Text von 163 Artikeln tatsächlich vorhanden). Artikel 52-58 (betr. den Bundespräsidenten) liegen in zwei Textvarianten vor",
+    "has_author": [
+      {
+        "id": 17,
+        "value": "Staatssekretariat für die Verfasssungs- und Verwaltungsreform"
+      }
+    ],
+    "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
+    "goobi_id": "14665",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": []
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "order": "71.00000000000000000000",
+    "doc_title": "Danneberg Typoskript aus VGA Archiv",
+    "bv_id": "bv_doc_id__72",
+    "written_date": "Zwischen dem 18. Februar 1920 und dem 20. April 1920",
+    "not_before": "1920-02-18",
+    "not_after": "1920-04-19",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Danneberg Textvariante (167 statt 162 ARtikel bei der gedruckten Fassung), auf der Titelseite handschriftliche Notiz \"letzte Fassung vor Linz\".Typ: Typoskript. Zustand: gut, nur letzte Seite stark beshcädigt, Textteile fehlen",
+    "has_author": [
+      {
+        "id": 8,
+        "value": "Danneberg, Robert"
+      }
+    ],
+    "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
+    "goobi_id": "14666",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ]
   }
 }
