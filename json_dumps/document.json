@@ -46,7 +46,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Kelsen I"
   },
   "2": {
     "id": 2,
@@ -95,7 +95,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Kelsen II"
   },
   "3": {
     "id": 3,
@@ -144,7 +144,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Kelsen III"
   },
   "4": {
     "id": 4,
@@ -193,7 +193,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Kelsen IV"
   },
   "5": {
     "id": 5,
@@ -242,7 +242,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Kelsen V"
   },
   "6": {
     "id": 6,
@@ -291,7 +291,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Kelsen VI"
   },
   "7": {
     "id": 7,
@@ -340,7 +340,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Falser II"
   },
   "8": {
     "id": 8,
@@ -389,7 +389,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Falser I"
   },
   "9": {
     "id": 9,
@@ -438,7 +438,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Mayr II"
   },
   "10": {
     "id": 10,
@@ -487,7 +487,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Rehrl"
   },
   "11": {
     "id": 11,
@@ -585,7 +585,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "VfA Entwurf"
   },
   "13": {
     "id": 13,
@@ -683,7 +683,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "CS II"
   },
   "15": {
     "id": 15,
@@ -732,7 +732,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Abram/SD"
   },
   "16": {
     "id": 16,
@@ -781,7 +781,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Danneberg"
   },
   "18": {
     "id": 18,
@@ -1030,7 +1030,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "UA September"
   },
   "23": {
     "id": 23,
@@ -1181,12 +1181,12 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Renner-Mayr"
   },
   "27": {
     "id": 27,
     "order": "25.00000000000000000000",
-    "doc_title": "Ministerial II Typoskript",
+    "doc_title": "Ministerial I Typoskript",
     "bv_id": "bv_doc_id__27",
     "written_date": "12. April 1920",
     "not_before": "1920-04-12",
@@ -1230,7 +1230,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Ministerial I"
   },
   "28": {
     "id": 28,
@@ -1279,7 +1279,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Großdeutsch"
   },
   "29": {
     "id": 29,
@@ -1377,7 +1377,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Evidenzexemplar"
   },
   "31": {
     "id": 31,
@@ -1431,7 +1431,7 @@
   "32": {
     "id": 32,
     "order": "30.00000000000000000000",
-    "doc_title": "Mayr I Typoskript",
+    "doc_title": "Ministerial II Typoskript",
     "bv_id": "bv_doc_id__32",
     "written_date": "7. Februar 1920 (Datum der Übersendung des Entwurfs von Mayr an Seitz)",
     "not_before": "1920-02-07",
@@ -1475,7 +1475,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Ministerial II"
   },
   "33": {
     "id": 33,
@@ -1524,7 +1524,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "UA August"
   },
   "34": {
     "id": 34,
@@ -1622,7 +1622,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Renner"
   },
   "36": {
     "id": 36,
@@ -2945,7 +2945,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "B-VG"
   },
   "63": {
     "id": 63,
@@ -3141,7 +3141,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "CS I"
   },
   "67": {
     "id": 67,
@@ -3190,7 +3190,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": "Mayr I"
   },
   "68": {
     "id": 68,
