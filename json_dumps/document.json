@@ -509,7 +509,7 @@
         "value": "Verfassungstext"
       }
     ],
-    "has_description": "B-VG (Titel des Dokuments: Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz) Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen, 152 Artikel",
+    "has_description": "B-VG (Titel des Dokuments: \"Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz\") Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen, 152 Artikel",
     "has_author": [
       {
         "id": 10,
@@ -607,7 +607,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Nicht identifizierter, undatierter Entwurf, betitelt \"Linzer Entwurf neuer Text\". Gemeint dabei ist folgendes: in der linken Spalte Verweise auf die Dokumentstruktur von Mayr II (=Linzer Entwurf). Restlicher Text modifizierte Variante, unklar was genau??? Unbekannte Variante nach Evidenzexemplar??? Zustand gut, ohne Anmerkungen, 132 Artikel, die aber nicht alle wörtlich ausgeführt werden (siehe am Schluss 126-132)",
+    "has_description": "Nicht identifizierter, undatierter Entwurf, betitelt \"Linzer Entwurf neuer Text\". Gemeint dabei ist folgendes: in der linken Spalte Verweise auf die Dokumentstruktur von Mayr II (=Linzer Entwurf). Restlicher Text modifizierte Variante, unklar was genau??? Unbekannte Variante nach Evidenzexemplar??? Zustand gut, ohne Anmerkungen, 132 Artikel, die aber nicht alle wörtlich ausgeführt werden (siehe am Schluss 126-132). Möglicherweise Vorstufe zu Renner-Mayr",
     "has_author": [
       {
         "id": 11,
@@ -705,7 +705,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Abram (Titel des Dokuments: Antrag des Abgeordneten Abram und Genossen auf Schaffung einer Bundesverfassung für die Republik Österreich) KNV Beilage 904, Zustand gut, am Titelblatt handschriftliche Ergänzungen, 174 Artikel",
+    "has_description": "Abram (Titel des Dokuments: \"Antrag des Abgeordneten Abram und Genossen auf Schaffung einer Bundesverfassung für die Republik Österreich\") KNV Beilage 904, Zustand gut, am Titelblatt handschriftliche Ergänzungen, 174 Artikel",
     "has_author": [
       {
         "id": 13,
@@ -1186,9 +1186,9 @@
   "27": {
     "id": 27,
     "order": "25.00000000000000000000",
-    "doc_title": "Ministerial I Typoskript",
+    "doc_title": "Ministerial II Typoskript",
     "bv_id": "bv_doc_id__27",
-    "written_date": "12. April 1920",
+    "written_date": "12. April 1920 (händisch ergänztes Datum auf dem Deckblatt)",
     "not_before": "1920-04-12",
     "not_after": "1920-04-12",
     "type_of_manifestation": [
@@ -1203,7 +1203,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Ministerial II (Titel des Dokuments: \"Vorgelegter Entwurf 12/4/20\"), Typoskript auf Durchschlagpapier, Papier sehr dünn, Schrift blau. Zustand: mäßig, Papier rissig, teils zerknittert, Stücke fehlen. Wenige handschriftliche Anmerkungen, 167 Artikel",
+    "has_description": "Ministerial II (Titel des Dokuments: \"Vorgelegter Entwurf 12/4/20\"), Typoskript auf Durchschlagpapier, Papier sehr dünn, Schrift blau. Zustand: mäßig, Papier rissig, teils zerknittert, Stücke fehlen. Wenige handschriftliche Anmerkungen, 167 Artikel. Artikel 52-58 (betr. den Bundespräsidenten) nur in einer statt in zwei Textvarianten (Bundespräsident) enthalten, entsprechende Seiten fehlen, es wird jedoch im Text auf sie verwiesen",
     "has_author": [
       {
         "id": 17,
@@ -1230,7 +1230,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Ministerial I"
+    "stemma_label": "Ministerial II"
   },
   "28": {
     "id": 28,
@@ -1399,7 +1399,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "CS I (Titel des Dokuments \"Der deutsche Bundesfreistaat Österreich\"), Sonderdruck, Zustand gut, keine Anmerkungen, 55 Artikel",
+    "has_description": "CS I (Titel des Dokuments: \"Der deutsche Bundesfreistaat Österreich\"), Sonderdruck, Zustand gut, keine Anmerkungen, 55 Artikel",
     "has_author": [
       {
         "id": 12,
@@ -1431,7 +1431,7 @@
   "32": {
     "id": 32,
     "order": "30.00000000000000000000",
-    "doc_title": "Ministerial II Typoskript",
+    "doc_title": "Ministerial I Typoskript",
     "bv_id": "bv_doc_id__32",
     "written_date": "7. Februar 1920 (Datum der Übersendung des Entwurfs von Mayr an Seitz)",
     "not_before": "1920-02-07",
@@ -1448,7 +1448,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Mayr I (Dokument hat keinen Titel), Typoskript, ein Blatt pro Artikel, Zustand gut, zum Teil bei einzelnen Artikeln Streichungen, Markierungen, Anmerkungen, manche Artikel in zwei Varianten vorhanden, 167 Artikel (nach Nummerierung)",
+    "has_description": "Ministerial I (Dokument hat keinen Titel), Typoskript, ein Blatt pro Artikel, Zustand gut, zum Teil bei einzelnen Artikeln Streichungen, Markierungen, Anmerkungen, manche Artikel in zwei Varianten vorhanden, 167 Artikel (nach Nummerierung)",
     "has_author": [
       {
         "id": 7,
@@ -1475,7 +1475,7 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Ministerial II"
+    "stemma_label": "Ministerial I"
   },
   "33": {
     "id": 33,
@@ -2526,7 +2526,7 @@
         "value": "Sitzungsprotokoll"
       }
     ],
-    "has_description": "Protokoll Salzburger Länderkonferenz (\"Stenographische Verhandlungsschrift über die Länderkonferenz in Salzburg am 15., 16. und 17. Februar 1920\"), Druck, Zustand gut, keine Ergänzungen",
+    "has_description": "Protokoll Salzburger Länderkonferenz (Titel des Dokuments: \"Stenographische Verhandlungsschrift über die Länderkonferenz in Salzburg am 15., 16. und 17. Februar 1920\"), Druck, Zustand gut, keine Ergänzungen",
     "has_author": [
       {
         "id": 11,
@@ -2575,7 +2575,7 @@
         "value": "Sitzungsprotokoll"
       }
     ],
-    "has_description": "Protokoll Linzer Länderkonferenz (\"Stenographische Verhandlungsschrift über die Länderkonferenz in Linz am 20., 21., 22. und 23. April 1920\")\n\nTyp: Druck\n\nZustand: gut, keine Anmerkungen",
+    "has_description": "Protokoll Linzer Länderkonferenz (Titel des Dokuments: \"Stenographische Verhandlungsschrift über die Länderkonferenz in Linz am 20., 21., 22. und 23. April 1920\"), Typ: Druck, Zustand: gut, keine Anmerkungen",
     "has_author": [
       {
         "id": 11,
@@ -2918,7 +2918,7 @@
         "value": "Verfassungstext"
       }
     ],
-    "has_description": "B-VG (\"Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz\"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 152 Artikel",
+    "has_description": "B-VG (Titel des Dokuments: \"Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz\"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 152 Artikel",
     "has_author": [
       {
         "id": 10,
@@ -2967,7 +2967,7 @@
         "value": "Stellungnahme zum Verfassungsentwurf"
       }
     ],
-    "has_description": "Bericht VfA (\"Bericht des Verfassungsausschusses über den Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird [Bundes-Verfassungsgesetz]\"), \n\nKNV Beilage 991\n\nTyp: Druck\n\nZustand: gut, keine Anmerkungen",
+    "has_description": "Bericht VfA (Titel des Dokuments: \"Bericht des Verfassungsausschusses über den Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird [Bundes-Verfassungsgesetz]\"), KNV Beilage 991, Typ: Druck, Zustand: gut, keine Anmerkungen",
     "has_author": [
       {
         "id": 5,
@@ -3016,7 +3016,7 @@
         "value": "Verfassungstext"
       }
     ],
-    "has_description": "VfÜG (\"Verfassungsgesetz vom 1. Oktober 1920, Betreffend den Übergang zur bundesstaatlichen Verfassung\"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 43 Paragraphen",
+    "has_description": "VfÜG (Titel des Dokuments: \"Verfassungsgesetz vom 1. Oktober 1920, Betreffend den Übergang zur bundesstaatlichen Verfassung\"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 43 Paragraphen",
     "has_author": [
       {
         "id": 10,
@@ -3065,7 +3065,7 @@
         "value": "Stellungnahme zum Verfassungsentwurf"
       }
     ],
-    "has_description": "Gegenüberstellung der Differenzpunkte CS SD (\"Kurze Gegenüberstellung der wesentlichen Differenzpunkte zwischen den sozialdemokratischen un den christlichsozialen Verfassungsvorschlägen bei der Linzer Länderkonferenz\")\n\nTyp: Lithographie\n\nZustand: gut, keine Anmerkungen.\n\nAnmerkung: offenbar Zwischenstufe zwischen Evidenzexemplar und Renner-Mayr",
+    "has_description": "Gegenüberstellung der Differenzpunkte CS SD (Titel des Dokuments: \"Kurze Gegenüberstellung der wesentlichen Differenzpunkte zwischen den sozialdemokratischen un den christlichsozialen Verfassungsvorschlägen bei der Linzer Länderkonferenz\")\n\nTyp: Lithographie\n\nZustand: gut, keine Anmerkungen.\n\nAnmerkung: offenbar Zwischenstufe zwischen Evidenzexemplar und Renner-Mayr",
     "has_author": [
       {
         "id": 11,
@@ -3114,7 +3114,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "CS I KNV-Beilage (\"Verfassung des deutschen Bundesfreistaates Österreich\"), Typ: Druck, Zustand: gut, keine Ergänzungen, 55 Artikel",
+    "has_description": "CS I KNV-Beilage (Titel des Dokuments: \"Verfassung des deutschen Bundesfreistaates Österreich\"), Typ: Druck, Zustand: gut, keine Ergänzungen, 55 Artikel",
     "has_author": [
       {
         "id": 12,
@@ -3163,7 +3163,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Mayr I (\"Vorentwurf einer Bundesstaatsverfassung\"), Typ: Druck, Zustand: gut, wenige handschriftliche Anmerkungen, 157 Artikel",
+    "has_description": "Mayr I (Titel des Dokuments: \"Vorentwurf einer Bundesstaatsverfassung\"), Typ: Druck, Zustand: gut, wenige handschriftliche Anmerkungen, 157 Artikel",
     "has_author": [
       {
         "id": 7,
@@ -3359,7 +3359,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Ministerialentwurf (wie in Ermacora IV). Typ: Typoskript. Zustand: gut, einige handschriftliche Ergänzungen, Papier leicht verknittert, letzte Seite fehlt. 167 Artikel (jedoch nur Text von 163 Artikeln tatsächlich vorhanden). Artikel 52-58 (betr. den Bundespräsidenten) liegen in zwei Textvarianten vor",
+    "has_description": "Ministerialentwurf II. (Dokument hat keinen Titel) Typ: Typoskript. Zustand: gut, einige handschriftliche Ergänzungen, Papier leicht verknittert, letzte Seite fehlt. 167 Artikel (jedoch nur Text von 163 Artikeln tatsächlich vorhanden). Artikel 52-58 (betr. den Bundespräsidenten) liegen in zwei Textvarianten vor",
     "has_author": [
       {
         "id": 17,
@@ -3408,7 +3408,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Danneberg Textvariante (167 statt 162 ARtikel bei der gedruckten Fassung), auf der Titelseite handschriftliche Notiz \"letzte Fassung vor Linz\".Typ: Typoskript. Zustand: gut, nur letzte Seite stark beshcädigt, Textteile fehlen",
+    "has_description": "Danneberg Textvariante (Dokument hat keinen Titel, 167 statt 162 Artikel bei der gedruckten Fassung), auf der Titelseite handschriftliche Notiz \"letzte Fassung vor Linz\". Typ: Typoskript. Zustand: gut, nur letzte Seite stark beschädigt, Textteile fehlen",
     "has_author": [
       {
         "id": 8,
