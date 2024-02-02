@@ -296,7 +296,7 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "doc_title": "Falser II",
+    "doc_title": "Falser Entwurf II",
     "bv_id": "bv_doc_id__7",
     "written_date": "18. Dezember 1919",
     "not_before": "1919-12-18",
@@ -345,7 +345,7 @@
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "doc_title": "Falser I",
+    "doc_title": "Falser Entwurf I",
     "bv_id": "bv_doc_id__8",
     "written_date": "7. Oktober 1919",
     "not_before": "1919-10-07",
@@ -394,7 +394,7 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "doc_title": "Mayr II",
+    "doc_title": "Mayr Entwurf Druck II",
     "bv_id": "bv_doc_id__9",
     "written_date": "Zwischen dem 18. Februar und dem 10. April 1920",
     "not_before": "1920-02-18",
@@ -443,7 +443,7 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "doc_title": "Rehrl",
+    "doc_title": "Rehrl Entwurf",
     "bv_id": "bv_doc_id__10",
     "written_date": "Im Dezember 1919",
     "not_before": "1919-12-01",
@@ -639,7 +639,7 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "doc_title": "CS II KNV Beilage",
+    "doc_title": "CS Entwurf II KNV Beilage",
     "bv_id": "bv_doc_id__14",
     "written_date": "25. Juni 1920",
     "not_before": "1920-06-25",
@@ -688,7 +688,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "doc_title": "Abram KNV Beilage",
+    "doc_title": "Abram Entwurf KNV Beilage",
     "bv_id": "bv_doc_id__15",
     "written_date": "7. Juli 1920",
     "not_before": "1920-07-07",
@@ -737,7 +737,7 @@
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "doc_title": "Danneberg",
+    "doc_title": "Danneberg Entwurf",
     "bv_id": "bv_doc_id__16",
     "written_date": "Zwischen dem 18. Februar 1920 und dem 20. April 1920",
     "not_before": "1920-02-18",
@@ -786,7 +786,7 @@
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
-    "doc_title": "Evidenzexemplar handschriftlich",
+    "doc_title": "Evidenzexemplar Entwurf handschriftlich",
     "bv_id": "bv_doc_id__18",
     "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
     "not_before": "1920-04-24",
@@ -835,7 +835,7 @@
   "19": {
     "id": 19,
     "order": "18.00000000000000000000",
-    "doc_title": "Großdeutsch Sonderdruck",
+    "doc_title": "Großdeutsch Entwurf Sonderdruck",
     "bv_id": "bv_doc_id__19",
     "written_date": "18. Mai 1920 (aber vor dem 20. April 1920 entstanden)",
     "not_before": "1920-04-20",
@@ -937,7 +937,7 @@
   "21": {
     "id": 21,
     "order": "20.00000000000000000000",
-    "doc_title": "UA 15.September 1920",
+    "doc_title": "UA Entwurf 15.September 1920",
     "bv_id": "bv_doc_id__21",
     "written_date": "15. September 1920",
     "not_before": "1920-09-15",
@@ -986,7 +986,7 @@
   "22": {
     "id": 22,
     "order": "21.00000000000000000000",
-    "doc_title": "UA 23. September 1920",
+    "doc_title": "UA Entwurf 23. September 1920",
     "bv_id": "bv_doc_id__22",
     "written_date": "23. September 1920",
     "not_before": "1920-09-23",
@@ -1035,7 +1035,7 @@
   "23": {
     "id": 23,
     "order": "22.00000000000000000000",
-    "doc_title": "UA 23. September 1920 Textvariante",
+    "doc_title": "UA Entwurf 23. September 1920 Textvariante",
     "bv_id": "bv_doc_id__23",
     "written_date": "23. September 1920",
     "not_before": "1920-09-23",
@@ -1084,7 +1084,7 @@
   "24": {
     "id": 24,
     "order": "23.00000000000000000000",
-    "doc_title": "UA 26. August 1920 Textvariante",
+    "doc_title": "UA Entwurf 26. August 1920 Textvariante",
     "bv_id": "bv_doc_id__24",
     "written_date": "26. August 1920",
     "not_before": "1920-08-26",
@@ -1235,7 +1235,7 @@
   "28": {
     "id": 28,
     "order": "26.00000000000000000000",
-    "doc_title": "Großdeutsch KNV Beilage",
+    "doc_title": "Großdeutsch Entwurf KNV Beilage",
     "bv_id": "bv_doc_id__28",
     "written_date": "18. Mai 1920 (aber vor dem 20. April 1920 entstanden)",
     "not_before": "1920-04-20",
@@ -1284,7 +1284,7 @@
   "29": {
     "id": 29,
     "order": "27.00000000000000000000",
-    "doc_title": "Mayr I Druck",
+    "doc_title": "Mayr Entwurf Druck I",
     "bv_id": "bv_doc_id__29",
     "written_date": "Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in der Rechspost)",
     "not_before": "1920-01-25",
@@ -1333,7 +1333,7 @@
   "30": {
     "id": 30,
     "order": "28.00000000000000000000",
-    "doc_title": "Evidenzexemplar maschinschriftlich",
+    "doc_title": "Evidenzexemplar Entwurf maschinschriftlich",
     "bv_id": "bv_doc_id__30",
     "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
     "not_before": "1920-04-24",
@@ -1382,7 +1382,7 @@
   "31": {
     "id": 31,
     "order": "29.00000000000000000000",
-    "doc_title": "CS I Sonderdruck",
+    "doc_title": "CS Entwurf I Sonderdruck",
     "bv_id": "bv_doc_id__31",
     "written_date": "14. Mai 1919 (Einbringung in der konstituierenden Nationalversammlung)",
     "not_before": "1919-05-14",
@@ -1480,7 +1480,7 @@
   "33": {
     "id": 33,
     "order": "31.00000000000000000000",
-    "doc_title": "UA 26. August 1920",
+    "doc_title": "UA Entwurf 26. August 1920",
     "bv_id": "bv_doc_id__33",
     "written_date": "26. August 1920",
     "not_before": "1920-08-26",
@@ -1529,7 +1529,7 @@
   "34": {
     "id": 34,
     "order": "32.00000000000000000000",
-    "doc_title": "UA 1. September 1920",
+    "doc_title": "UA Entwurf 1. September 1920",
     "bv_id": "bv_doc_id__34",
     "written_date": "1. September 1920",
     "not_before": "1920-09-01",
@@ -1627,7 +1627,7 @@
   "36": {
     "id": 36,
     "order": "35.00000000000000000000",
-    "doc_title": "Protokoll UA 11. Juli 1920",
+    "doc_title": "Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920",
     "bv_id": "bv_doc_id__36",
     "written_date": "11. Juli 1920",
     "not_before": "1920-07-11",
@@ -1676,7 +1676,7 @@
   "37": {
     "id": 37,
     "order": "36.00000000000000000000",
-    "doc_title": "Protokoll UA 12. Juli 1920",
+    "doc_title": "Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920",
     "bv_id": "bv_doc_id__37",
     "written_date": "12. Juli 1920",
     "not_before": "1920-07-12",
@@ -1725,7 +1725,7 @@
   "38": {
     "id": 38,
     "order": "37.00000000000000000000",
-    "doc_title": "Protokoll UA 20. Juli 1920",
+    "doc_title": "Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920",
     "bv_id": "bv_doc_id__38",
     "written_date": "20. Juli 1920",
     "not_before": "1920-07-20",
@@ -1774,7 +1774,7 @@
   "39": {
     "id": 39,
     "order": "38.00000000000000000000",
-    "doc_title": "Protokoll UA 22. Juli 1920",
+    "doc_title": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920",
     "bv_id": "bv_doc_id__39",
     "written_date": "22. Juli 1920",
     "not_before": "1920-07-22",
@@ -1823,7 +1823,7 @@
   "40": {
     "id": 40,
     "order": "39.00000000000000000000",
-    "doc_title": "Protokoll UA 17. August 1920",
+    "doc_title": "Protokoll der 5. Sitzung des Subkomitees des Verfassungsausschusses vom 17. August 1920",
     "bv_id": "bv_doc_id__40",
     "written_date": "17. August 1920",
     "not_before": "1920-08-17",
@@ -1872,7 +1872,7 @@
   "41": {
     "id": 41,
     "order": "40.00000000000000000000",
-    "doc_title": "Protokoll UA 18. August 1920",
+    "doc_title": "Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920",
     "bv_id": "bv_doc_id__41",
     "written_date": "18. August 1920",
     "not_before": "1920-08-18",
@@ -1921,7 +1921,7 @@
   "42": {
     "id": 42,
     "order": "41.00000000000000000000",
-    "doc_title": "Protokoll UA 20. August 1920",
+    "doc_title": "Protokoll der 7. Sitzung des Subkomitees des Verfassungsausschusses vom 20. August 1920",
     "bv_id": "bv_doc_id__42",
     "written_date": "20. August 1920",
     "not_before": "1920-08-20",
@@ -1970,7 +1970,7 @@
   "43": {
     "id": 43,
     "order": "42.00000000000000000000",
-    "doc_title": "Protokoll UA 21. August 1920",
+    "doc_title": "Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920",
     "bv_id": "bv_doc_id__43",
     "written_date": "21. August 1920",
     "not_before": "1920-08-21",
@@ -2019,7 +2019,7 @@
   "44": {
     "id": 44,
     "order": "43.00000000000000000000",
-    "doc_title": "Protokoll UA 23. August 1920",
+    "doc_title": "Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920",
     "bv_id": "bv_doc_id__44",
     "written_date": "23. August 1920",
     "not_before": "1920-08-23",
@@ -2068,7 +2068,7 @@
   "45": {
     "id": 45,
     "order": "44.00000000000000000000",
-    "doc_title": "Protokoll UA 24. August 1920",
+    "doc_title": "Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920",
     "bv_id": "bv_doc_id__45",
     "written_date": "24. August 1920",
     "not_before": "1920-08-24",
@@ -2117,7 +2117,7 @@
   "46": {
     "id": 46,
     "order": "45.00000000000000000000",
-    "doc_title": "Protokoll UA 25. August 1920",
+    "doc_title": "Protokoll der 11. Sitzung des Subkomitees des Verfassungsausschusses vom 25. August 1920",
     "bv_id": "bv_doc_id__46",
     "written_date": "25. August 1920",
     "not_before": "1920-08-25",
@@ -2215,7 +2215,7 @@
   "48": {
     "id": 48,
     "order": "47.00000000000000000000",
-    "doc_title": "Protokoll UA 31. August 1920",
+    "doc_title": "Protokoll der 13. Sitzung des Subkomitees des Verfassungsausschusses vom 31. August 1920",
     "bv_id": "bv_doc_id__48",
     "written_date": "31. August 1920",
     "not_before": "1920-08-31",
@@ -2264,7 +2264,7 @@
   "49": {
     "id": 49,
     "order": "48.00000000000000000000",
-    "doc_title": "Protokoll UA 13. September 1920",
+    "doc_title": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920",
     "bv_id": "bv_doc_id__49",
     "written_date": "13. September 1920",
     "not_before": "1920-09-13",
@@ -2313,7 +2313,7 @@
   "50": {
     "id": 50,
     "order": "49.00000000000000000000",
-    "doc_title": "Protokoll UA 14. September 1920",
+    "doc_title": "Protokoll der 15. Sitzung des Subkomitees des Verfassungsausschusses vom 14. September 1920",
     "bv_id": "bv_doc_id__50",
     "written_date": "14. September 1920",
     "not_before": "1920-09-14",
@@ -2362,7 +2362,7 @@
   "51": {
     "id": 51,
     "order": "50.00000000000000000000",
-    "doc_title": "Protokoll UA 15. September 1920",
+    "doc_title": "Protokoll der 16. Sitzung des Subkomitees des Verfassungsausschusses vom 15. September 1920",
     "bv_id": "bv_doc_id__51",
     "written_date": "15. September 1920",
     "not_before": "1920-09-15",
@@ -2411,7 +2411,7 @@
   "52": {
     "id": 52,
     "order": "51.00000000000000000000",
-    "doc_title": "Protokoll UA 22. September 1920",
+    "doc_title": "Protokoll der 17. Sitzung des Subkomitees des Verfassungsausschusses vom 22. September 1920",
     "bv_id": "bv_doc_id__52",
     "written_date": "22. September 1920",
     "not_before": "1920-09-22",
@@ -2460,7 +2460,7 @@
   "53": {
     "id": 53,
     "order": "52.00000000000000000000",
-    "doc_title": "Protokoll UA 23. September 1920",
+    "doc_title": "Protokoll der 18. Sitzung des Subkomitees des Verfassungsausschusses vom 23. September 1920",
     "bv_id": "bv_doc_id__53",
     "written_date": "23. September 1920",
     "not_before": "1920-09-23",
@@ -2509,7 +2509,7 @@
   "54": {
     "id": 54,
     "order": "53.00000000000000000000",
-    "doc_title": "Protokoll Länderkonferenz Salzburg",
+    "doc_title": "Protokoll Salzburger Länderkonferenz 1920",
     "bv_id": "bv_doc_id__54",
     "written_date": "Zwischen 15. und 17. Februar 1920",
     "not_before": "1920-02-15",
@@ -2558,7 +2558,7 @@
   "55": {
     "id": 55,
     "order": "54.00000000000000000000",
-    "doc_title": "Protokoll Länderkonferenz Linz",
+    "doc_title": "Protokoll Linzer Länderkonferenz 1920",
     "bv_id": "bv_doc_id__55",
     "written_date": "Zwischen 20. und 23. April 1920",
     "not_before": "1920-04-20",
@@ -3146,7 +3146,7 @@
   "67": {
     "id": 67,
     "order": "66.00000000000000000000",
-    "doc_title": "Mayr I Druck saubere Fassung",
+    "doc_title": "Mayr Entwurf Druck I saubere Fassung",
     "bv_id": "bv_doc_id__67",
     "written_date": "Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in der Rechspost)",
     "not_before": "1920-01-25",
@@ -3293,7 +3293,7 @@
   "70": {
     "id": 70,
     "order": "69.00000000000000000000",
-    "doc_title": "Bericht 5. Länderkonferenz",
+    "doc_title": "Bericht 5. Länderkonferenz 20. Mai 1919",
     "bv_id": "bv_doc_id__70",
     "written_date": "20. Mai 1919",
     "not_before": "1919-05-20",
