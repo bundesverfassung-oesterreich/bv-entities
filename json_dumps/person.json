@@ -189,7 +189,7 @@
       },
       {
         "id": 39,
-        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
+        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
       },
       {
         "id": 40,
@@ -221,7 +221,7 @@
       },
       {
         "id": 47,
-        "value": "Protokoll UA 26. August 1920"
+        "value": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920"
       },
       {
         "id": 48,
@@ -229,7 +229,7 @@
       },
       {
         "id": 49,
-        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
+        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
       },
       {
         "id": 50,
@@ -277,7 +277,7 @@
       },
       {
         "id": 61,
-        "value": "Protokoll 5. Länderkonferenz"
+        "value": "Protokoll 7. Länderkonferenz"
       },
       {
         "id": 62,
@@ -322,6 +322,10 @@
       {
         "id": 72,
         "value": "Danneberg Typoskript aus VGA Archiv"
+      },
+      {
+        "id": 73,
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
       }
     ],
     "project_data": [],
@@ -555,7 +559,7 @@
       },
       {
         "id": 39,
-        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
+        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
       },
       {
         "id": 40,
@@ -587,7 +591,7 @@
       },
       {
         "id": 47,
-        "value": "Protokoll UA 26. August 1920"
+        "value": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920"
       },
       {
         "id": 48,
@@ -595,7 +599,7 @@
       },
       {
         "id": 49,
-        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
+        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
       },
       {
         "id": 50,
@@ -643,7 +647,7 @@
       },
       {
         "id": 61,
-        "value": "Protokoll 5. Länderkonferenz"
+        "value": "Protokoll 7. Länderkonferenz"
       },
       {
         "id": 62,
@@ -688,6 +692,10 @@
       {
         "id": 72,
         "value": "Danneberg Typoskript aus VGA Archiv"
+      },
+      {
+        "id": 73,
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
       }
     ],
     "project_data": [],
@@ -855,7 +863,7 @@
       },
       {
         "id": 61,
-        "value": "Protokoll 5. Länderkonferenz"
+        "value": "Protokoll 7. Länderkonferenz"
       },
       {
         "id": 65,
@@ -1013,7 +1021,7 @@
       },
       {
         "id": 39,
-        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
+        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
       },
       {
         "id": 40,
@@ -1045,7 +1053,7 @@
       },
       {
         "id": 47,
-        "value": "Protokoll UA 26. August 1920"
+        "value": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920"
       },
       {
         "id": 48,
@@ -1053,7 +1061,7 @@
       },
       {
         "id": 49,
-        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
+        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
       },
       {
         "id": 50,
@@ -1096,6 +1104,22 @@
       {
         "id": 71,
         "value": "Ministerialentwurf Typoskript aus VGA Archiv"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Staatsamt für Justiz",
+    "bv_id": "bv_person_id__18",
+    "gnd": "",
+    "document": [
+      {
+        "id": 73,
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
       }
     ],
     "document - has_digitizing_agent": [],

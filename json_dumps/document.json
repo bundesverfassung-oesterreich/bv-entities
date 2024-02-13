@@ -1774,7 +1774,7 @@
   "39": {
     "id": 39,
     "order": "38.00000000000000000000",
-    "doc_title": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920",
+    "doc_title": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920",
     "bv_id": "bv_doc_id__39",
     "written_date": "22. Juli 1920",
     "not_before": "1920-07-22",
@@ -2166,7 +2166,7 @@
   "47": {
     "id": 47,
     "order": "46.00000000000000000000",
-    "doc_title": "Protokoll UA 26. August 1920",
+    "doc_title": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920",
     "bv_id": "bv_doc_id__47",
     "written_date": "26. August 1920",
     "not_before": "1920-08-26",
@@ -2183,7 +2183,7 @@
         "value": "Sitzungsprotokoll"
       }
     ],
-    "has_description": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 2. August 1920,  Lithographie, Zustand gut, ohne Anmerkungen",
+    "has_description": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920,  Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
@@ -2264,7 +2264,7 @@
   "49": {
     "id": 49,
     "order": "48.00000000000000000000",
-    "doc_title": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920",
+    "doc_title": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920",
     "bv_id": "bv_doc_id__49",
     "written_date": "13. September 1920",
     "not_before": "1920-09-13",
@@ -2852,7 +2852,7 @@
   "61": {
     "id": 61,
     "order": "60.00000000000000000000",
-    "doc_title": "Protokoll 5. Länderkonferenz",
+    "doc_title": "Protokoll 7. Länderkonferenz",
     "bv_id": "bv_doc_id__61",
     "written_date": "12. bis 13. Oktober 1919",
     "not_before": "1919-10-12",
@@ -3408,7 +3408,7 @@
         "value": "Verfassungsentwurf"
       }
     ],
-    "has_description": "Danneberg Textvariante (Dokument hat keinen Titel, 167 statt 162 Artikel bei der gedruckten Fassung), auf der Titelseite handschriftliche Notiz \"letzte Fassung vor Linz\". Typ: Typoskript. Zustand: gut, nur letzte Seite stark beschädigt, Textteile fehlen",
+    "has_description": "Danneberg Textvariante (Dokument hat keinen Titel, 163 statt 162 Artikel bei der gedruckten Fassung), auf der Titelseite handschriftliche Notiz \"letzte Fassung vor Linz\". Typ: Typoskript. Zustand: gut",
     "has_author": [
       {
         "id": 8,
@@ -3436,5 +3436,74 @@
       }
     ],
     "stemma_label": null
+  },
+  "73": {
+    "id": 73,
+    "order": "72.00000000000000000000",
+    "doc_title": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919",
+    "bv_id": "bv_doc_id__73",
+    "written_date": "14. Oktober 1919",
+    "not_before": "1919-10-14",
+    "not_after": "1919-10-14",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der zwischenamtlichen Sitzung am 11. Oktober 1919, aufgenommen von dem zur Sitzung entsendeten Vertreter des Staatssekrätariats für Justiz. Typ: Typoskript. Zustand: gut, wenige handschritliche Anmerkungen",
+    "has_author": [
+      {
+        "id": 18,
+        "value": "Staatsamt für Justiz"
+      }
+    ],
+    "shelfmark": "AVA, JM I-VI-1 Kt 1816",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C"
+      }
+    ],
+    "stemma_label": ""
+  },
+  "74": {
+    "id": 74,
+    "order": "73.00000000000000000000",
+    "doc_title": "",
+    "bv_id": "bv_doc_id__74",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [],
+    "data_set": [],
+    "stemma_label": ""
   }
 }

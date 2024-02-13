@@ -197,7 +197,7 @@
       },
       {
         "id": 39,
-        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
+        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
       },
       {
         "id": 40,
@@ -229,7 +229,7 @@
       },
       {
         "id": 47,
-        "value": "Protokoll UA 26. August 1920"
+        "value": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920"
       },
       {
         "id": 48,
@@ -237,7 +237,7 @@
       },
       {
         "id": 49,
-        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
+        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
       },
       {
         "id": 50,
@@ -285,7 +285,7 @@
       },
       {
         "id": 61,
-        "value": "Protokoll 5. Länderkonferenz"
+        "value": "Protokoll 7. Länderkonferenz"
       },
       {
         "id": 65,
@@ -300,9 +300,14 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "",
+    "name": "Datenset C",
     "bv_id": "bv_data_set_id__3",
-    "has_description": "",
-    "document": []
+    "has_description": "Archivdokumente zur Entstehung des B-VG",
+    "document": [
+      {
+        "id": 73,
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
+      }
+    ]
   }
 }
