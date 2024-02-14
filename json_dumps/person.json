@@ -326,6 +326,22 @@
       {
         "id": 73,
         "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
+      },
+      {
+        "id": 74,
+        "value": "Protokoll Zwischenamtliche Sitzung 22. November 1919"
+      },
+      {
+        "id": 75,
+        "value": "Protokoll Zwischenamtliche Sitzung 31. Oktober 1919"
+      },
+      {
+        "id": 76,
+        "value": "Protokoll Zwischenamtliche Sitzung 13 November 1919"
+      },
+      {
+        "id": 77,
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)"
       }
     ],
     "project_data": [],
@@ -696,6 +712,22 @@
       {
         "id": 73,
         "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
+      },
+      {
+        "id": 74,
+        "value": "Protokoll Zwischenamtliche Sitzung 22. November 1919"
+      },
+      {
+        "id": 75,
+        "value": "Protokoll Zwischenamtliche Sitzung 31. Oktober 1919"
+      },
+      {
+        "id": 76,
+        "value": "Protokoll Zwischenamtliche Sitzung 13 November 1919"
+      },
+      {
+        "id": 77,
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)"
       }
     ],
     "project_data": [],
@@ -1120,6 +1152,34 @@
       {
         "id": 73,
         "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
+      },
+      {
+        "id": 74,
+        "value": "Protokoll Zwischenamtliche Sitzung 22. November 1919"
+      },
+      {
+        "id": 75,
+        "value": "Protokoll Zwischenamtliche Sitzung 31. Oktober 1919"
+      }
+    ],
+    "document - has_digitizing_agent": [],
+    "project_data": [],
+    "person_type": []
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Staatskanzlei",
+    "bv_id": "bv_person_id__19",
+    "gnd": "",
+    "document": [
+      {
+        "id": 76,
+        "value": "Protokoll Zwischenamtliche Sitzung 13 November 1919"
+      },
+      {
+        "id": 77,
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)"
       }
     ],
     "document - has_digitizing_agent": [],

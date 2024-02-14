@@ -3368,7 +3368,7 @@
     ],
     "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
     "goobi_id": "14665",
-    "transkribus_col_id": null,
+    "transkribus_col_id": "195363",
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
@@ -3417,7 +3417,7 @@
     ],
     "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
     "goobi_id": "14666",
-    "transkribus_col_id": null,
+    "transkribus_col_id": "195363",
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
@@ -3465,8 +3465,8 @@
       }
     ],
     "shelfmark": "AVA, JM I-VI-1 Kt 1816",
-    "goobi_id": "",
-    "transkribus_col_id": null,
+    "goobi_id": "17665",
+    "transkribus_col_id": "196429",
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
@@ -3489,21 +3489,197 @@
   "74": {
     "id": 74,
     "order": "73.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Protokoll Zwischenamtliche Sitzung 22. November 1919",
     "bv_id": "bv_doc_id__74",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
-    "goobi_id": "",
-    "transkribus_col_id": null,
+    "written_date": "4. Dezember 1919",
+    "not_before": "1919-12-04",
+    "not_after": "1919-12-04",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der zwischenamtlichen Sitzung am 22. November 1919, aufgenommen von dem zur Sitzung entsendeten Vertreter des Justizministeriums. Einladung zur Sitzung liegt bei. Typ: Typoskript, wenige handschriftliche Ergänzungen",
+    "has_author": [
+      {
+        "id": 18,
+        "value": "Staatsamt für Justiz"
+      }
+    ],
+    "shelfmark": "AVA, JM I-VI-1 Kt 1816",
+    "goobi_id": "17666",
+    "transkribus_col_id": "196429",
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": [],
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C"
+      }
+    ],
+    "stemma_label": ""
+  },
+  "75": {
+    "id": 75,
+    "order": "74.00000000000000000000",
+    "doc_title": "Protokoll Zwischenamtliche Sitzung 31. Oktober 1919",
+    "bv_id": "bv_doc_id__75",
+    "written_date": "31. Oktober 1919",
+    "not_before": "1919-10-31",
+    "not_after": "1919-10-31",
+    "type_of_manifestation": [
+      {
+        "id": 5,
+        "value": "Manuskript bestehend aus Handschrift und Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der zwischenamtliche Sitzung am 31. Oktober 1919, aufgenommen von dem zur Sitzung entsendeten Vertreter des Justizministeriums. Protokoll handschriftlich auf die Einladung zu der Konferenz niedergeschriben. Typ: Typoskript mit umfangreichen handschriftlichen Ergänzungen",
+    "has_author": [
+      {
+        "id": 18,
+        "value": "Staatsamt für Justiz"
+      }
+    ],
+    "shelfmark": "AVA, JM I-VI-1 Kt 1816",
+    "goobi_id": "17667",
+    "transkribus_col_id": "196429",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C"
+      }
+    ],
+    "stemma_label": ""
+  },
+  "76": {
+    "id": 76,
+    "order": "75.00000000000000000000",
+    "doc_title": "Protokoll Zwischenamtliche Sitzung 13 November 1919",
+    "bv_id": "bv_doc_id__76",
+    "written_date": "5. Dezember 1919",
+    "not_before": "1919-12-05",
+    "not_after": "1919-12-05",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der zwischenamtliche Sitzung 13 November 1919, aufgenommen von der Staatskanzlei. Typ: Typoskript, wenige handschriftliche Ergänzungen",
+    "has_author": [
+      {
+        "id": 19,
+        "value": "Staatskanzlei"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
+    "goobi_id": "17668",
+    "transkribus_col_id": "196429",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C"
+      }
+    ],
+    "stemma_label": ""
+  },
+  "77": {
+    "id": 77,
+    "order": "76.00000000000000000000",
+    "doc_title": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)",
+    "bv_id": "bv_doc_id__77",
+    "written_date": "24. Oktober 1919",
+    "not_before": "1919-10-24",
+    "not_after": "1919-10-24",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll"
+      }
+    ],
+    "has_description": "Protokoll der zwischenamtliche Sitzung vom 11. Oktober 1919 (Fassung Staatskanzlei) inkl. Präsenzliste. Typ: Typoskript mit wenigen Anmerkungen, Anwesenheitsliste handschriftlich",
+    "has_author": [
+      {
+        "id": 19,
+        "value": "Staatskanzlei"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
+    "goobi_id": "17669",
+    "transkribus_col_id": "196429",
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C"
+      }
+    ],
     "stemma_label": ""
   }
 }
