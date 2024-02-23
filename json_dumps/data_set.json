@@ -174,7 +174,8 @@
         "id": 72,
         "value": "Danneberg Typoskript aus VGA Archiv"
       }
-    ]
+    ],
+    "transkribus_collection_id": "195363"
   },
   "2": {
     "id": 2,
@@ -295,7 +296,8 @@
         "id": 70,
         "value": "Bericht 5. Länderkonferenz 20. Mai 1919"
       }
-    ]
+    ],
+    "transkribus_collection_id": "196428"
   },
   "3": {
     "id": 3,
@@ -324,6 +326,7 @@
         "id": 77,
         "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)"
       }
-    ]
+    ],
+    "transkribus_collection_id": "196429"
   }
 }
