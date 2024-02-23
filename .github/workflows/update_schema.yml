@@ -1,0 +1,33 @@
+name: update xml schema
+on:
+  workflow_dispatch:
+jobs:
+  download:
+    name: dump baserow and update xml schema
+    runs-on: ubuntu-latest
+    env:
+      BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
+      BASEROW_USER: ${{secrets.BASEROW_USER}}
+      BASEROW_PW: ${{secrets.BASEROW_PW}}
+      GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v3
+      - name: Install Python Packages
+        run: |
+          pip install -r requirements.txt
+      - name: dump the data
+        run: |
+          python dump_data.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Data update from Baserow
+      - name: trigger schema update
+        run: |
+          status=$(curl --request POST \
+          --url 'https://api.github.com/repos/bundesverfassung-oesterreich/bv-schema-framework/dispatches' \
+          --header "authorization: token $GITHUB_USER_TOKEN" \
+          --data '{"event_type": "updating schema from baserow types, triggered by entities repo"}')
+          if [ -n "$status" ]; then  exit 1; fi
+          echo "Seems like the schema is being updated."
