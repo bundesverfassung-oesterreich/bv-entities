@@ -1,0 +1,30 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "Name": "Sophia Kury",
+    "shorthand": "#s_kury",
+    "Aktiv": false
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "Name": "Moritz Huber",
+    "shorthand": "#m_huber",
+    "Aktiv": false
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "Nora Zügel",
+    "shorthand": "#n_zügel",
+    "Aktiv": false
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "Carl Friedrich Haak",
+    "shorthand": "#cfh",
+    "Aktiv": false
+  }
+}
