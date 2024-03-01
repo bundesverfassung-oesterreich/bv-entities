@@ -24,6 +24,6 @@ jobs:
         run: |
           python dump_data.py
       - name: Commit data
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Data update from Baserow
