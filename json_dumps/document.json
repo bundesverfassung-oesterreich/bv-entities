@@ -2990,8 +2990,8 @@
     ],
     "data_set": [
       {
-        "id": 1,
-        "value": "Datenset A"
+        "id": 2,
+        "value": "Datenset B"
       }
     ],
     "stemma_label": null
