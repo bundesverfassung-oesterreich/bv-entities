@@ -26,5 +26,12 @@
     "name": "Stellungnahme zum Verfassungsentwurf",
     "has_description": "",
     "bv_id": "bv_doctype_id__4"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Editorisch-rechtswissenschaftlicher Kommentar",
+    "has_description": "nicht für Primärtexte vorgesehen",
+    "bv_id": "bv_doctype_id__5"
   }
 }
