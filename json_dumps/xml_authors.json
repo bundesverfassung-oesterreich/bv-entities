@@ -26,5 +26,12 @@
     "name": "Carl Friedrich Haak",
     "shorthand": "#cfh",
     "Aktiv": false
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Tanja Vögtlin",
+    "shorthand": "#t_voegtlin",
+    "Aktiv": false
   }
 }
