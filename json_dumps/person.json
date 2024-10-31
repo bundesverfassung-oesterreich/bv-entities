@@ -342,6 +342,22 @@
       {
         "id": 77,
         "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)"
+      },
+      {
+        "id": 78,
+        "value": "Fassung Renner (Renner-Mayr saubere Version)"
+      },
+      {
+        "id": 79,
+        "value": "Fassung Mayr (Renner-Mayr saubere Version)"
+      },
+      {
+        "id": 83,
+        "value": "Christlichsoziale Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
+      },
+      {
+        "id": 84,
+        "value": "Sozialdemokratische Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
       }
     ],
     "project_data": [],
@@ -728,6 +744,22 @@
       {
         "id": 77,
         "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)"
+      },
+      {
+        "id": 78,
+        "value": "Fassung Renner (Renner-Mayr saubere Version)"
+      },
+      {
+        "id": 79,
+        "value": "Fassung Mayr (Renner-Mayr saubere Version)"
+      },
+      {
+        "id": 83,
+        "value": "Christlichsoziale Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
+      },
+      {
+        "id": 84,
+        "value": "Sozialdemokratische Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
       }
     ],
     "project_data": [],
@@ -769,6 +801,10 @@
       {
         "id": 67,
         "value": "Mayr Entwurf Druck I saubere Fassung"
+      },
+      {
+        "id": 79,
+        "value": "Fassung Mayr (Renner-Mayr saubere Version)"
       }
     ],
     "document - has_digitizing_agent": [],
@@ -904,6 +940,14 @@
       {
         "id": 70,
         "value": "Bericht 5. Länderkonferenz 20. Mai 1919"
+      },
+      {
+        "id": 83,
+        "value": "Christlichsoziale Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
+      },
+      {
+        "id": 84,
+        "value": "Sozialdemokratische Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
       }
     ],
     "document - has_digitizing_agent": [],
@@ -1002,6 +1046,10 @@
       {
         "id": 35,
         "value": "Renner Entwurf 1918"
+      },
+      {
+        "id": 78,
+        "value": "Fassung Renner (Renner-Mayr saubere Version)"
       }
     ],
     "document - has_digitizing_agent": [],

@@ -169,6 +169,22 @@
       {
         "id": 72,
         "value": "Danneberg Typoskript aus VGA Archiv"
+      },
+      {
+        "id": 78,
+        "value": "Fassung Renner (Renner-Mayr saubere Version)"
+      },
+      {
+        "id": 79,
+        "value": "Fassung Mayr (Renner-Mayr saubere Version)"
+      },
+      {
+        "id": 83,
+        "value": "Christlichsoziale Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
+      },
+      {
+        "id": 84,
+        "value": "Sozialdemokratische Fassung (Evidenzexemplar Entwurf maschinschriftlich)"
       }
     ],
     "transkribus_collection_id": "195363"

@@ -46,7 +46,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Kelsen I"
+    "stemma_label": "Kelsen I",
+    "constituded from": []
   },
   "2": {
     "id": 2,
@@ -95,7 +96,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Kelsen II"
+    "stemma_label": "Kelsen II",
+    "constituded from": []
   },
   "3": {
     "id": 3,
@@ -144,7 +146,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Kelsen III"
+    "stemma_label": "Kelsen III",
+    "constituded from": []
   },
   "4": {
     "id": 4,
@@ -193,7 +196,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Kelsen IV"
+    "stemma_label": "Kelsen IV",
+    "constituded from": []
   },
   "5": {
     "id": 5,
@@ -242,7 +246,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Kelsen V"
+    "stemma_label": "Kelsen V",
+    "constituded from": []
   },
   "6": {
     "id": 6,
@@ -291,7 +296,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Kelsen VI"
+    "stemma_label": "Kelsen VI",
+    "constituded from": []
   },
   "7": {
     "id": 7,
@@ -340,7 +346,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Falser II"
+    "stemma_label": "Falser II",
+    "constituded from": []
   },
   "8": {
     "id": 8,
@@ -389,7 +396,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Falser I"
+    "stemma_label": "Falser I",
+    "constituded from": []
   },
   "9": {
     "id": 9,
@@ -438,7 +446,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Mayr II"
+    "stemma_label": "Mayr II",
+    "constituded from": []
   },
   "10": {
     "id": 10,
@@ -487,7 +496,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Rehrl"
+    "stemma_label": "Rehrl",
+    "constituded from": []
   },
   "11": {
     "id": 11,
@@ -536,7 +546,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "12": {
     "id": 12,
@@ -585,7 +596,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "VfA Entwurf"
+    "stemma_label": "VfA Entwurf",
+    "constituded from": []
   },
   "13": {
     "id": 13,
@@ -634,7 +646,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "14": {
     "id": 14,
@@ -683,7 +696,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "CS II"
+    "stemma_label": "CS II",
+    "constituded from": []
   },
   "15": {
     "id": 15,
@@ -732,7 +746,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Abram/SD"
+    "stemma_label": "Abram/SD",
+    "constituded from": []
   },
   "16": {
     "id": 16,
@@ -781,7 +796,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Danneberg"
+    "stemma_label": "Danneberg",
+    "constituded from": []
   },
   "18": {
     "id": 18,
@@ -830,7 +846,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "19": {
     "id": 19,
@@ -879,7 +896,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "20": {
     "id": 20,
@@ -932,7 +950,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "21": {
     "id": 21,
@@ -981,7 +1000,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "22": {
     "id": 22,
@@ -1030,7 +1050,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "UA September"
+    "stemma_label": "UA September",
+    "constituded from": []
   },
   "23": {
     "id": 23,
@@ -1079,7 +1100,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "24": {
     "id": 24,
@@ -1128,7 +1150,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "26": {
     "id": 26,
@@ -1181,7 +1204,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Renner-Mayr"
+    "stemma_label": "Renner-Mayr",
+    "constituded from": []
   },
   "27": {
     "id": 27,
@@ -1230,7 +1254,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Ministerial II"
+    "stemma_label": "Ministerial II",
+    "constituded from": []
   },
   "28": {
     "id": 28,
@@ -1279,7 +1304,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Großdeutsch"
+    "stemma_label": "Großdeutsch",
+    "constituded from": []
   },
   "29": {
     "id": 29,
@@ -1328,7 +1354,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "30": {
     "id": 30,
@@ -1377,7 +1404,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Evidenzexemplar"
+    "stemma_label": "Evidenzexemplar",
+    "constituded from": []
   },
   "31": {
     "id": 31,
@@ -1426,7 +1454,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "32": {
     "id": 32,
@@ -1475,7 +1504,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Ministerial I"
+    "stemma_label": "Ministerial I",
+    "constituded from": []
   },
   "33": {
     "id": 33,
@@ -1524,7 +1554,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "UA August"
+    "stemma_label": "UA August",
+    "constituded from": []
   },
   "34": {
     "id": 34,
@@ -1573,7 +1604,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "35": {
     "id": 35,
@@ -1622,7 +1654,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Renner"
+    "stemma_label": "Renner",
+    "constituded from": []
   },
   "36": {
     "id": 36,
@@ -1671,7 +1704,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "37": {
     "id": 37,
@@ -1720,7 +1754,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "38": {
     "id": 38,
@@ -1769,7 +1804,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "39": {
     "id": 39,
@@ -1818,7 +1854,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "40": {
     "id": 40,
@@ -1867,7 +1904,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "41": {
     "id": 41,
@@ -1916,7 +1954,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "42": {
     "id": 42,
@@ -1965,7 +2004,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "43": {
     "id": 43,
@@ -2014,7 +2054,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "44": {
     "id": 44,
@@ -2063,7 +2104,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "45": {
     "id": 45,
@@ -2112,7 +2154,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "46": {
     "id": 46,
@@ -2161,7 +2204,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "47": {
     "id": 47,
@@ -2210,7 +2254,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "48": {
     "id": 48,
@@ -2259,7 +2304,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "49": {
     "id": 49,
@@ -2308,7 +2354,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "50": {
     "id": 50,
@@ -2357,7 +2404,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "51": {
     "id": 51,
@@ -2406,7 +2454,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "52": {
     "id": 52,
@@ -2455,7 +2504,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "53": {
     "id": 53,
@@ -2504,7 +2554,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "54": {
     "id": 54,
@@ -2553,7 +2604,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "55": {
     "id": 55,
@@ -2602,7 +2654,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "56": {
     "id": 56,
@@ -2651,7 +2704,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "57": {
     "id": 57,
@@ -2700,7 +2754,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "58": {
     "id": 58,
@@ -2749,7 +2804,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "59": {
     "id": 59,
@@ -2798,7 +2854,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "60": {
     "id": 60,
@@ -2847,7 +2904,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "61": {
     "id": 61,
@@ -2896,7 +2954,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "62": {
     "id": 62,
@@ -2945,7 +3004,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "B-VG"
+    "stemma_label": "B-VG",
+    "constituded from": []
   },
   "63": {
     "id": 63,
@@ -2994,7 +3054,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "64": {
     "id": 64,
@@ -3043,7 +3104,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "65": {
     "id": 65,
@@ -3092,7 +3154,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "66": {
     "id": 66,
@@ -3141,7 +3204,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "CS I"
+    "stemma_label": "CS I",
+    "constituded from": []
   },
   "67": {
     "id": 67,
@@ -3190,7 +3254,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": "Mayr I"
+    "stemma_label": "Mayr I",
+    "constituded from": []
   },
   "68": {
     "id": 68,
@@ -3239,7 +3304,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "69": {
     "id": 69,
@@ -3288,7 +3354,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "70": {
     "id": 70,
@@ -3337,7 +3404,8 @@
         "value": "Datenset B"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "71": {
     "id": 71,
@@ -3386,7 +3454,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "72": {
     "id": 72,
@@ -3435,7 +3504,8 @@
         "value": "Datenset A"
       }
     ],
-    "stemma_label": null
+    "stemma_label": null,
+    "constituded from": []
   },
   "73": {
     "id": 73,
@@ -3484,7 +3554,8 @@
         "value": "Datenset C"
       }
     ],
-    "stemma_label": ""
+    "stemma_label": "",
+    "constituded from": []
   },
   "74": {
     "id": 74,
@@ -3533,7 +3604,8 @@
         "value": "Datenset C"
       }
     ],
-    "stemma_label": ""
+    "stemma_label": "",
+    "constituded from": []
   },
   "75": {
     "id": 75,
@@ -3582,7 +3654,8 @@
         "value": "Datenset C"
       }
     ],
-    "stemma_label": ""
+    "stemma_label": "",
+    "constituded from": []
   },
   "76": {
     "id": 76,
@@ -3631,7 +3704,8 @@
         "value": "Datenset C"
       }
     ],
-    "stemma_label": ""
+    "stemma_label": "",
+    "constituded from": []
   },
   "77": {
     "id": 77,
@@ -3680,6 +3754,227 @@
         "value": "Datenset C"
       }
     ],
-    "stemma_label": ""
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "78": {
+    "id": 78,
+    "order": "77.00000000000000000000",
+    "doc_title": "Fassung Renner (Renner-Mayr saubere Version)",
+    "bv_id": "bv_doc_id__78",
+    "written_date": "8. Juli 1920 (aber vor dem 7. Juli 1920 entstanden)",
+    "not_before": "1920-05-01",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Fassung Renner, konstituiert aus Renner-Mayr (saubere Version): bv_doc_id__26",
+    "has_author": [
+      {
+        "id": 15,
+        "value": "Renner, Karl"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 10",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [
+      {
+        "id": 26,
+        "value": "Renner-Mayr saubere Version"
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "order": "78.00000000000000000000",
+    "doc_title": "Fassung Mayr (Renner-Mayr saubere Version)",
+    "bv_id": "bv_doc_id__79",
+    "written_date": "8. Juli 1920 (aber vor dem 7. Juli 1920 entstanden)",
+    "not_before": "1920-05-01",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Fassung Mayr, konstituiert aus Renner-Mayr (saubere Version): bv_doc_id__26",
+    "has_author": [
+      {
+        "id": 7,
+        "value": "Mayr, Michael"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 10",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [
+      {
+        "id": 26,
+        "value": "Renner-Mayr saubere Version"
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "order": "80.00000000000000000000",
+    "doc_title": "Christlichsoziale Fassung (Evidenzexemplar Entwurf maschinschriftlich)",
+    "bv_id": "bv_doc_id__83",
+    "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
+    "not_before": "1920-04-24",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Christlichsoziale Fassung (basierend auf Evidenzexemplar Entwurf maschinschriftlich, bv_doc_id__84)",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
+    "goobi_id": "14565",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [
+      {
+        "id": 30,
+        "value": "Evidenzexemplar Entwurf maschinschriftlich"
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "order": "81.00000000000000000000",
+    "doc_title": "Sozialdemokratische Fassung (Evidenzexemplar Entwurf maschinschriftlich)",
+    "bv_id": "bv_doc_id__84",
+    "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
+    "not_before": "1920-04-24",
+    "not_after": "1920-07-08",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Sozialdemokratische Fassung (basierend auf Evidenzexemplar Entwurf maschinschriftlich, bv_doc_id__84)",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
+    "goobi_id": "14565",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [
+      {
+        "id": 30,
+        "value": "Evidenzexemplar Entwurf maschinschriftlich"
+      }
+    ]
   }
 }
