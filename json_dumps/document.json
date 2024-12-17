@@ -3976,5 +3976,55 @@
         "value": "Evidenzexemplar Entwurf maschinschriftlich"
       }
     ]
+  },
+  "85": {
+    "id": 85,
+    "order": "82.00000000000000000000",
+    "doc_title": "Akademikerentwurf Tirol",
+    "bv_id": "bv_doc_id__85",
+    "written_date": "Im Juni 1919",
+    "not_before": "1919-06-01",
+    "not_after": "1919-06-30",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf"
+      }
+    ],
+    "has_description": "Akademikerentwurf Tirol. Titel des Dokuments: \"Verfassung des Bundesstaates Österreich\", 97 Paragraphen, verfasst von der Innsbrucker Akademitervereinigung (laut Tiroler Anzeiger vom 7.7.1919, dort auch veröffentlicht. Zusand gut, keine Ausbesserungen oder Randbemerkungen",
+    "has_author": [
+      {
+        "id": 20,
+        "value": "Akademikervereinigung"
+      }
+    ],
+    "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
+    "goobi_id": "18060",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
   }
 }
