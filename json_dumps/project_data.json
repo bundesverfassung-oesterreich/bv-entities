@@ -8,11 +8,13 @@
     "project_pi_name": [
       {
         "id": 3,
-        "value": "Olechowski, Thomas"
+        "value": "Olechowski, Thomas",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "Konstituierende Nationalversammlung"
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
       }
     ],
     "bv_id": "bv_project__1"

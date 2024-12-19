@@ -8,187 +8,233 @@
     "document": [
       {
         "id": 1,
-        "value": "Kelsen Entwurf I"
+        "value": "Kelsen Entwurf I",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 2,
-        "value": "Kelsen Entwurf II"
+        "value": "Kelsen Entwurf II",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 3,
-        "value": "Kelsen Entwurf III"
+        "value": "Kelsen Entwurf III",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "Kelsen Entwurf IV"
+        "value": "Kelsen Entwurf IV",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "Kelsen Entwurf V"
+        "value": "Kelsen Entwurf V",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Kelsen Entwurf VI"
+        "value": "Kelsen Entwurf VI",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "Falser Entwurf II"
+        "value": "Falser Entwurf II",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "Falser Entwurf I"
+        "value": "Falser Entwurf I",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "Mayr Entwurf Druck II"
+        "value": "Mayr Entwurf Druck II",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "Rehrl Entwurf"
+        "value": "Rehrl Entwurf",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "B-VG Sonderdruck"
+        "value": "B-VG Sonderdruck",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "VfA Entwurf KNV Beilage"
+        "value": "VfA Entwurf KNV Beilage",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "unidentifizierter Entwurf nach Linz"
+        "value": "unidentifizierter Entwurf nach Linz",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 14,
-        "value": "CS Entwurf II KNV Beilage"
+        "value": "CS Entwurf II KNV Beilage",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "Abram Entwurf KNV Beilage"
+        "value": "Abram Entwurf KNV Beilage",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "Danneberg Entwurf"
+        "value": "Danneberg Entwurf",
+        "order": "16.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "Evidenzexemplar Entwurf handschriftlich"
+        "value": "Evidenzexemplar Entwurf handschriftlich",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "Großdeutsch Entwurf Sonderdruck"
+        "value": "Großdeutsch Entwurf Sonderdruck",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "Renner-Mayr mit Einklebungen"
+        "value": "Renner-Mayr mit Einklebungen",
+        "order": "19.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "UA Entwurf 15.September 1920"
+        "value": "UA Entwurf 15.September 1920",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 22,
-        "value": "UA Entwurf 23. September 1920"
+        "value": "UA Entwurf 23. September 1920",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "UA Entwurf 23. September 1920 Textvariante"
+        "value": "UA Entwurf 23. September 1920 Textvariante",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "UA Entwurf 26. August 1920 Textvariante"
+        "value": "UA Entwurf 26. August 1920 Textvariante",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "Renner-Mayr saubere Version"
+        "value": "Renner-Mayr saubere Version",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 27,
-        "value": "Ministerial II Typoskript"
+        "value": "Ministerial II Typoskript",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "Großdeutsch Entwurf KNV Beilage"
+        "value": "Großdeutsch Entwurf KNV Beilage",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "Mayr Entwurf Druck I"
+        "value": "Mayr Entwurf Druck I",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich"
+        "value": "Evidenzexemplar Entwurf maschinschriftlich",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "CS Entwurf I Sonderdruck"
+        "value": "CS Entwurf I Sonderdruck",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 32,
-        "value": "Ministerial I Typoskript"
+        "value": "Ministerial I Typoskript",
+        "order": "30.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "UA Entwurf 26. August 1920"
+        "value": "UA Entwurf 26. August 1920",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "UA Entwurf 1. September 1920"
+        "value": "UA Entwurf 1. September 1920",
+        "order": "32.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "Renner Entwurf 1918"
+        "value": "Renner Entwurf 1918",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 62,
-        "value": "B-VG saubere Variante"
+        "value": "B-VG saubere Variante",
+        "order": "61.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "VfÜG Sonderdruck"
+        "value": "VfÜG Sonderdruck",
+        "order": "63.00000000000000000000"
       },
       {
         "id": 66,
-        "value": "CS I KNV-Beilage"
+        "value": "CS I KNV-Beilage",
+        "order": "65.00000000000000000000"
       },
       {
         "id": 67,
-        "value": "Mayr Entwurf Druck I saubere Fassung"
+        "value": "Mayr Entwurf Druck I saubere Fassung",
+        "order": "66.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "Großdeutsch Sonderdruck Textvariante 1"
+        "value": "Großdeutsch Sonderdruck Textvariante 1",
+        "order": "67.00000000000000000000"
       },
       {
         "id": 69,
-        "value": "Großdeutsch Sonderdruck Textvariante 2"
+        "value": "Großdeutsch Sonderdruck Textvariante 2",
+        "order": "68.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "Ministerialentwurf Typoskript aus VGA Archiv"
+        "value": "Ministerialentwurf Typoskript aus VGA Archiv",
+        "order": "70.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "Danneberg Typoskript aus VGA Archiv"
+        "value": "Danneberg Typoskript aus VGA Archiv",
+        "order": "71.00000000000000000000"
       },
       {
         "id": 78,
-        "value": "Renner-Mayr saubere Version – Fassung Renner"
+        "value": "Renner-Mayr saubere Version – Fassung Renner",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 79,
-        "value": "Renner-Mayr saubere Version – Fassung Mayr"
+        "value": "Renner-Mayr saubere Version – Fassung Mayr",
+        "order": "78.00000000000000000000"
       },
       {
         "id": 83,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich – Christlichsoziale Fassung"
+        "value": "Evidenzexemplar Entwurf maschinschriftlich – Christlichsoziale Fassung",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich – Sozialdemokratische Fassung"
+        "value": "Evidenzexemplar Entwurf maschinschriftlich – Sozialdemokratische Fassung",
+        "order": "81.00000000000000000000"
       },
       {
         "id": 85,
-        "value": "Akademikerentwurf Tirol"
+        "value": "Akademikerentwurf Tirol",
+        "order": "82.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "195363"
@@ -202,119 +248,148 @@
     "document": [
       {
         "id": 36,
-        "value": "Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920"
+        "value": "Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920",
+        "order": "35.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920"
+        "value": "Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920",
+        "order": "36.00000000000000000000"
       },
       {
         "id": 38,
-        "value": "Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920"
+        "value": "Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 39,
-        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920"
+        "value": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 40,
-        "value": "Protokoll der 5. Sitzung des Subkomitees des Verfassungsausschusses vom 17. August 1920"
+        "value": "Protokoll der 5. Sitzung des Subkomitees des Verfassungsausschusses vom 17. August 1920",
+        "order": "39.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920"
+        "value": "Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920",
+        "order": "40.00000000000000000000"
       },
       {
         "id": 42,
-        "value": "Protokoll der 7. Sitzung des Subkomitees des Verfassungsausschusses vom 20. August 1920"
+        "value": "Protokoll der 7. Sitzung des Subkomitees des Verfassungsausschusses vom 20. August 1920",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920"
+        "value": "Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920",
+        "order": "42.00000000000000000000"
       },
       {
         "id": 44,
-        "value": "Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920"
+        "value": "Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 45,
-        "value": "Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920"
+        "value": "Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920",
+        "order": "44.00000000000000000000"
       },
       {
         "id": 46,
-        "value": "Protokoll der 11. Sitzung des Subkomitees des Verfassungsausschusses vom 25. August 1920"
+        "value": "Protokoll der 11. Sitzung des Subkomitees des Verfassungsausschusses vom 25. August 1920",
+        "order": "45.00000000000000000000"
       },
       {
         "id": 47,
-        "value": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920"
+        "value": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920",
+        "order": "46.00000000000000000000"
       },
       {
         "id": 48,
-        "value": "Protokoll der 13. Sitzung des Subkomitees des Verfassungsausschusses vom 31. August 1920"
+        "value": "Protokoll der 13. Sitzung des Subkomitees des Verfassungsausschusses vom 31. August 1920",
+        "order": "47.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920"
+        "value": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920",
+        "order": "48.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "Protokoll der 15. Sitzung des Subkomitees des Verfassungsausschusses vom 14. September 1920"
+        "value": "Protokoll der 15. Sitzung des Subkomitees des Verfassungsausschusses vom 14. September 1920",
+        "order": "49.00000000000000000000"
       },
       {
         "id": 51,
-        "value": "Protokoll der 16. Sitzung des Subkomitees des Verfassungsausschusses vom 15. September 1920"
+        "value": "Protokoll der 16. Sitzung des Subkomitees des Verfassungsausschusses vom 15. September 1920",
+        "order": "50.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "Protokoll der 17. Sitzung des Subkomitees des Verfassungsausschusses vom 22. September 1920"
+        "value": "Protokoll der 17. Sitzung des Subkomitees des Verfassungsausschusses vom 22. September 1920",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 53,
-        "value": "Protokoll der 18. Sitzung des Subkomitees des Verfassungsausschusses vom 23. September 1920"
+        "value": "Protokoll der 18. Sitzung des Subkomitees des Verfassungsausschusses vom 23. September 1920",
+        "order": "52.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "Protokoll Salzburger Länderkonferenz 1920"
+        "value": "Protokoll Salzburger Länderkonferenz 1920",
+        "order": "53.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "Protokoll Linzer Länderkonferenz 1920"
+        "value": "Protokoll Linzer Länderkonferenz 1920",
+        "order": "54.00000000000000000000"
       },
       {
         "id": 56,
-        "value": "Protokoll 1. Länderkonferenz 23. November 1918"
+        "value": "Protokoll 1. Länderkonferenz 23. November 1918",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "Protokoll 2. Länderkonferenz 4. und 5. Jänner 1919"
+        "value": "Protokoll 2. Länderkonferenz 4. und 5. Jänner 1919",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 58,
-        "value": "Protokoll 3. Länderkonferenz"
+        "value": "Protokoll 3. Länderkonferenz",
+        "order": "57.00000000000000000000"
       },
       {
         "id": 59,
-        "value": "Protokoll 4. Länderkonferenz"
+        "value": "Protokoll 4. Länderkonferenz",
+        "order": "58.00000000000000000000"
       },
       {
         "id": 60,
-        "value": "Protokoll 6. Länderkonferenz"
+        "value": "Protokoll 6. Länderkonferenz",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "Protokoll 7. Länderkonferenz"
+        "value": "Protokoll 7. Länderkonferenz",
+        "order": "60.00000000000000000000"
       },
       {
         "id": 63,
-        "value": "Bericht VfA Sonderdruck"
+        "value": "Bericht VfA Sonderdruck",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 65,
-        "value": "Gegenüberstellung der Differenzpunkte CS SD"
+        "value": "Gegenüberstellung der Differenzpunkte CS SD",
+        "order": "64.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "Bericht 5. Länderkonferenz 20. Mai 1919"
+        "value": "Bericht 5. Länderkonferenz 20. Mai 1919",
+        "order": "69.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196428"
@@ -328,23 +403,28 @@
     "document": [
       {
         "id": 73,
-        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919"
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919",
+        "order": "72.00000000000000000000"
       },
       {
         "id": 74,
-        "value": "Protokoll Zwischenamtliche Sitzung 22. November 1919"
+        "value": "Protokoll Zwischenamtliche Sitzung 22. November 1919",
+        "order": "73.00000000000000000000"
       },
       {
         "id": 75,
-        "value": "Protokoll Zwischenamtliche Sitzung 31. Oktober 1919"
+        "value": "Protokoll Zwischenamtliche Sitzung 31. Oktober 1919",
+        "order": "74.00000000000000000000"
       },
       {
         "id": 76,
-        "value": "Protokoll Zwischenamtliche Sitzung 13 November 1919"
+        "value": "Protokoll Zwischenamtliche Sitzung 13 November 1919",
+        "order": "75.00000000000000000000"
       },
       {
         "id": 77,
-        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)"
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)",
+        "order": "76.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196429"

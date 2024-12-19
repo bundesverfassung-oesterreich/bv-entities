@@ -10,20 +10,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Kelsen I (Titel des Dokuments \"Entwurf I\"), Zustand gut, keine Anmerkungen, 126 Artikel",
     "has_author": [
       {
         "id": 1,
-        "value": "Kelsen, Hans"
+        "value": "Kelsen, Hans",
+        "order": "1.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -33,17 +36,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Kelsen I",
@@ -60,20 +66,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Kelsen II (Titel des Dokuments: \"Entwurf II\"), Zustand gut, zahlreiche handschriftliche Ergänzungen und Korrekturen, 170 Artikel",
     "has_author": [
       {
         "id": 1,
-        "value": "Kelsen, Hans"
+        "value": "Kelsen, Hans",
+        "order": "1.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -83,17 +92,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Kelsen II",
@@ -110,20 +122,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Kelsen III (Titel des Dokuments \"Entwurf III\"), Zustand gut, keine Anmerkungen, 161 Artikel",
     "has_author": [
       {
         "id": 1,
-        "value": "Kelsen, Hans"
+        "value": "Kelsen, Hans",
+        "order": "1.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -133,17 +148,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Kelsen III",
@@ -160,20 +178,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Kelsen IV (Titel des Dokuments: \"Entwurf IV\"), Zustand: gut, wenngleich schlechtes Durchschlagpapier, keine Anmerkungen, 131 Artikel",
     "has_author": [
       {
         "id": 1,
-        "value": "Kelsen, Hans"
+        "value": "Kelsen, Hans",
+        "order": "1.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -183,17 +204,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Kelsen IV",
@@ -210,20 +234,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Kelsen V (Titel des Dokuments \"Entwurf V\"), Zustand gut, keine Anmerkungen, 198 Artikel",
     "has_author": [
       {
         "id": 1,
-        "value": "Kelsen, Hans"
+        "value": "Kelsen, Hans",
+        "order": "1.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -233,17 +260,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Kelsen V",
@@ -260,20 +290,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Kelsen VI (Titel des Dokuments \"Entwurf VI\"), Zustand gut, keine Ergänzungen, Artikel teils nicht nummeriert",
     "has_author": [
       {
         "id": 1,
-        "value": "Kelsen, Hans"
+        "value": "Kelsen, Hans",
+        "order": "1.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -283,17 +316,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Kelsen VI",
@@ -310,20 +346,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Falser II (Titel des Dokuments: \"Die Verfassung des Bundesstaates Republik Österreich\"), Zustand gut, wenige Ergänzungen (Hinweis auf fehlenden Artikel bzw. Fehler bei der Zählung), 37 Artikel",
     "has_author": [
       {
         "id": 4,
-        "value": "Falser, Stephan"
+        "value": "Falser, Stephan",
+        "order": "4.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 3.",
@@ -333,17 +372,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Falser II",
@@ -360,20 +402,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Falser I (Titel des Dokuments: \"Die Verfassung des Bundesstaates Österreich\"), Zustand gut, ohne Ergänzungen, 39 Artikel",
     "has_author": [
       {
         "id": 4,
-        "value": "Falser, Stephan"
+        "value": "Falser, Stephan",
+        "order": "4.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 3",
@@ -383,17 +428,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Falser I",
@@ -410,20 +458,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Mayr II (Titel des Dokuments: \"Vorentwurf einer Bundesverfassung, 2. Fassung\"), Zustand sehr gut, keine Anmerkungen, 157 Artikel",
     "has_author": [
       {
         "id": 7,
-        "value": "Mayr, Michael"
+        "value": "Mayr, Michael",
+        "order": "7.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 8b",
@@ -433,17 +484,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Mayr II",
@@ -460,20 +514,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Rehrl (Titel des Dokuments: \"Die Bundesverfassung Österreichs\"), Zustand: mäßig, zahlreiche Unterstreichungen, Anmerkungen in Steno, keine formale Artikelzählung",
     "has_author": [
       {
         "id": 9,
-        "value": "Rehrl, Franz"
+        "value": "Rehrl, Franz",
+        "order": "9.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskenzlei, karton 250, Mappe3.",
@@ -483,17 +540,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Rehrl",
@@ -510,20 +570,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 2,
-        "value": "Verfassungstext"
+        "value": "Verfassungstext",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_description": "B-VG (Titel des Dokuments: \"Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz\") Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen, 152 Artikel",
     "has_author": [
       {
         "id": 10,
-        "value": "Konstituierende Nationalversammlung"
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 16",
@@ -533,17 +596,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -560,20 +626,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "VfA Entwurf (Titel des Dokuments: \"Antrag des Verfassungsausschusses\") KNV Beilage 991, Zustand gut, wenige Anmerkungen, 153 Artikel",
     "has_author": [
       {
         "id": 5,
-        "value": "Verfassungsausschuss"
+        "value": "Verfassungsausschuss",
+        "order": "5.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 16",
@@ -583,17 +652,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "VfA Entwurf",
@@ -610,20 +682,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Nicht identifizierter, undatierter Entwurf, betitelt \"Linzer Entwurf neuer Text\". Gemeint dabei ist folgendes: in der linken Spalte Verweise auf die Dokumentstruktur von Mayr II (=Linzer Entwurf). Restlicher Text modifizierte Variante, unklar was genau??? Unbekannte Variante nach Evidenzexemplar??? Zustand gut, ohne Anmerkungen, 132 Artikel, die aber nicht alle wörtlich ausgeführt werden (siehe am Schluss 126-132). Möglicherweise Vorstufe zu Renner-Mayr",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E 1731 (Nachlass Renner) Mappe 38",
@@ -633,17 +708,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -660,20 +738,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "CS II (Titel des Dokuments: \"Antrag der Abgeordneten Dr. Mayr und Genossen betreffend die Schaffung einer Bundesverfassung für die Republik Österreich\"), KNV Beilage 888, Zustand gut, wenige handschriftliche Anmerkungen, 32 Artikel",
     "has_author": [
       {
         "id": 12,
-        "value": "Christlichsoziale Partei"
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E 1707 (Nachlass Mayr) Mappe 2",
@@ -683,17 +764,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "CS II",
@@ -710,20 +794,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Abram (Titel des Dokuments: \"Antrag des Abgeordneten Abram und Genossen auf Schaffung einer Bundesverfassung für die Republik Österreich\") KNV Beilage 904, Zustand gut, am Titelblatt handschriftliche Ergänzungen, 174 Artikel",
     "has_author": [
       {
         "id": 13,
-        "value": "Abram, Simon"
+        "value": "Abram, Simon",
+        "order": "13.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -733,17 +820,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Abram/SD",
@@ -760,20 +850,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Danneberg (Titel des Dokuments: \"Sozialdemokratischer Entwurf einer Bundesverfassung, April 1920\"), Zustand gut, wenige handschriftliche Ergänzungen und Unterstreichungen, 162 Artikel",
     "has_author": [
       {
         "id": 8,
-        "value": "Danneberg, Robert"
+        "value": "Danneberg, Robert",
+        "order": "8.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -783,17 +876,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Danneberg",
@@ -810,20 +906,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Evidenzexemplar (basierend auf Mayr II -> Titel des Dokuments: \"Zweite Fassung Vorentwurf einer Bundesstaatsverfassung\"). Parteienstandpunkte händisch eingetragen, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift und roter Tinte, 157 Artikel",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -833,17 +932,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -860,20 +962,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Großdeutsch (Titel des Dokuments: \"Entwurf einer österreichischen Verfassung beschlossen von den am 18. und 19. April 1920 in Linz versammelten Vertretern der nationalen Partei- und Landes-Organisationen\"), Sonderdruck, Zustand gut, wenige handschriftliche Ergänzungen, Anstreichungen, 104 Artikel",
     "has_author": [
       {
         "id": 14,
-        "value": "Großdeutsche Volkspartei"
+        "value": "Großdeutsche Volkspartei",
+        "order": "14.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -883,17 +988,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -910,24 +1018,28 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Renner-Mayr (Titel des Dokuments \"Das Ergebnis der Vereinbarungen über die österreichische Bundesverfassung\"), Zustand: gut, zahlreiche handschriftliche Ergänzungen in Bleistift, eingeklebte Texte [Lithographien] mit Textvarianten zu einzelnen Artikeln, 162 Artikel",
     "has_author": [
       {
         "id": 7,
-        "value": "Mayr, Michael"
+        "value": "Mayr, Michael",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "Renner, Karl"
+        "value": "Renner, Karl",
+        "order": "15.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -937,17 +1049,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -964,20 +1079,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "UA 15. September (Titel des Dokuments: \"Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird, Fassung nach dem Stande der Beratungen am 15. September 1920\"), Zustand gut, einige handschriftliche Ergänzungen in Bleistift, 157 Artikel",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -987,17 +1105,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1014,20 +1135,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "UA 23. September (Titel des Dokuments: \"Ergebnis der Beratungen des Unterausschusses des Verfassungsausschusses\"), Zustand gut, einige handschriftliche Ergänzungen, 161 Artikel (wobei einige Artikel im Text als gestrichen vermerkt sind (Artikel XXX fällt aus)",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -1037,17 +1161,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "UA September",
@@ -1064,20 +1191,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "UA 23. September Textvariante (Titel des Dokuments: \"Ergebnis der Beratungen des Unterausschusses des Verfassungsausschusses\"), dabei manche Artikel auf andersformatigen Blättern (Lithographien) eingelegt. Unklar, ob Vorstufe zum Druck oder Textvariante des UA 23. September, Zustand gut, einige handschriftliche Ergänzungen in Bleistift, eingelegte, lithographierten Blätter mit Textvarianten einzelner Artikel oder Passagen, 157 Artikel",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -1087,17 +1217,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1114,20 +1247,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "UA-Entwurf 26. August Textvariante (Titel des Dokuments: \"Entwurf eines Gesetzes, betreffend die Verfassung der Republik Österreich\"), unklar welchen Stand der Bearbeitung im UA das Dokument wiedergibt. Handschriftlich gekennzeichnet mit \"Seipel II\", einliegend ein Blatt in Maschinschrift mit Textvarianten zu den Artikeln 92 und 92a, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift, 157 Artikel",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2",
@@ -1137,17 +1273,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1164,24 +1303,28 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Renner-Mayr (Titel des Dokuments \"Das Ergebnis der Vereinbarungen über die österreichische Bundesverfassung\"), Zustand: gut, keine Ergänzungen, 162 Artikel",
     "has_author": [
       {
         "id": 7,
-        "value": "Mayr, Michael"
+        "value": "Mayr, Michael",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "Renner, Karl"
+        "value": "Renner, Karl",
+        "order": "15.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 10",
@@ -1191,17 +1334,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Renner-Mayr",
@@ -1218,20 +1364,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Ministerial II (Titel des Dokuments: \"Vorgelegter Entwurf 12/4/20\"), Typoskript auf Durchschlagpapier, Papier sehr dünn, Schrift blau. Zustand: mäßig, Papier rissig, teils zerknittert, Stücke fehlen. Wenige handschriftliche Anmerkungen, 167 Artikel. Artikel 52-58 (betr. den Bundespräsidenten) nur in einer statt in zwei Textvarianten (Bundespräsident) enthalten, entsprechende Seiten fehlen, es wird jedoch im Text auf sie verwiesen",
     "has_author": [
       {
         "id": 17,
-        "value": "Staatssekretariat für die Verfasssungs- und Verwaltungsreform"
+        "value": "Staatssekretariat für die Verfasssungs- und Verwaltungsreform",
+        "order": "17.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 10",
@@ -1241,17 +1390,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Ministerial II",
@@ -1268,20 +1420,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Großdeutsch (Titel des Dokuments \"Antrag des Abgeordneten Dinghofer und Genossen betreffend die Grundzüge der österreichischen Verfassung\"), KNV Beilage 842, Zustand: gut, handschriftliche Ergänzung am Titelblatt, 104 Artikel",
     "has_author": [
       {
         "id": 14,
-        "value": "Großdeutsche Volkspartei"
+        "value": "Großdeutsche Volkspartei",
+        "order": "14.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 10",
@@ -1291,17 +1446,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Großdeutsch",
@@ -1318,20 +1476,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Mayr I (Titel des Dokuments \"Vorentwurf einer Bundesstaatsverfassung\"), Zustand: gut, zahlreiche handschriftliche Ergänzungen und Anstreichungen, vermutlich von Seitz, 157 Artikel",
     "has_author": [
       {
         "id": 7,
-        "value": "Mayr, Michael"
+        "value": "Mayr, Michael",
+        "order": "7.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -1341,17 +1502,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1368,20 +1532,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Evidenzexemplar (basierend auf Mayr II -> Titel des Dokuments: \"Zweite Fassung Vorentwurf einer Bundesstaatsverfassung. Mit Ersichtlichmachung der Ergebnisse der Linzer Länderkonferenz\"). Parteienstandpunkte maschinschriftlich eingetragen (rote bzw. schwarze Tinte), Zustand gut, zahlreiche maschinschriftliche Ergänzungen, 157 Artikel",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -1391,17 +1558,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Evidenzexemplar",
@@ -1418,20 +1588,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "CS I (Titel des Dokuments: \"Der deutsche Bundesfreistaat Österreich\"), Sonderdruck, Zustand gut, keine Anmerkungen, 55 Artikel",
     "has_author": [
       {
         "id": 12,
-        "value": "Christlichsoziale Partei"
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -1441,17 +1614,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1468,20 +1644,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Ministerial I (Dokument hat keinen Titel), Typoskript, ein Blatt pro Artikel, Zustand gut, zum Teil bei einzelnen Artikeln Streichungen, Markierungen, Anmerkungen, manche Artikel in zwei Varianten vorhanden, 167 Artikel (nach Nummerierung)",
     "has_author": [
       {
         "id": 7,
-        "value": "Mayr, Michael"
+        "value": "Mayr, Michael",
+        "order": "7.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 8",
@@ -1491,17 +1670,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Ministerial I",
@@ -1518,20 +1700,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "UA 26. August (Titel des Dokuments: \"Entwurf eines Gesetzes betreffend die Verfassung der Republik Österreich\") Zustand gut, wenige handschriftliche Ergänzungen, 157 Artikel",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 9",
@@ -1541,17 +1726,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "UA August",
@@ -1568,20 +1756,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "UA 1. September (Titel des Dokuments: \"Entwurf eines Gesetzes betreffend die Verfassung der Republik Österreich\"), Zustand gut, wenige handschriftliche Ergänzungen. Vorsicht! Kopf des Dokuments ident mit UA 26. August, jedoch Abweichung bei der Gestaltung einzelner Artikel, 157 Artikel",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 9",
@@ -1591,17 +1782,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1618,20 +1812,23 @@
     "type_of_manifestation": [
       {
         "id": 5,
-        "value": "Manuskript bestehend aus Handschrift und Typoskript"
+        "value": "Manuskript bestehend aus Handschrift und Typoskript",
+        "order": "5.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Renner Entwurf 1918 (Titel des Dokuments: \"Entwurf einer provisorischen Verfassung\"), Zustand mäßig, zahllose Streichungen, Ergänzungen, Anmerkungen. Definitiver Text teils schwer zu identifizieren, 23 Seiten, Artikel/Paragraphenzählung konfus, eventuell nicht vollständig",
     "has_author": [
       {
         "id": 15,
-        "value": "Renner, Karl"
+        "value": "Renner, Karl",
+        "order": "15.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E 1731 (Nachlass Renner) Mappe 292",
@@ -1641,17 +1838,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Renner",
@@ -1668,20 +1868,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920, Lithographie auf dünnem Durchschlagpapier, Zustand mäßig, zahlreiche handschriftliche Korrekturen und Anmerkungen, Papier stark gewellt, zum Teil Ränder ausgerissen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920",
@@ -1691,17 +1894,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1718,20 +1924,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920, Lithographie auf dünnem Durchschlagpapier, Zustand mäßig, Papier stark gewellt, zum Teil Ränder ausgerissen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920",
@@ -1741,17 +1950,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1768,20 +1980,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920",
@@ -1791,17 +2006,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1818,20 +2036,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920, beiliegend ein Communique betreffend die im UA geführte Diskussion der Artikel 10-12 des Linzer Entwurfes, Lithographie, Zustand: gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920",
@@ -1841,17 +2062,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1868,20 +2092,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 5. Sitzung des Subkomitees des Verfassungsausschusses vom 17. August 1920, Lithographie auf Durchschlagpapier, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/74 ex 1920",
@@ -1891,17 +2118,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1918,20 +2148,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920",
@@ -1941,17 +2174,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -1968,20 +2204,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 7. Sitzung des Subkomitees des Verfassungsausschusses vom 20. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/76 ex 1920",
@@ -1991,17 +2230,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2018,20 +2260,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920, Lithographie auf dünnem Papier, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920",
@@ -2041,17 +2286,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2068,20 +2316,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920",
@@ -2091,17 +2342,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2118,20 +2372,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 10. Sitzung des Subkomitees des Verfassungsausschusses vom 24. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79 ex 1920",
@@ -2141,17 +2398,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2168,20 +2428,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 11. Sitzung des Subkomitees des Verfassungsausschusses vom 25. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79 ex 1920",
@@ -2191,17 +2454,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2218,20 +2484,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 12. Sitzung des Subkomitees des Verfassungsausschusses vom 26. August 1920,  Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/79 ex 1920",
@@ -2241,17 +2510,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2268,20 +2540,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 13. Sitzung des Subkomitees des Verfassungsausschusses vom 31. August 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/87 ex 1920",
@@ -2291,17 +2566,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2318,20 +2596,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 13. September 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/91 ex 1920",
@@ -2341,17 +2622,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2368,20 +2652,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 15. Sitzung des Subkomitees des Verfassungsausschusses vom 14. September 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/87 ex 1920",
@@ -2391,17 +2678,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2418,20 +2708,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 16. Sitzung des Subkomitees des Verfassungsausschusses vom 15. September 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/91 ex 1920",
@@ -2441,17 +2734,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2468,20 +2764,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 17. Sitzung des Subkomitees des Verfassungsausschusses vom 22. September 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/101 ex 1920",
@@ -2491,17 +2790,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2518,20 +2820,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 18. Sitzung des Subkomitees des Verfassungsausschusses vom 23. September 1920, Lithographie, Zustand gut, ohne Anmerkungen",
     "has_author": [
       {
         "id": 16,
-        "value": "Unterausschuss des Verfassungsausschusses"
+        "value": "Unterausschuss des Verfassungsausschusses",
+        "order": "16.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/101 ex 1920",
@@ -2541,17 +2846,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2568,20 +2876,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll Salzburger Länderkonferenz (Titel des Dokuments: \"Stenographische Verhandlungsschrift über die Länderkonferenz in Salzburg am 15., 16. und 17. Februar 1920\"), Druck, Zustand gut, keine Ergänzungen",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 10",
@@ -2591,17 +2902,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2618,20 +2932,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll Linzer Länderkonferenz (Titel des Dokuments: \"Stenographische Verhandlungsschrift über die Länderkonferenz in Linz am 20., 21., 22. und 23. April 1920\"), Typ: Druck, Zustand: gut, keine Anmerkungen",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, Nachlasssammlung, E 1717 (Nachlass Fink), Karton 3, Mappe 1",
@@ -2641,17 +2958,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2668,20 +2988,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 1. Länderkonferenz vom 23. November 1918 (=Kabinettsratsprotokoll Nr. 15)\n\nTyp: Lithographie\n\nZustand: gut",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 5",
@@ -2691,17 +3014,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2718,20 +3044,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 2. Länderkonferenz vom 4. und 5. Jänner 1919 (=Kabinettsratsprotokoll Nr. 28)\n\nTyp: Lithographie\n\nZustand: gut",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 5",
@@ -2741,17 +3070,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2768,20 +3100,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 3. Länderkonferenz vom 31. Jänner bis 1. Februar 1919\n\nTyp: Druck\n\nZustand: gut",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
@@ -2791,17 +3126,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2818,20 +3156,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 4. Länderkonferenz vom 5. bis 7. April 1919\n\nTyp: Druck\n\nZustand: gut",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
@@ -2841,17 +3182,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2868,20 +3212,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 6. Länderkonferenz vom 15. September 1919\n\nTyp: Druck\n\nZustand: gut",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
@@ -2891,17 +3238,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2918,20 +3268,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der 7. Länderkonferenz vom 12. bis 13. Oktober 1919\n\nTyp: Druck\n\nZustand: gut",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 241",
@@ -2941,17 +3294,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -2968,20 +3324,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 2,
-        "value": "Verfassungstext"
+        "value": "Verfassungstext",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_description": "B-VG (Titel des Dokuments: \"Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz\"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 152 Artikel",
     "has_author": [
       {
         "id": 10,
-        "value": "Konstituierende Nationalversammlung"
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
@@ -2991,17 +3350,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "B-VG",
@@ -3018,20 +3380,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 4,
-        "value": "Stellungnahme zum Verfassungsentwurf"
+        "value": "Stellungnahme zum Verfassungsentwurf",
+        "order": "4.00000000000000000000"
       }
     ],
     "has_description": "Bericht VfA (Titel des Dokuments: \"Bericht des Verfassungsausschusses über den Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird [Bundes-Verfassungsgesetz]\"), KNV Beilage 991, Typ: Druck, Zustand: gut, keine Anmerkungen",
     "has_author": [
       {
         "id": 5,
-        "value": "Verfassungsausschuss"
+        "value": "Verfassungsausschuss",
+        "order": "5.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
@@ -3041,17 +3406,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3068,20 +3436,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 2,
-        "value": "Verfassungstext"
+        "value": "Verfassungstext",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_description": "VfÜG (Titel des Dokuments: \"Verfassungsgesetz vom 1. Oktober 1920, Betreffend den Übergang zur bundesstaatlichen Verfassung\"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 43 Paragraphen",
     "has_author": [
       {
         "id": 10,
-        "value": "Konstituierende Nationalversammlung"
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
@@ -3091,17 +3462,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3118,20 +3492,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 4,
-        "value": "Stellungnahme zum Verfassungsentwurf"
+        "value": "Stellungnahme zum Verfassungsentwurf",
+        "order": "4.00000000000000000000"
       }
     ],
     "has_description": "Gegenüberstellung der Differenzpunkte CS SD (Titel des Dokuments: \"Kurze Gegenüberstellung der wesentlichen Differenzpunkte zwischen den sozialdemokratischen un den christlichsozialen Verfassungsvorschlägen bei der Linzer Länderkonferenz\")\n\nTyp: Lithographie\n\nZustand: gut, keine Anmerkungen.\n\nAnmerkung: offenbar Zwischenstufe zwischen Evidenzexemplar und Renner-Mayr",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 11",
@@ -3141,17 +3518,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3168,20 +3548,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "CS I KNV-Beilage (Titel des Dokuments: \"Verfassung des deutschen Bundesfreistaates Österreich\"), Typ: Druck, Zustand: gut, keine Ergänzungen, 55 Artikel",
     "has_author": [
       {
         "id": 12,
-        "value": "Christlichsoziale Partei"
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
       }
     ],
     "shelfmark": "AvA, Justizministerium, Signatur I-VI/1, Kt. 1816",
@@ -3191,17 +3574,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "CS I",
@@ -3218,20 +3604,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Mayr I (Titel des Dokuments: \"Vorentwurf einer Bundesstaatsverfassung\"), Typ: Druck, Zustand: gut, wenige handschriftliche Anmerkungen, 157 Artikel",
     "has_author": [
       {
         "id": 7,
-        "value": "Mayr, Michael"
+        "value": "Mayr, Michael",
+        "order": "7.00000000000000000000"
       }
     ],
     "shelfmark": "AvA, Justizministerium, Signatur I-VI/1, Kt. 1816",
@@ -3241,17 +3630,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "Mayr I",
@@ -3268,20 +3660,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Großdeutsch Sonderdruck Textvariante 1 (\"Vorentwurf einer österreichischen Verfassung unter Mitwirkung von Mitgliedern der Großdeutschen Vereinigung, ausgearbeitet von Mitgliedern der Deutschen Freiheits- und Ordnungspartei in Oberösterreich und von Mitgliedern der Nationaldemokratischen Partei\"), Typ: Druck, Zustand: sehr gut, keine Ergänzungen oder Anstreichungen, Umfang: 20 Seiten, Anzahl Artikel: 103",
     "has_author": [
       {
         "id": 14,
-        "value": "Großdeutsche Volkspartei"
+        "value": "Großdeutsche Volkspartei",
+        "order": "14.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA/Inneres, Parteiarchive, Archiv der GDVP, Kt. 113",
@@ -3291,17 +3686,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3318,20 +3716,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Großdeutsch Sonderdruck Textvariante 2 (\"Deutscher Volksbund für Österreich - Entwurf einer österreichischen Verfassung\")\n\nTyp: Druck\n\nZustand: sehr gut, keine Ergänzungen oder Anstreichungen\n\nUmfang: 19 Seiten\n\nAnzahl Artikel: 101",
     "has_author": [
       {
         "id": 14,
-        "value": "Großdeutsche Volkspartei"
+        "value": "Großdeutsche Volkspartei",
+        "order": "14.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA/Inneres, Parteiarchive, Archiv der GDVP, Kt. 113",
@@ -3341,17 +3742,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3368,20 +3772,23 @@
     "type_of_manifestation": [
       {
         "id": 4,
-        "value": "Lithographie"
+        "value": "Lithographie",
+        "order": "4.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Bericht über die 5. Länderkonferenz vom 20. Mai 1919 (enthalten in Kabinettsratsprotokoll Nr. 72 vom gleichen Tag, inkl. einer Presseaussendung und einer Vollzugsanweisung)\n\nTyp: Lithographie\n\nZustand: gut\n\nUmfang: 6 Seiten",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA, Kabinettsratsprotokolle, Kt. 8",
@@ -3391,17 +3798,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 2,
-        "value": "Datenset B"
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3418,20 +3828,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Ministerialentwurf II. (Dokument hat keinen Titel) Typ: Typoskript. Zustand: gut, einige handschriftliche Ergänzungen, Papier leicht verknittert, letzte Seite fehlt. 167 Artikel (jedoch nur Text von 163 Artikeln tatsächlich vorhanden). Artikel 52-58 (betr. den Bundespräsidenten) liegen in zwei Textvarianten vor",
     "has_author": [
       {
         "id": 17,
-        "value": "Staatssekretariat für die Verfasssungs- und Verwaltungsreform"
+        "value": "Staatssekretariat für die Verfasssungs- und Verwaltungsreform",
+        "order": "17.00000000000000000000"
       }
     ],
     "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
@@ -3441,17 +3854,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3468,20 +3884,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Danneberg Textvariante (Dokument hat keinen Titel, 163 statt 162 Artikel bei der gedruckten Fassung), auf der Titelseite handschriftliche Notiz \"letzte Fassung vor Linz\". Typ: Typoskript. Zustand: gut",
     "has_author": [
       {
         "id": 8,
-        "value": "Danneberg, Robert"
+        "value": "Danneberg, Robert",
+        "order": "8.00000000000000000000"
       }
     ],
     "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
@@ -3491,17 +3910,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3518,20 +3940,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der zwischenamtlichen Sitzung am 11. Oktober 1919, aufgenommen von dem zur Sitzung entsendeten Vertreter des Staatssekrätariats für Justiz. Typ: Typoskript. Zustand: gut, wenige handschritliche Anmerkungen",
     "has_author": [
       {
         "id": 18,
-        "value": "Staatsamt für Justiz"
+        "value": "Staatsamt für Justiz",
+        "order": "18.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, JM I-VI-1 Kt 1816",
@@ -3541,17 +3966,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 3,
-        "value": "Datenset C"
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -3568,20 +3996,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der zwischenamtlichen Sitzung am 22. November 1919, aufgenommen von dem zur Sitzung entsendeten Vertreter des Justizministeriums. Einladung zur Sitzung liegt bei. Typ: Typoskript, wenige handschriftliche Ergänzungen",
     "has_author": [
       {
         "id": 18,
-        "value": "Staatsamt für Justiz"
+        "value": "Staatsamt für Justiz",
+        "order": "18.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, JM I-VI-1 Kt 1816",
@@ -3591,17 +4022,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 3,
-        "value": "Datenset C"
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -3618,20 +4052,23 @@
     "type_of_manifestation": [
       {
         "id": 5,
-        "value": "Manuskript bestehend aus Handschrift und Typoskript"
+        "value": "Manuskript bestehend aus Handschrift und Typoskript",
+        "order": "5.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der zwischenamtliche Sitzung am 31. Oktober 1919, aufgenommen von dem zur Sitzung entsendeten Vertreter des Justizministeriums. Protokoll handschriftlich auf die Einladung zu der Konferenz niedergeschriben. Typ: Typoskript mit umfangreichen handschriftlichen Ergänzungen",
     "has_author": [
       {
         "id": 18,
-        "value": "Staatsamt für Justiz"
+        "value": "Staatsamt für Justiz",
+        "order": "18.00000000000000000000"
       }
     ],
     "shelfmark": "AVA, JM I-VI-1 Kt 1816",
@@ -3641,17 +4078,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 3,
-        "value": "Datenset C"
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -3668,20 +4108,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der zwischenamtliche Sitzung 13 November 1919, aufgenommen von der Staatskanzlei. Typ: Typoskript, wenige handschriftliche Ergänzungen",
     "has_author": [
       {
         "id": 19,
-        "value": "Staatskanzlei"
+        "value": "Staatskanzlei",
+        "order": "19.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
@@ -3691,17 +4134,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 3,
-        "value": "Datenset C"
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -3718,20 +4164,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 3,
-        "value": "Sitzungsprotokoll"
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
       }
     ],
     "has_description": "Protokoll der zwischenamtliche Sitzung vom 11. Oktober 1919 (Fassung Staatskanzlei) inkl. Präsenzliste. Typ: Typoskript mit wenigen Anmerkungen, Anwesenheitsliste handschriftlich",
     "has_author": [
       {
         "id": 19,
-        "value": "Staatskanzlei"
+        "value": "Staatskanzlei",
+        "order": "19.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 48",
@@ -3741,17 +4190,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 3,
-        "value": "Datenset C"
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -3768,20 +4220,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Fassung Renner, konstituiert aus Renner-Mayr (saubere Version): bv_doc_id__26",
     "has_author": [
       {
         "id": 15,
-        "value": "Renner, Karl"
+        "value": "Renner, Karl",
+        "order": "15.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 10",
@@ -3791,24 +4246,28 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "",
     "constituded from": [
       {
         "id": 26,
-        "value": "Renner-Mayr saubere Version"
+        "value": "Renner-Mayr saubere Version",
+        "order": "24.00000000000000000000"
       }
     ]
   },
@@ -3823,20 +4282,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Fassung Mayr, konstituiert aus Renner-Mayr (saubere Version): bv_doc_id__26",
     "has_author": [
       {
         "id": 7,
-        "value": "Mayr, Michael"
+        "value": "Mayr, Michael",
+        "order": "7.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 10",
@@ -3846,24 +4308,28 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "",
     "constituded from": [
       {
         "id": 26,
-        "value": "Renner-Mayr saubere Version"
+        "value": "Renner-Mayr saubere Version",
+        "order": "24.00000000000000000000"
       }
     ]
   },
@@ -3878,20 +4344,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Christlichsoziale Fassung (basierend auf Evidenzexemplar Entwurf maschinschriftlich, bv_doc_id__84)",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -3901,24 +4370,28 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "",
     "constituded from": [
       {
         "id": 30,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich"
+        "value": "Evidenzexemplar Entwurf maschinschriftlich",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3933,20 +4406,23 @@
     "type_of_manifestation": [
       {
         "id": 3,
-        "value": "Druck"
+        "value": "Druck",
+        "order": "3.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Sozialdemokratische Fassung (basierend auf Evidenzexemplar Entwurf maschinschriftlich, bv_doc_id__84)",
     "has_author": [
       {
         "id": 11,
-        "value": "Länderkonferenz"
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
@@ -3956,24 +4432,28 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "",
     "constituded from": [
       {
         "id": 30,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich"
+        "value": "Evidenzexemplar Entwurf maschinschriftlich",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3988,20 +4468,23 @@
     "type_of_manifestation": [
       {
         "id": 2,
-        "value": "Typoskript"
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
       }
     ],
     "type_of_document": [
       {
         "id": 1,
-        "value": "Verfassungsentwurf"
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_description": "Akademikerentwurf Tirol. Titel des Dokuments: \"Verfassung des Bundesstaates Österreich\", 97 Paragraphen, verfasst von der Innsbrucker Akademitervereinigung (laut Tiroler Anzeiger vom 7.7.1919, dort auch veröffentlicht. Zusand gut, keine Ausbesserungen oder Randbemerkungen",
     "has_author": [
       {
         "id": 20,
-        "value": "Akademikervereinigung"
+        "value": "Akademikervereinigung",
+        "order": "20.00000000000000000000"
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
@@ -4011,17 +4494,20 @@
     "has_digitizing_agent": [
       {
         "id": 2,
-        "value": "Lein, Richard"
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Gassner, Miriam"
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
       }
     ],
     "data_set": [
       {
         "id": 1,
-        "value": "Datenset A"
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
       }
     ],
     "stemma_label": "",
