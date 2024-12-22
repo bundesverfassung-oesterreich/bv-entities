@@ -33,5 +33,19 @@
     "name": "Editorisch-rechtswissenschaftlicher Kommentar",
     "has_description": "nicht für Primärtexte vorgesehen",
     "bv_id": "bv_doctype_id__5"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Kommentar zu einem Verfassungsentwurf",
+    "has_description": "",
+    "bv_id": "bv_doctype_id__6"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Verfassungskonzept",
+    "has_description": "",
+    "bv_id": "bv_doctype_id__7"
   }
 }

@@ -450,7 +450,7 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "doc_title": "Mayr Entwurf Druck II",
+    "doc_title": "Mayr II",
     "bv_id": "bv_doc_id__9",
     "written_date": "Zwischen dem 18. Februar und dem 10. April 1920",
     "not_before": "1920-02-18",
@@ -730,7 +730,7 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "doc_title": "CS Entwurf II KNV Beilage",
+    "doc_title": "CS II KNV Beilage",
     "bv_id": "bv_doc_id__14",
     "written_date": "25. Juni 1920",
     "not_before": "1920-06-25",
@@ -786,7 +786,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "doc_title": "Abram Entwurf KNV Beilage",
+    "doc_title": "Abram KNV Beilage",
     "bv_id": "bv_doc_id__15",
     "written_date": "7. Juli 1920",
     "not_before": "1920-07-07",
@@ -842,7 +842,7 @@
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "doc_title": "Danneberg Entwurf",
+    "doc_title": "Danneberg II",
     "bv_id": "bv_doc_id__16",
     "written_date": "Zwischen dem 18. Februar 1920 und dem 20. April 1920",
     "not_before": "1920-02-18",
@@ -898,7 +898,7 @@
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
-    "doc_title": "Evidenzexemplar Entwurf handschriftlich",
+    "doc_title": "Evidenzexemplar handschriftlich",
     "bv_id": "bv_doc_id__18",
     "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
     "not_before": "1920-04-24",
@@ -954,7 +954,7 @@
   "19": {
     "id": 19,
     "order": "18.00000000000000000000",
-    "doc_title": "Großdeutsch Entwurf Sonderdruck",
+    "doc_title": "Großdeutsch Sonderdruck",
     "bv_id": "bv_doc_id__19",
     "written_date": "18. Mai 1920 (aber vor dem 20. April 1920 entstanden)",
     "not_before": "1920-04-20",
@@ -1412,7 +1412,7 @@
   "28": {
     "id": 28,
     "order": "26.00000000000000000000",
-    "doc_title": "Großdeutsch Entwurf KNV Beilage",
+    "doc_title": "Großdeutsch KNV Beilage",
     "bv_id": "bv_doc_id__28",
     "written_date": "18. Mai 1920 (aber vor dem 20. April 1920 entstanden)",
     "not_before": "1920-04-20",
@@ -1468,7 +1468,7 @@
   "29": {
     "id": 29,
     "order": "27.00000000000000000000",
-    "doc_title": "Mayr Entwurf Druck I",
+    "doc_title": "Mayr I",
     "bv_id": "bv_doc_id__29",
     "written_date": "Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in der Rechspost)",
     "not_before": "1920-01-25",
@@ -1524,7 +1524,7 @@
   "30": {
     "id": 30,
     "order": "28.00000000000000000000",
-    "doc_title": "Evidenzexemplar Entwurf maschinschriftlich",
+    "doc_title": "Evidenzexemplar maschinschriftlich",
     "bv_id": "bv_doc_id__30",
     "written_date": "Zwischen 24. April 1920 und 8. Juli 1920",
     "not_before": "1920-04-24",
@@ -1580,7 +1580,7 @@
   "31": {
     "id": 31,
     "order": "29.00000000000000000000",
-    "doc_title": "CS Entwurf I Sonderdruck",
+    "doc_title": "CS I Sonderdruck",
     "bv_id": "bv_doc_id__31",
     "written_date": "14. Mai 1919 (Einbringung in der konstituierenden Nationalversammlung)",
     "not_before": "1919-05-14",
@@ -3596,7 +3596,7 @@
   "67": {
     "id": 67,
     "order": "66.00000000000000000000",
-    "doc_title": "Mayr Entwurf Druck I saubere Fassung",
+    "doc_title": "Mayr I saubere Fassung",
     "bv_id": "bv_doc_id__67",
     "written_date": "Nach dem 25. Jänner 1920 (Ende Gespräche Mayers mit den Ländern, jedoch vor dem 10. Februar 1920 (Erscheinen in der Rechspost)",
     "not_before": "1920-01-25",
@@ -3652,7 +3652,7 @@
   "68": {
     "id": 68,
     "order": "67.00000000000000000000",
-    "doc_title": "Großdeutsch Sonderdruck Textvariante 1",
+    "doc_title": "Großdeutsch Textvariante 1",
     "bv_id": "bv_doc_id__68",
     "written_date": "Vor dem 18. Mai 1920 (vor Einbringung des GD Entwurfs in der KNV) entstanden",
     "not_before": "1920-01-01",
@@ -3708,7 +3708,7 @@
   "69": {
     "id": 69,
     "order": "68.00000000000000000000",
-    "doc_title": "Großdeutsch Sonderdruck Textvariante 2",
+    "doc_title": "Großdeutsch Textvariante 2",
     "bv_id": "bv_doc_id__69",
     "written_date": "Vor dem 18. Mai 1920 (vor Einbringung des GD Entwurfs in der KNV) entstanden",
     "not_before": "1920-01-01",
@@ -3820,7 +3820,7 @@
   "71": {
     "id": 71,
     "order": "70.00000000000000000000",
-    "doc_title": "Ministerialentwurf Typoskript aus VGA Archiv",
+    "doc_title": "Ministerialentwurf II Typoskript aus VGA Archiv",
     "bv_id": "bv_doc_id__71",
     "written_date": "12. April 1920",
     "not_before": "1920-04-12",
@@ -3876,7 +3876,7 @@
   "72": {
     "id": 72,
     "order": "71.00000000000000000000",
-    "doc_title": "Danneberg Typoskript aus VGA Archiv",
+    "doc_title": "Danneberg I Typoskript aus VGA Archiv",
     "bv_id": "bv_doc_id__72",
     "written_date": "Zwischen dem 18. Februar 1920 und dem 20. April 1920",
     "not_before": "1920-02-18",
@@ -4390,7 +4390,7 @@
     "constituded from": [
       {
         "id": 30,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich",
+        "value": "Evidenzexemplar maschinschriftlich",
         "order": "28.00000000000000000000"
       }
     ]
@@ -4452,7 +4452,7 @@
     "constituded from": [
       {
         "id": 30,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich",
+        "value": "Evidenzexemplar maschinschriftlich",
         "order": "28.00000000000000000000"
       }
     ]
@@ -4516,8 +4516,802 @@
   "86": {
     "id": 86,
     "order": "83.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Protokoll der 21. Sitzung des Verfassungsausschusses",
     "bv_id": "bv_doc_id__86",
+    "written_date": "14. Juli 1920",
+    "not_before": "1920-07-14",
+    "not_after": "1920-07-14",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der 21. Sitzung des Verfassungsausschusses vom 14. Juli 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.",
+    "has_author": [
+      {
+        "id": 21,
+        "value": "Verfassungsausschuss",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
+    "goobi_id": "18067",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "87": {
+    "id": 87,
+    "order": "84.00000000000000000000",
+    "doc_title": "Protokoll der 22. Sitzung des Verfassungsausschusses",
+    "bv_id": "bv_doc_id__87",
+    "written_date": "15. Juli 1920",
+    "not_before": "1920-07-15",
+    "not_after": "1920-07-15",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der 22. Sitzung des Verfassungsausschusses vom 15. Juli 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.",
+    "has_author": [
+      {
+        "id": 21,
+        "value": "Verfassungsausschuss",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
+    "goobi_id": "18068",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "88": {
+    "id": 88,
+    "order": "85.00000000000000000000",
+    "doc_title": "Protokoll der 23. Sitzung des Verfassungsausschusses",
+    "bv_id": "bv_doc_id__88",
+    "written_date": "23. Juli 1920",
+    "not_before": "1920-07-23",
+    "not_after": "1920-07-23",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der 23. Sitzung des Verfassungsausschusses vom 23. Juli 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.",
+    "has_author": [
+      {
+        "id": 21,
+        "value": "Verfassungsausschuss",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
+    "goobi_id": "18069",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "89": {
+    "id": 89,
+    "order": "86.00000000000000000000",
+    "doc_title": "Protokoll der 24. Sitzung des Verfassungsausschusses",
+    "bv_id": "bv_doc_id__89",
+    "written_date": "24. September 1920",
+    "not_before": "1920-09-24",
+    "not_after": "1920-09-24",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der 24. Sitzung des Verfassungsausschusses vom 24. September 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.",
+    "has_author": [
+      {
+        "id": 21,
+        "value": "Verfassungsausschuss",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
+    "goobi_id": "18070",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "90": {
+    "id": 90,
+    "order": "87.00000000000000000000",
+    "doc_title": "Protokoll der 25. Sitzung des Verfassungsausschusses",
+    "bv_id": "bv_doc_id__90",
+    "written_date": "25. September 1920",
+    "not_before": "1920-09-25",
+    "not_after": "1920-09-25",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der 25. Sitzung des Verfassungsausschusses vom 25. September 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.",
+    "has_author": [
+      {
+        "id": 21,
+        "value": "Verfassungsausschuss",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
+    "goobi_id": "18071",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "91": {
+    "id": 91,
+    "order": "88.00000000000000000000",
+    "doc_title": "Protokoll der 26. Sitzung des Verfassungsausschusses",
+    "bv_id": "bv_doc_id__91",
+    "written_date": "27. September 1920",
+    "not_before": "1920-09-27",
+    "not_after": "1920-09-27",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der 26. Sitzung des Verfassungsausschusses vom 27. September 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.",
+    "has_author": [
+      {
+        "id": 21,
+        "value": "Verfassungsausschuss",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
+    "goobi_id": "18072",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "92": {
+    "id": 92,
+    "order": "89.00000000000000000000",
+    "doc_title": "B-VG als Bundesgesetzblatt",
+    "bv_id": "bv_doc_id__92",
+    "written_date": "1. Oktober 1920",
+    "not_before": "1920-10-01",
+    "not_after": "1920-10-01",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 2,
+        "value": "Verfassungstext",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "has_description": "B-VG (Titel des Dokuments: \"Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz\") Gedruckter Gesetzestext aus den Bundesgesetzblättern (BGBl. 1/1920), Zustand gut, keine Anmerkungen, 152 Artikel",
+    "has_author": [
+      {
+        "id": 10,
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Parlamentsarchiv, Bibliothek",
+    "goobi_id": "18066",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "93": {
+    "id": 93,
+    "order": "90.00000000000000000000",
+    "doc_title": "Protokoll Parteienverhandlungen 1.-2.9.1920",
+    "bv_id": "bv_doc_id__93",
+    "written_date": "1. bis 2. September 1920",
+    "not_before": "1920-09-01",
+    "not_after": "1920-09-02",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der Parteienverhandlungen über die Verfassung 1.9.-2.9.1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Zustand gut, Anstreichungen mit rotem und blauem Buntstift",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Sozialdemokratische Partei",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 9",
+    "goobi_id": "18073",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "94": {
+    "id": 94,
+    "order": "91.00000000000000000000",
+    "doc_title": "Protokoll Parteienverhandlungen 18.9.1920",
+    "bv_id": "bv_doc_id__94",
+    "written_date": "18. September 1920",
+    "not_before": "1920-09-18",
+    "not_after": "1920-09-18",
+    "type_of_manifestation": [
+      {
+        "id": 6,
+        "value": "Handschriftlicher Protokolltext",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der Parteienverhandlungen über die Verfassung 18.9.1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Zustand gut, Anstreichungen mit rotem und blauem Buntstift",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Sozialdemokratische Partei",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 9",
+    "goobi_id": "18074",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "95": {
+    "id": 95,
+    "order": "92.00000000000000000000",
+    "doc_title": "Kommentar der Christlichsozialen zu Kelsen I",
+    "bv_id": "bv_doc_id__95",
+    "written_date": "Nach dem 17. November 1919",
+    "not_before": "1919-11-17",
+    "not_after": "1919-11-30",
+    "type_of_manifestation": [
+      {
+        "id": 7,
+        "value": "Handschriftlicher Kommentar",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 6,
+        "value": "Kommentar zu einem Verfassungsentwurf",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "has_description": "Kommentar der Christlichsozialen zu Kelsen I, (Titel des Dokuments: \"Bemerkungen zum Verfassungsentwurf der Staatskanzlei\"), handschriftlicher Kommentar, mit Tinte geschrieben, Zustand gut, keine Verbesserungen und Randbemerkungen. BEMERKUNG: Artikelzählung passt nur auf Kelsen I, Datierung ergibt sich daraus, das in ÖStA, Büro Seitz ein Schreiben der STaatskanzlei vom 17. November 1919 einliegt, demzufolge Präsident Seitz eine Anzahl von Kopien eines Verfassungsentwurfs zugesendet erhält und gebeten wird, diese an die Klubs der politischen Parteien weiterzuleiten. Der Entwurf selbst liegt dabei nicht ein. Würde den Umstand erklären, warum Kelsen I als Lithographie vorliegt und Kelsen II-VI als Typoskript (da Kelsen I in größerem Stil vervielfältigt wurde!).",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94",
+    "goobi_id": "18075",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "96": {
+    "id": 96,
+    "order": "93.00000000000000000000",
+    "doc_title": "CS I Textvariante",
+    "bv_id": "bv_doc_id__96",
+    "written_date": "Vor dem 14. Mai 1919",
+    "not_before": "1919-01-01",
+    "not_after": "1919-05-13",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_description": "CS I Textvariante (Titel des Dokuments: \"Bundesverfassung des deutschen Freistaates Österreich\"), Typ: Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG: Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere textliche Abweichungen",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
+    "goobi_id": "18076",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "97": {
+    "id": 97,
+    "order": "94.00000000000000000000",
+    "doc_title": "Protokolle über die Verfassungsgespräche Mayrs in den Ländern",
+    "bv_id": "bv_doc_id__97",
+    "written_date": "18. Dezember 1919 - 22. Jänner 1920",
+    "not_before": "1919-12-18",
+    "not_after": "1920-01-22",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokolle der Verfassungsgespräche von Staatssekretär Michael Mayr mit Vertretern der Länder im Zeitraum 18. Dezember 1919 bis 22. Jänner 1920. Enthalten Protokolle mit folgenden Ländern: Salzburg, Oberösterreich, Tirol, Vorarlberg, Kärnten, Steiermark, Niederösterreich. Zustand gut, einige Anstreichungen mit Bleistift",
+    "has_author": [
+      {
+        "id": 17,
+        "value": "Staatssekretariat für die Verfasssungs- und Verwaltungsreform",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "shelfmark": "AdR, Büro Seitz, Karton 7",
+    "goobi_id": "18077",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "98": {
+    "id": 98,
+    "order": "95.00000000000000000000",
+    "doc_title": "Positionspapier Föderative Republik Deutschösterreich",
+    "bv_id": "bv_doc_id__98",
+    "written_date": "Vor dem 14. Mai 1919",
+    "not_before": "1919-12-18",
+    "not_after": "1920-01-22",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 7,
+        "value": "Verfassungskonzept",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "has_description": "Verfassungskonzept der Christlichsozialen (Titel des Dokuments: \"Föderative Republik Deutschösterreich\"), weneger Verfassungsentwurf, als viel mehr Konzeptpapier, was ein solcher vom Standpunkt der Christlichsozialen inhaltlich enthalten muss. Zustand gut, wenige Anmerkungen.",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94",
+    "goobi_id": "18078",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "99": {
+    "id": 99,
+    "order": "96.00000000000000000000",
+    "doc_title": "Falser II Typoskript",
+    "bv_id": "bv_doc_id__99",
+    "written_date": "18. Dezember 1919",
+    "not_before": "1919-12-18",
+    "not_after": "1919-12-18",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 1,
+        "value": "Verfassungsentwurf",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_description": "Falser II Typoskript (Titel des Dokuments: \"Die Verfassung des Bundesstaates Republik Österreich\"), Zustand gut, wenige Korrekturen, 39 Artikel, Beiblatt bit Änderungswünschen einzelner Abgeordneter (bei der vervielfältigten Fassung in den Fußnoten zu finden)",
+    "has_author": [
+      {
+        "id": 4,
+        "value": "Falser, Stephan",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "100": {
+    "id": 100,
+    "order": "97.00000000000000000000",
+    "doc_title": "",
+    "bv_id": "bv_doc_id__100",
     "written_date": "",
     "not_before": null,
     "not_after": null,

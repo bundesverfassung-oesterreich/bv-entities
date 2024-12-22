@@ -51,12 +51,12 @@
       },
       {
         "id": 71,
-        "value": "Ministerialentwurf Typoskript aus VGA Archiv",
+        "value": "Ministerialentwurf II Typoskript aus VGA Archiv",
         "order": "70.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "Danneberg Typoskript aus VGA Archiv",
+        "value": "Danneberg I Typoskript aus VGA Archiv",
         "order": "71.00000000000000000000"
       },
       {
@@ -83,6 +83,26 @@
         "id": 85,
         "value": "Akademikerentwurf Tirol",
         "order": "82.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "CS I Textvariante",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Protokolle über die Verfassungsgespräche Mayrs in den Ländern",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "Positionspapier Föderative Republik Deutschösterreich",
+        "order": "95.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Falser II Typoskript",
+        "order": "96.00000000000000000000"
       }
     ]
   },
@@ -95,7 +115,7 @@
     "document": [
       {
         "id": 9,
-        "value": "Mayr Entwurf Druck II",
+        "value": "Mayr II",
         "order": "9.00000000000000000000"
       },
       {
@@ -115,27 +135,27 @@
       },
       {
         "id": 14,
-        "value": "CS Entwurf II KNV Beilage",
+        "value": "CS II KNV Beilage",
         "order": "14.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "Abram Entwurf KNV Beilage",
+        "value": "Abram KNV Beilage",
         "order": "15.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "Danneberg Entwurf",
+        "value": "Danneberg II",
         "order": "16.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "Evidenzexemplar Entwurf handschriftlich",
+        "value": "Evidenzexemplar handschriftlich",
         "order": "17.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "Großdeutsch Entwurf Sonderdruck",
+        "value": "Großdeutsch Sonderdruck",
         "order": "18.00000000000000000000"
       },
       {
@@ -170,22 +190,22 @@
       },
       {
         "id": 28,
-        "value": "Großdeutsch Entwurf KNV Beilage",
+        "value": "Großdeutsch KNV Beilage",
         "order": "26.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "Mayr Entwurf Druck I",
+        "value": "Mayr I",
         "order": "27.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "Evidenzexemplar Entwurf maschinschriftlich",
+        "value": "Evidenzexemplar maschinschriftlich",
         "order": "28.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "CS Entwurf I Sonderdruck",
+        "value": "CS I Sonderdruck",
         "order": "29.00000000000000000000"
       },
       {
@@ -255,17 +275,17 @@
       },
       {
         "id": 67,
-        "value": "Mayr Entwurf Druck I saubere Fassung",
+        "value": "Mayr I saubere Fassung",
         "order": "66.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "Großdeutsch Sonderdruck Textvariante 1",
+        "value": "Großdeutsch Textvariante 1",
         "order": "67.00000000000000000000"
       },
       {
         "id": 69,
-        "value": "Großdeutsch Sonderdruck Textvariante 2",
+        "value": "Großdeutsch Textvariante 2",
         "order": "68.00000000000000000000"
       },
       {
@@ -287,6 +307,11 @@
         "id": 84,
         "value": "Evidenzexemplar Entwurf maschinschriftlich – Sozialdemokratische Fassung",
         "order": "81.00000000000000000000"
+      },
+      {
+        "id": 92,
+        "value": "B-VG als Bundesgesetzblatt",
+        "order": "89.00000000000000000000"
       }
     ]
   },
@@ -440,6 +465,69 @@
         "id": 75,
         "value": "Protokoll Zwischenamtliche Sitzung 31. Oktober 1919",
         "order": "74.00000000000000000000"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Handschriftlicher Protokolltext",
+    "has_description": "",
+    "bv_id": "bv_manifestation_type_id__6",
+    "document": [
+      {
+        "id": 86,
+        "value": "Protokoll der 21. Sitzung des Verfassungsausschusses",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "Protokoll der 22. Sitzung des Verfassungsausschusses",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Protokoll der 23. Sitzung des Verfassungsausschusses",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Protokoll der 24. Sitzung des Verfassungsausschusses",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "Protokoll der 25. Sitzung des Verfassungsausschusses",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Protokoll der 26. Sitzung des Verfassungsausschusses",
+        "order": "88.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "Protokoll Parteienverhandlungen 1.-2.9.1920",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "Protokoll Parteienverhandlungen 18.9.1920",
+        "order": "91.00000000000000000000"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Handschriftlicher Kommentar",
+    "has_description": "",
+    "bv_id": "bv_manifestation_type_id__7",
+    "document": [
+      {
+        "id": 95,
+        "value": "Kommentar der Christlichsozialen zu Kelsen I",
+        "order": "92.00000000000000000000"
       }
     ]
   }
