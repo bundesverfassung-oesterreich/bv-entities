@@ -250,6 +250,11 @@
         "id": 99,
         "value": "Falser II Typoskript",
         "order": "96.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Konzept für Kompromissentwurf",
+        "order": "97.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "195363"
@@ -445,6 +450,11 @@
         "id": 94,
         "value": "Protokoll Parteienverhandlungen 18.9.1920",
         "order": "91.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Protokolle über die Verfassungsgespräche Mayrs in den Ländern",
+        "order": "94.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196428"
@@ -485,11 +495,6 @@
         "id": 95,
         "value": "Kommentar der Christlichsozialen zu Kelsen I",
         "order": "92.00000000000000000000"
-      },
-      {
-        "id": 97,
-        "value": "Protokolle über die Verfassungsgespräche Mayrs in den Ländern",
-        "order": "94.00000000000000000000"
       },
       {
         "id": 98,

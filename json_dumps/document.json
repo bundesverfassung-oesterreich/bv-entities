@@ -5187,9 +5187,9 @@
     ],
     "data_set": [
       {
-        "id": 3,
-        "value": "Datenset C",
-        "order": "3.00000000000000000000"
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -5282,7 +5282,7 @@
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
-    "goobi_id": "",
+    "goobi_id": "18079",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5310,21 +5310,61 @@
   "100": {
     "id": 100,
     "order": "97.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Konzept für Kompromissentwurf",
     "bv_id": "bv_doc_id__100",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
-    "goobi_id": "",
+    "written_date": "Zwischen 20. April 1920 und 25. Juni 1920",
+    "not_before": "1920-04-20",
+    "not_after": "1920-06-25",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 7,
+        "value": "Verfassungskonzept",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "has_description": "Konzept für Kompromissentwurf, Dokument ohne Titel. Kurzkonzept für einen Verfassungsentwurf, der teilweise auf Mayr II, teilweise aud Danneberg II sowie einzelnen gänzlich anders formulierten Artikeln eines unbekannten Autors zusammensetzt, 167 Artikel, Zustand gut, wenige Streichungen. Entsehungszeitraum wohl zwischen Länderkonferenz Linz und dem Zerbrechen der Koalition.",
+    "has_author": [
+      {
+        "id": 12,
+        "value": "Christlichsoziale Partei",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Sozialdemokratische Partei",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94",
+    "goobi_id": "18080",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": [],
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 1,
+        "value": "Datenset A",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "stemma_label": "",
     "constituded from": []
   }

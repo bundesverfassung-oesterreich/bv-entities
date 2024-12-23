@@ -518,6 +518,11 @@
         "id": 99,
         "value": "Falser II Typoskript",
         "order": "96.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Konzept für Kompromissentwurf",
+        "order": "97.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1084,6 +1089,11 @@
         "id": 99,
         "value": "Falser II Typoskript",
         "order": "96.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Konzept für Kompromissentwurf",
+        "order": "97.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1364,6 +1374,11 @@
         "id": 98,
         "value": "Positionspapier Föderative Republik Deutschösterreich",
         "order": "95.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Konzept für Kompromissentwurf",
+        "order": "97.00000000000000000000"
       }
     ],
     "document - has_digitizing_agent": [],
@@ -1740,6 +1755,11 @@
         "id": 94,
         "value": "Protokoll Parteienverhandlungen 18.9.1920",
         "order": "91.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Konzept für Kompromissentwurf",
+        "order": "97.00000000000000000000"
       }
     ],
     "document - has_digitizing_agent": [],
