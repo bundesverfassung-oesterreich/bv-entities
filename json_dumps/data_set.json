@@ -500,6 +500,11 @@
         "id": 98,
         "value": "Positionspapier Föderative Republik Deutschösterreich",
         "order": "95.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Protokoll Sozialdemokratischer Parteivorstand 16. September 1920",
+        "order": "98.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196429"

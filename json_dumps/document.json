@@ -5367,5 +5367,61 @@
     ],
     "stemma_label": "",
     "constituded from": []
+  },
+  "101": {
+    "id": 101,
+    "order": "98.00000000000000000000",
+    "doc_title": "Protokoll Sozialdemokratischer Parteivorstand 16. September 1920",
+    "bv_id": "bv_doc_id__101",
+    "written_date": "16. September 1920",
+    "not_before": "1920-09-16",
+    "not_after": "1920-09-16",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der Sitzung des Sozialdemokratischen Parteivorstandes, 16. September 1920, Beschlussprotokoll, offenbar nachträglich angefertigt. Zustand: gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 22,
+        "value": "Sozialdemokratische Partei",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "shelfmark": "VGA-Archiv, Sitzungsprotokolle Parteivorstand, Mappe 2",
+    "goobi_id": "18081",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
   }
 }
