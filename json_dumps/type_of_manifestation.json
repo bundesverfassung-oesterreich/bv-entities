@@ -113,6 +113,11 @@
         "id": 101,
         "value": "Protokoll Sozialdemokratischer Parteivorstand 16. September 1920",
         "order": "98.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "Protokoll Sozialdemokratischer Parteivorstand 28. April 1920",
+        "order": "99.00000000000000000000"
       }
     ]
   },
