@@ -5483,21 +5483,168 @@
   "103": {
     "id": 103,
     "order": "100.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Protokoll Konstituierende Nationalversammlung 29. September 1920",
     "bv_id": "bv_doc_id__103",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
-    "goobi_id": "",
+    "written_date": "29. September 1920",
+    "not_before": "1920-09-29",
+    "not_after": "1920-09-26",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der Sitzung der Kostituierenden Nationalversammlung vom 29. September 1920. Zustand: gut, Papier vergilbt und etwas rissig, wenige Anstreichungen",
+    "has_author": [
+      {
+        "id": 10,
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Universitätsbibliothek Wien, FB Geschichte, O 9:11-1/IV",
+    "goobi_id": "18083",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": [],
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "104": {
+    "id": 104,
+    "order": "101.00000000000000000000",
+    "doc_title": "Protokoll Konstituierende Nationalversammlung 30. September 1920",
+    "bv_id": "bv_doc_id__104",
+    "written_date": "30. September 1920",
+    "not_before": "1920-09-30",
+    "not_after": "1920-09-30",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der Sitzung der Kostituierenden Nationalversammlung vom 30. September 1920. Zustand: gut, Papier vergilbt und etwas rissig, wenige Anstreichungen",
+    "has_author": [
+      {
+        "id": 10,
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Universitätsbibliothek Wien, FB Geschichte, O 9:11-1/IV",
+    "goobi_id": "18084",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "105": {
+    "id": 105,
+    "order": "102.00000000000000000000",
+    "doc_title": "Protokoll Konstituierende Nationalversammlung 1. Oktober 1920",
+    "bv_id": "bv_doc_id__105",
+    "written_date": "1. Oktober 1920",
+    "not_before": "1920-10-01",
+    "not_after": "1920-10-01",
+    "type_of_manifestation": [
+      {
+        "id": 3,
+        "value": "Druck",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll der Sitzung der Kostituierenden Nationalversammlung vom 1. Oktober 1920. Zustand: gut, Papier vergilbt und etwas rissig, wenige Anstreichungen",
+    "has_author": [
+      {
+        "id": 10,
+        "value": "Konstituierende Nationalversammlung",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "shelfmark": "Universitätsbibliothek Wien, FB Geschichte, O 9:11-1/IV",
+    "goobi_id": "18085",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "stemma_label": "",
     "constituded from": []
   }

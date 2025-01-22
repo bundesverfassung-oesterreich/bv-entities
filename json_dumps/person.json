@@ -533,6 +533,21 @@
         "id": 102,
         "value": "Protokoll Sozialdemokratischer Parteivorstand 28. April 1920",
         "order": "99.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "Protokoll Konstituierende Nationalversammlung 29. September 1920",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "Protokoll Konstituierende Nationalversammlung 30. September 1920",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Protokoll Konstituierende Nationalversammlung 1. Oktober 1920",
+        "order": "102.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1114,6 +1129,21 @@
         "id": 102,
         "value": "Protokoll Sozialdemokratischer Parteivorstand 28. April 1920",
         "order": "99.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "Protokoll Konstituierende Nationalversammlung 29. September 1920",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "Protokoll Konstituierende Nationalversammlung 30. September 1920",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Protokoll Konstituierende Nationalversammlung 1. Oktober 1920",
+        "order": "102.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1237,6 +1267,21 @@
         "id": 92,
         "value": "B-VG als Bundesgesetzblatt",
         "order": "89.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "Protokoll Konstituierende Nationalversammlung 29. September 1920",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "Protokoll Konstituierende Nationalversammlung 30. September 1920",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Protokoll Konstituierende Nationalversammlung 1. Oktober 1920",
+        "order": "102.00000000000000000000"
       }
     ],
     "document - has_digitizing_agent": [],

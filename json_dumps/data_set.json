@@ -455,6 +455,21 @@
         "id": 97,
         "value": "Protokolle über die Verfassungsgespräche Mayrs in den Ländern",
         "order": "94.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "Protokoll Konstituierende Nationalversammlung 29. September 1920",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "Protokoll Konstituierende Nationalversammlung 30. September 1920",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Protokoll Konstituierende Nationalversammlung 1. Oktober 1920",
+        "order": "102.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196428"
