@@ -33,5 +33,12 @@
     "name": "Tanja Vögtlin",
     "shorthand": "#t_voegtlin",
     "Aktiv": false
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Elias Jan Kordt",
+    "shorthand": "#e_kordt",
+    "Aktiv": false
   }
 }
