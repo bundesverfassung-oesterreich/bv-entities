@@ -316,12 +316,12 @@
       },
       {
         "id": 56,
-        "value": "Protokoll 1. Länderkonferenz 23. November 1918",
+        "value": "Protokoll 1. Länderkonferenz",
         "order": "55.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "Protokoll 2. Länderkonferenz 4. und 5. Jänner 1919",
+        "value": "Protokoll 2. Länderkonferenz",
         "order": "56.00000000000000000000"
       },
       {
@@ -356,7 +356,7 @@
       },
       {
         "id": 64,
-        "value": "VfÜG Sonderdruck",
+        "value": "VfÜG Sonderdruck mit Unterschriften der Regierung",
         "order": "63.00000000000000000000"
       },
       {
@@ -386,17 +386,17 @@
       },
       {
         "id": 70,
-        "value": "Bericht 5. Länderkonferenz 20. Mai 1919",
+        "value": "Protokoll 5. Länderkonferenz - Bericht",
         "order": "69.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "Ministerialentwurf II Typoskript aus VGA Archiv",
+        "value": "Ministerial Entwurf II",
         "order": "70.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "Danneberg I Typoskript aus VGA Archiv",
+        "value": "Danneberg Entwurf I",
         "order": "71.00000000000000000000"
       },
       {
@@ -421,7 +421,7 @@
       },
       {
         "id": 77,
-        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)",
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 - Fassung der Staatskanzlei",
         "order": "76.00000000000000000000"
       },
       {
@@ -446,7 +446,7 @@
       },
       {
         "id": 85,
-        "value": "Akademikerentwurf Tirol",
+        "value": "Akademiker Entwurf Tirol",
         "order": "82.00000000000000000000"
       },
       {
@@ -481,27 +481,27 @@
       },
       {
         "id": 92,
-        "value": "B-VG als Bundesgesetzblatt",
+        "value": "B-VG Bundesgesetzblatt",
         "order": "89.00000000000000000000"
       },
       {
         "id": 93,
-        "value": "Protokoll Parteienverhandlungen 1.-2.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 1.-2.9.1920",
         "order": "90.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "Protokoll Parteienverhandlungen 18.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 18.9.1920",
         "order": "91.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "Kommentar der Christlichsozialen zu Kelsen I",
+        "value": "Kommentar der CS zu Kelsen Entwurf I",
         "order": "92.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "CS I Textvariante",
+        "value": "CS Entwurf I Textvariante",
         "order": "93.00000000000000000000"
       },
       {
@@ -516,7 +516,7 @@
       },
       {
         "id": 99,
-        "value": "Falser II Typoskript",
+        "value": "Falser Entwurf II",
         "order": "96.00000000000000000000"
       },
       {
@@ -601,7 +601,7 @@
       },
       {
         "id": 99,
-        "value": "Falser II Typoskript",
+        "value": "Falser Entwurf II",
         "order": "96.00000000000000000000"
       }
     ],
@@ -912,12 +912,12 @@
       },
       {
         "id": 56,
-        "value": "Protokoll 1. Länderkonferenz 23. November 1918",
+        "value": "Protokoll 1. Länderkonferenz",
         "order": "55.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "Protokoll 2. Länderkonferenz 4. und 5. Jänner 1919",
+        "value": "Protokoll 2. Länderkonferenz",
         "order": "56.00000000000000000000"
       },
       {
@@ -952,7 +952,7 @@
       },
       {
         "id": 64,
-        "value": "VfÜG Sonderdruck",
+        "value": "VfÜG Sonderdruck mit Unterschriften der Regierung",
         "order": "63.00000000000000000000"
       },
       {
@@ -982,17 +982,17 @@
       },
       {
         "id": 70,
-        "value": "Bericht 5. Länderkonferenz 20. Mai 1919",
+        "value": "Protokoll 5. Länderkonferenz - Bericht",
         "order": "69.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "Ministerialentwurf II Typoskript aus VGA Archiv",
+        "value": "Ministerial Entwurf II",
         "order": "70.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "Danneberg I Typoskript aus VGA Archiv",
+        "value": "Danneberg Entwurf I",
         "order": "71.00000000000000000000"
       },
       {
@@ -1017,7 +1017,7 @@
       },
       {
         "id": 77,
-        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)",
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 - Fassung der Staatskanzlei",
         "order": "76.00000000000000000000"
       },
       {
@@ -1042,7 +1042,7 @@
       },
       {
         "id": 85,
-        "value": "Akademikerentwurf Tirol",
+        "value": "Akademiker Entwurf Tirol",
         "order": "82.00000000000000000000"
       },
       {
@@ -1077,27 +1077,27 @@
       },
       {
         "id": 92,
-        "value": "B-VG als Bundesgesetzblatt",
+        "value": "B-VG Bundesgesetzblatt",
         "order": "89.00000000000000000000"
       },
       {
         "id": 93,
-        "value": "Protokoll Parteienverhandlungen 1.-2.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 1.-2.9.1920",
         "order": "90.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "Protokoll Parteienverhandlungen 18.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 18.9.1920",
         "order": "91.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "Kommentar der Christlichsozialen zu Kelsen I",
+        "value": "Kommentar der CS zu Kelsen Entwurf I",
         "order": "92.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "CS I Textvariante",
+        "value": "CS Entwurf I Textvariante",
         "order": "93.00000000000000000000"
       },
       {
@@ -1112,7 +1112,7 @@
       },
       {
         "id": 99,
-        "value": "Falser II Typoskript",
+        "value": "Falser Entwurf II",
         "order": "96.00000000000000000000"
       },
       {
@@ -1216,7 +1216,7 @@
       },
       {
         "id": 72,
-        "value": "Danneberg I Typoskript aus VGA Archiv",
+        "value": "Danneberg Entwurf I",
         "order": "71.00000000000000000000"
       }
     ],
@@ -1260,12 +1260,12 @@
       },
       {
         "id": 64,
-        "value": "VfÜG Sonderdruck",
+        "value": "VfÜG Sonderdruck mit Unterschriften der Regierung",
         "order": "63.00000000000000000000"
       },
       {
         "id": 92,
-        "value": "B-VG als Bundesgesetzblatt",
+        "value": "B-VG Bundesgesetzblatt",
         "order": "89.00000000000000000000"
       },
       {
@@ -1334,12 +1334,12 @@
       },
       {
         "id": 56,
-        "value": "Protokoll 1. Länderkonferenz 23. November 1918",
+        "value": "Protokoll 1. Länderkonferenz",
         "order": "55.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "Protokoll 2. Länderkonferenz 4. und 5. Jänner 1919",
+        "value": "Protokoll 2. Länderkonferenz",
         "order": "56.00000000000000000000"
       },
       {
@@ -1369,7 +1369,7 @@
       },
       {
         "id": 70,
-        "value": "Bericht 5. Länderkonferenz 20. Mai 1919",
+        "value": "Protokoll 5. Länderkonferenz - Bericht",
         "order": "69.00000000000000000000"
       },
       {
@@ -1417,22 +1417,22 @@
       },
       {
         "id": 93,
-        "value": "Protokoll Parteienverhandlungen 1.-2.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 1.-2.9.1920",
         "order": "90.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "Protokoll Parteienverhandlungen 18.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 18.9.1920",
         "order": "91.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "Kommentar der Christlichsozialen zu Kelsen I",
+        "value": "Kommentar der CS zu Kelsen Entwurf I",
         "order": "92.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "CS I Textvariante",
+        "value": "CS Entwurf I Textvariante",
         "order": "93.00000000000000000000"
       },
       {
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 71,
-        "value": "Ministerialentwurf II Typoskript aus VGA Archiv",
+        "value": "Ministerial Entwurf II",
         "order": "70.00000000000000000000"
       },
       {
@@ -1737,7 +1737,7 @@
       },
       {
         "id": 77,
-        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)",
+        "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 - Fassung der Staatskanzlei",
         "order": "76.00000000000000000000"
       }
     ],
@@ -1754,7 +1754,7 @@
     "document": [
       {
         "id": 85,
-        "value": "Akademikerentwurf Tirol",
+        "value": "Akademiker Entwurf Tirol",
         "order": "82.00000000000000000000"
       }
     ],
@@ -1813,12 +1813,12 @@
     "document": [
       {
         "id": 93,
-        "value": "Protokoll Parteienverhandlungen 1.-2.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 1.-2.9.1920",
         "order": "90.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "Protokoll Parteienverhandlungen 18.9.1920",
+        "value": "Protokoll Parteienverhandlungen CS SD 18.9.1920",
         "order": "91.00000000000000000000"
       },
       {

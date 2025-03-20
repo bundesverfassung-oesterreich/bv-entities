@@ -2980,7 +2980,7 @@
   "56": {
     "id": 56,
     "order": "55.00000000000000000000",
-    "doc_title": "Protokoll 1. Länderkonferenz 23. November 1918",
+    "doc_title": "Protokoll 1. Länderkonferenz",
     "bv_id": "bv_doc_id__56",
     "written_date": "23. November 1918",
     "not_before": "1918-11-23",
@@ -3036,7 +3036,7 @@
   "57": {
     "id": 57,
     "order": "56.00000000000000000000",
-    "doc_title": "Protokoll 2. Länderkonferenz 4. und 5. Jänner 1919",
+    "doc_title": "Protokoll 2. Länderkonferenz",
     "bv_id": "bv_doc_id__57",
     "written_date": "4. und 5. Jänner 1919",
     "not_before": "1919-01-04",
@@ -3428,7 +3428,7 @@
   "64": {
     "id": 64,
     "order": "63.00000000000000000000",
-    "doc_title": "VfÜG Sonderdruck",
+    "doc_title": "VfÜG Sonderdruck mit Unterschriften der Regierung",
     "bv_id": "bv_doc_id__64",
     "written_date": "1. Oktober 1920",
     "not_before": "1920-10-01",
@@ -3529,9 +3529,9 @@
     ],
     "data_set": [
       {
-        "id": 2,
-        "value": "Datenset B",
-        "order": "2.00000000000000000000"
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": null,
@@ -3764,7 +3764,7 @@
   "70": {
     "id": 70,
     "order": "69.00000000000000000000",
-    "doc_title": "Bericht 5. Länderkonferenz 20. Mai 1919",
+    "doc_title": "Protokoll 5. Länderkonferenz - Bericht",
     "bv_id": "bv_doc_id__70",
     "written_date": "20. Mai 1919",
     "not_before": "1919-05-20",
@@ -3820,7 +3820,7 @@
   "71": {
     "id": 71,
     "order": "70.00000000000000000000",
-    "doc_title": "Ministerialentwurf II Typoskript aus VGA Archiv",
+    "doc_title": "Ministerial Entwurf II",
     "bv_id": "bv_doc_id__71",
     "written_date": "12. April 1920",
     "not_before": "1920-04-12",
@@ -3876,7 +3876,7 @@
   "72": {
     "id": 72,
     "order": "71.00000000000000000000",
-    "doc_title": "Danneberg I Typoskript aus VGA Archiv",
+    "doc_title": "Danneberg Entwurf I",
     "bv_id": "bv_doc_id__72",
     "written_date": "Zwischen dem 18. Februar 1920 und dem 20. April 1920",
     "not_before": "1920-02-18",
@@ -4156,7 +4156,7 @@
   "77": {
     "id": 77,
     "order": "76.00000000000000000000",
-    "doc_title": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 (Fassung Staatskanzlei)",
+    "doc_title": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 - Fassung der Staatskanzlei",
     "bv_id": "bv_doc_id__77",
     "written_date": "24. Oktober 1919",
     "not_before": "1919-10-24",
@@ -4460,7 +4460,7 @@
   "85": {
     "id": 85,
     "order": "82.00000000000000000000",
-    "doc_title": "Akademikerentwurf Tirol",
+    "doc_title": "Akademiker Entwurf Tirol",
     "bv_id": "bv_doc_id__85",
     "written_date": "Im Juni 1919",
     "not_before": "1919-06-01",
@@ -4479,7 +4479,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "has_description": "Akademikerentwurf Tirol. Titel des Dokuments: \"Verfassung des Bundesstaates Österreich\", 97 Paragraphen, verfasst von der Innsbrucker Akademitervereinigung (laut Tiroler Anzeiger vom 7.7.1919, dort auch veröffentlicht. Zusand gut, keine Ausbesserungen oder Randbemerkungen",
+    "has_description": "Akademiker Entwurf Tirol. Titel des Dokuments: \"Verfassung des Bundesstaates Österreich\", 97 Paragraphen, verfasst von der Innsbrucker Akademitervereinigung (laut Tiroler Anzeiger vom 7.7.1919, dort auch veröffentlicht. Zusand gut, keine Ausbesserungen oder Randbemerkungen",
     "has_author": [
       {
         "id": 20,
@@ -4852,7 +4852,7 @@
   "92": {
     "id": 92,
     "order": "89.00000000000000000000",
-    "doc_title": "B-VG als Bundesgesetzblatt",
+    "doc_title": "B-VG Bundesgesetzblatt",
     "bv_id": "bv_doc_id__92",
     "written_date": "1. Oktober 1920",
     "not_before": "1920-10-01",
@@ -4908,7 +4908,7 @@
   "93": {
     "id": 93,
     "order": "90.00000000000000000000",
-    "doc_title": "Protokoll Parteienverhandlungen 1.-2.9.1920",
+    "doc_title": "Protokoll Parteienverhandlungen CS SD 1.-2.9.1920",
     "bv_id": "bv_doc_id__93",
     "written_date": "1. bis 2. September 1920",
     "not_before": "1920-09-01",
@@ -4969,7 +4969,7 @@
   "94": {
     "id": 94,
     "order": "91.00000000000000000000",
-    "doc_title": "Protokoll Parteienverhandlungen 18.9.1920",
+    "doc_title": "Protokoll Parteienverhandlungen CS SD 18.9.1920",
     "bv_id": "bv_doc_id__94",
     "written_date": "18. September 1920",
     "not_before": "1920-09-18",
@@ -5030,7 +5030,7 @@
   "95": {
     "id": 95,
     "order": "92.00000000000000000000",
-    "doc_title": "Kommentar der Christlichsozialen zu Kelsen I",
+    "doc_title": "Kommentar der CS zu Kelsen Entwurf I",
     "bv_id": "bv_doc_id__95",
     "written_date": "Nach dem 17. November 1919",
     "not_before": "1919-11-17",
@@ -5049,7 +5049,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "has_description": "Kommentar der Christlichsozialen zu Kelsen I, (Titel des Dokuments: \"Bemerkungen zum Verfassungsentwurf der Staatskanzlei\"), handschriftlicher Kommentar, mit Tinte geschrieben, Zustand gut, keine Verbesserungen und Randbemerkungen. BEMERKUNG: Artikelzählung passt nur auf Kelsen I, Datierung ergibt sich daraus, das in ÖStA, Büro Seitz ein Schreiben der STaatskanzlei vom 17. November 1919 einliegt, demzufolge Präsident Seitz eine Anzahl von Kopien eines Verfassungsentwurfs zugesendet erhält und gebeten wird, diese an die Klubs der politischen Parteien weiterzuleiten. Der Entwurf selbst liegt dabei nicht ein. Würde den Umstand erklären, warum Kelsen I als Lithographie vorliegt und Kelsen II-VI als Typoskript (da Kelsen I in größerem Stil vervielfältigt wurde!).",
+    "has_description": "Kommentar der Christlichsozialen zu Kelsen Entwurf I, (Titel des Dokuments: \"Bemerkungen zum Verfassungsentwurf der Staatskanzlei\"), handschriftlicher Kommentar, mit Tinte geschrieben, Zustand gut, keine Verbesserungen und Randbemerkungen. BEMERKUNG: Artikelzählung passt nur auf Kelsen Entwurf I, Datierung ergibt sich daraus, das in ÖStA, Büro Seitz ein Schreiben der Staatskanzlei vom 17. November 1919 einliegt, demzufolge Präsident Seitz eine Anzahl von Kopien eines Verfassungsentwurfs zugesendet erhält und gebeten wird, diese an die Klubs der politischen Parteien weiterzuleiten. Der Entwurf selbst liegt dabei nicht ein. Würde den Umstand erklären, warum Kelsen Entwurf I als Lithographie vorliegt und Kelsen Entwurf II-VI als Typoskript (bedeutet, das Kelsen Entwurf I in größerem Stil vervielfältigt wurde!).",
     "has_author": [
       {
         "id": 12,
@@ -5086,7 +5086,7 @@
   "96": {
     "id": 96,
     "order": "93.00000000000000000000",
-    "doc_title": "CS I Textvariante",
+    "doc_title": "CS Entwurf I Textvariante",
     "bv_id": "bv_doc_id__96",
     "written_date": "Vor dem 14. Mai 1919",
     "not_before": "1919-01-01",
@@ -5105,7 +5105,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "has_description": "CS I Textvariante (Titel des Dokuments: \"Bundesverfassung des deutschen Freistaates Österreich\"), Typ: Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG: Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere textliche Abweichungen",
+    "has_description": "CS Entwurf I Textvariante (Titel des Dokuments: \"Bundesverfassung des deutschen Freistaates Österreich\"), Typ: Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG: Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere textliche Abweichungen",
     "has_author": [
       {
         "id": 12,
@@ -5131,9 +5131,9 @@
     ],
     "data_set": [
       {
-        "id": 1,
-        "value": "Datenset A",
-        "order": "1.00000000000000000000"
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -5187,9 +5187,9 @@
     ],
     "data_set": [
       {
-        "id": 2,
-        "value": "Datenset B",
-        "order": "2.00000000000000000000"
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -5254,7 +5254,7 @@
   "99": {
     "id": 99,
     "order": "96.00000000000000000000",
-    "doc_title": "Falser II Typoskript",
+    "doc_title": "Falser Entwurf II",
     "bv_id": "bv_doc_id__99",
     "written_date": "18. Dezember 1919",
     "not_before": "1919-12-18",
@@ -5273,7 +5273,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "has_description": "Falser II Typoskript (Titel des Dokuments: \"Die Verfassung des Bundesstaates Republik Österreich\"), Zustand gut, wenige Korrekturen, 39 Artikel, Beiblatt bit Änderungswünschen einzelner Abgeordneter (bei der vervielfältigten Fassung in den Fußnoten zu finden)",
+    "has_description": "Falser Entwurf II Typoskript (Titel des Dokuments: \"Die Verfassung des Bundesstaates Republik Österreich\"), Zustand gut, wenige Korrekturen, 39 Artikel, Beiblatt bit Änderungswünschen einzelner Abgeordneter (bei der vervielfältigten Fassung in den Fußnoten zu finden)",
     "has_author": [
       {
         "id": 4,
@@ -5360,9 +5360,9 @@
     ],
     "data_set": [
       {
-        "id": 1,
-        "value": "Datenset A",
-        "order": "1.00000000000000000000"
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
