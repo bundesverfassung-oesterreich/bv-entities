@@ -4544,7 +4544,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
-    "goobi_id": "18067",
+    "goobi_id": "17669",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5645,6 +5645,27 @@
         "order": "2.00000000000000000000"
       }
     ],
+    "stemma_label": "",
+    "constituded from": []
+  },
+  "106": {
+    "id": 106,
+    "order": "103.00000000000000000000",
+    "doc_title": "",
+    "bv_id": "bv_doc_id__106",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [],
+    "data_set": [],
     "stemma_label": "",
     "constituded from": []
   }
