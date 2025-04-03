@@ -242,6 +242,11 @@
         "order": "89.00000000000000000000"
       },
       {
+        "id": 96,
+        "value": "CS Entwurf I Textvariante",
+        "order": "93.00000000000000000000"
+      },
+      {
         "id": 99,
         "value": "Falser Entwurf II",
         "order": "96.00000000000000000000"
@@ -495,11 +500,6 @@
         "id": 95,
         "value": "Kommentar der CS zu Kelsen Entwurf I",
         "order": "92.00000000000000000000"
-      },
-      {
-        "id": 96,
-        "value": "CS Entwurf I Textvariante",
-        "order": "93.00000000000000000000"
       },
       {
         "id": 97,
