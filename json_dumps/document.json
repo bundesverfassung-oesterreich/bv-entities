@@ -53,7 +53,8 @@
       }
     ],
     "stemma_label": "Kelsen I",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "2": {
     "id": 2,
@@ -109,7 +110,8 @@
       }
     ],
     "stemma_label": "Kelsen II",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "3": {
     "id": 3,
@@ -165,7 +167,8 @@
       }
     ],
     "stemma_label": "Kelsen III",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "4": {
     "id": 4,
@@ -221,7 +224,8 @@
       }
     ],
     "stemma_label": "Kelsen IV",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "5": {
     "id": 5,
@@ -277,7 +281,8 @@
       }
     ],
     "stemma_label": "Kelsen V",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "6": {
     "id": 6,
@@ -333,7 +338,8 @@
       }
     ],
     "stemma_label": "Kelsen VI",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "7": {
     "id": 7,
@@ -389,7 +395,8 @@
       }
     ],
     "stemma_label": "Falser II",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "8": {
     "id": 8,
@@ -445,7 +452,8 @@
       }
     ],
     "stemma_label": "Falser I",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "9": {
     "id": 9,
@@ -501,7 +509,8 @@
       }
     ],
     "stemma_label": "Mayr II",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "10": {
     "id": 10,
@@ -557,7 +566,8 @@
       }
     ],
     "stemma_label": "Rehrl",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "11": {
     "id": 11,
@@ -613,7 +623,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "12": {
     "id": 12,
@@ -669,7 +680,8 @@
       }
     ],
     "stemma_label": "VfA Entwurf",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "13": {
     "id": 13,
@@ -725,7 +737,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "14": {
     "id": 14,
@@ -781,7 +794,8 @@
       }
     ],
     "stemma_label": "CS II",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "15": {
     "id": 15,
@@ -837,7 +851,8 @@
       }
     ],
     "stemma_label": "Abram/SD",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "16": {
     "id": 16,
@@ -893,7 +908,8 @@
       }
     ],
     "stemma_label": "Danneberg",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "18": {
     "id": 18,
@@ -949,7 +965,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "19": {
     "id": 19,
@@ -1005,7 +1022,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "20": {
     "id": 20,
@@ -1066,7 +1084,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "21": {
     "id": 21,
@@ -1122,7 +1141,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "22": {
     "id": 22,
@@ -1178,7 +1198,8 @@
       }
     ],
     "stemma_label": "UA September",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "23": {
     "id": 23,
@@ -1234,7 +1255,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "24": {
     "id": 24,
@@ -1290,7 +1312,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "26": {
     "id": 26,
@@ -1351,7 +1374,8 @@
       }
     ],
     "stemma_label": "Renner-Mayr",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "27": {
     "id": 27,
@@ -1407,7 +1431,8 @@
       }
     ],
     "stemma_label": "Ministerial II",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "28": {
     "id": 28,
@@ -1463,7 +1488,8 @@
       }
     ],
     "stemma_label": "Großdeutsch",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "29": {
     "id": 29,
@@ -1519,7 +1545,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "30": {
     "id": 30,
@@ -1575,7 +1602,8 @@
       }
     ],
     "stemma_label": "Evidenzexemplar",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "31": {
     "id": 31,
@@ -1631,7 +1659,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "32": {
     "id": 32,
@@ -1687,7 +1716,8 @@
       }
     ],
     "stemma_label": "Ministerial I",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "33": {
     "id": 33,
@@ -1743,7 +1773,8 @@
       }
     ],
     "stemma_label": "UA August",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "34": {
     "id": 34,
@@ -1799,7 +1830,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "35": {
     "id": 35,
@@ -1855,7 +1887,8 @@
       }
     ],
     "stemma_label": "Renner",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "36": {
     "id": 36,
@@ -1911,7 +1944,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "37": {
     "id": 37,
@@ -1967,7 +2001,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "38": {
     "id": 38,
@@ -2023,7 +2058,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "39": {
     "id": 39,
@@ -2079,7 +2115,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "40": {
     "id": 40,
@@ -2135,7 +2172,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "41": {
     "id": 41,
@@ -2191,7 +2229,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "42": {
     "id": 42,
@@ -2247,7 +2286,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "43": {
     "id": 43,
@@ -2303,7 +2343,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "44": {
     "id": 44,
@@ -2359,7 +2400,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "45": {
     "id": 45,
@@ -2415,7 +2457,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "46": {
     "id": 46,
@@ -2471,7 +2514,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "47": {
     "id": 47,
@@ -2527,7 +2571,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "48": {
     "id": 48,
@@ -2583,7 +2628,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "49": {
     "id": 49,
@@ -2639,7 +2685,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "50": {
     "id": 50,
@@ -2695,7 +2742,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "51": {
     "id": 51,
@@ -2751,7 +2799,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "52": {
     "id": 52,
@@ -2807,7 +2856,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "53": {
     "id": 53,
@@ -2863,7 +2913,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "54": {
     "id": 54,
@@ -2919,7 +2970,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "55": {
     "id": 55,
@@ -2975,7 +3027,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "56": {
     "id": 56,
@@ -3031,7 +3084,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "57": {
     "id": 57,
@@ -3087,7 +3141,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "58": {
     "id": 58,
@@ -3143,7 +3198,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "59": {
     "id": 59,
@@ -3199,7 +3255,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "60": {
     "id": 60,
@@ -3255,7 +3312,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "61": {
     "id": 61,
@@ -3311,7 +3369,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "62": {
     "id": 62,
@@ -3367,7 +3426,8 @@
       }
     ],
     "stemma_label": "B-VG",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "63": {
     "id": 63,
@@ -3423,7 +3483,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "64": {
     "id": 64,
@@ -3479,7 +3540,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "65": {
     "id": 65,
@@ -3535,7 +3597,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "66": {
     "id": 66,
@@ -3591,7 +3654,8 @@
       }
     ],
     "stemma_label": "CS I",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "67": {
     "id": 67,
@@ -3647,7 +3711,8 @@
       }
     ],
     "stemma_label": "Mayr I",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "68": {
     "id": 68,
@@ -3703,7 +3768,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "69": {
     "id": 69,
@@ -3759,7 +3825,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "70": {
     "id": 70,
@@ -3815,7 +3882,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "71": {
     "id": 71,
@@ -3871,7 +3939,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "72": {
     "id": 72,
@@ -3927,7 +3996,8 @@
       }
     ],
     "stemma_label": null,
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "73": {
     "id": 73,
@@ -3983,7 +4053,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "74": {
     "id": 74,
@@ -4039,7 +4110,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "75": {
     "id": 75,
@@ -4095,7 +4167,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "76": {
     "id": 76,
@@ -4151,7 +4224,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "77": {
     "id": 77,
@@ -4207,7 +4281,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "78": {
     "id": 78,
@@ -4269,7 +4344,8 @@
         "value": "Renner-Mayr saubere Version",
         "order": "24.00000000000000000000"
       }
-    ]
+    ],
+    "Langtitel": null
   },
   "79": {
     "id": 79,
@@ -4331,7 +4407,8 @@
         "value": "Renner-Mayr saubere Version",
         "order": "24.00000000000000000000"
       }
-    ]
+    ],
+    "Langtitel": null
   },
   "83": {
     "id": 83,
@@ -4393,7 +4470,8 @@
         "value": "Evidenzexemplar maschinschriftlich",
         "order": "28.00000000000000000000"
       }
-    ]
+    ],
+    "Langtitel": null
   },
   "84": {
     "id": 84,
@@ -4455,7 +4533,8 @@
         "value": "Evidenzexemplar maschinschriftlich",
         "order": "28.00000000000000000000"
       }
-    ]
+    ],
+    "Langtitel": null
   },
   "85": {
     "id": 85,
@@ -4511,7 +4590,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "86": {
     "id": 86,
@@ -4567,7 +4647,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "87": {
     "id": 87,
@@ -4623,7 +4704,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "88": {
     "id": 88,
@@ -4679,7 +4761,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "89": {
     "id": 89,
@@ -4735,7 +4818,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "90": {
     "id": 90,
@@ -4791,7 +4875,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "91": {
     "id": 91,
@@ -4847,7 +4932,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "92": {
     "id": 92,
@@ -4903,7 +4989,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "93": {
     "id": 93,
@@ -4964,7 +5051,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "94": {
     "id": 94,
@@ -5025,7 +5113,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "95": {
     "id": 95,
@@ -5081,7 +5170,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "96": {
     "id": 96,
@@ -5137,7 +5227,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "97": {
     "id": 97,
@@ -5193,7 +5284,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "98": {
     "id": 98,
@@ -5249,7 +5341,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "99": {
     "id": 99,
@@ -5305,7 +5398,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "100": {
     "id": 100,
@@ -5366,7 +5460,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "101": {
     "id": 101,
@@ -5422,7 +5517,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "102": {
     "id": 102,
@@ -5478,7 +5574,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "103": {
     "id": 103,
@@ -5534,7 +5631,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "104": {
     "id": 104,
@@ -5590,7 +5688,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "105": {
     "id": 105,
@@ -5646,7 +5745,8 @@
       }
     ],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "106": {
     "id": 106,
@@ -5667,7 +5767,8 @@
     "has_digitizing_agent": [],
     "data_set": [],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   },
   "107": {
     "id": 107,
@@ -5688,6 +5789,7 @@
     "has_digitizing_agent": [],
     "data_set": [],
     "stemma_label": "",
-    "constituded from": []
+    "constituded from": [],
+    "Langtitel": null
   }
 }
