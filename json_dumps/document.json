@@ -3916,7 +3916,7 @@
       }
     ],
     "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
-    "goobi_id": "",
+    "goobi_id": "18721",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -3973,7 +3973,7 @@
       }
     ],
     "shelfmark": "VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79",
-    "goobi_id": "",
+    "goobi_id": "18724",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4567,7 +4567,7 @@
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
-    "goobi_id": "",
+    "goobi_id": "18727",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4624,7 +4624,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
-    "goobi_id": "",
+    "goobi_id": "18730",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4681,7 +4681,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
-    "goobi_id": "",
+    "goobi_id": "18733",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4738,7 +4738,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
-    "goobi_id": "",
+    "goobi_id": "18736",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4795,7 +4795,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
-    "goobi_id": "",
+    "goobi_id": "18739",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4852,7 +4852,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
-    "goobi_id": "",
+    "goobi_id": "18742",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4909,7 +4909,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
-    "goobi_id": "",
+    "goobi_id": "18745",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -4966,7 +4966,7 @@
       }
     ],
     "shelfmark": "Parlamentsarchiv, Bibliothek",
-    "goobi_id": "",
+    "goobi_id": "18748",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5028,7 +5028,7 @@
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 9",
-    "goobi_id": "",
+    "goobi_id": "18751",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5090,7 +5090,7 @@
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 9",
-    "goobi_id": "",
+    "goobi_id": "18754",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5147,7 +5147,7 @@
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94",
-    "goobi_id": "",
+    "goobi_id": "18757",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5204,7 +5204,7 @@
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
-    "goobi_id": "",
+    "goobi_id": "18760",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5221,9 +5221,9 @@
     ],
     "data_set": [
       {
-        "id": 1,
-        "value": "Datenset A",
-        "order": "1.00000000000000000000"
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -5261,7 +5261,7 @@
       }
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 7",
-    "goobi_id": "",
+    "goobi_id": "18763",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5318,7 +5318,7 @@
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94",
-    "goobi_id": "",
+    "goobi_id": "18766",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5375,7 +5375,7 @@
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93",
-    "goobi_id": "",
+    "goobi_id": "18769",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5437,7 +5437,7 @@
       }
     ],
     "shelfmark": "KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94",
-    "goobi_id": "",
+    "goobi_id": "18772",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5494,7 +5494,7 @@
       }
     ],
     "shelfmark": "VGA-Archiv, Sitzungsprotokolle Parteivorstand, Mappe 2",
-    "goobi_id": "",
+    "goobi_id": "18775",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5511,9 +5511,9 @@
     ],
     "data_set": [
       {
-        "id": 3,
-        "value": "Datenset C",
-        "order": "3.00000000000000000000"
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -5551,7 +5551,7 @@
       }
     ],
     "shelfmark": "VGA-Archiv, Sitzungsprotokolle Parteivorstand, Mappe 2",
-    "goobi_id": "",
+    "goobi_id": "18778",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5568,9 +5568,9 @@
     ],
     "data_set": [
       {
-        "id": 3,
-        "value": "Datenset C",
-        "order": "3.00000000000000000000"
+        "id": 2,
+        "value": "Datenset B",
+        "order": "2.00000000000000000000"
       }
     ],
     "stemma_label": "",
@@ -5608,7 +5608,7 @@
       }
     ],
     "shelfmark": "Universitätsbibliothek Wien, FB Geschichte, O 9:11-1/IV",
-    "goobi_id": "",
+    "goobi_id": "18781",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5665,7 +5665,7 @@
       }
     ],
     "shelfmark": "Universitätsbibliothek Wien, FB Geschichte, O 9:11-1/IV",
-    "goobi_id": "",
+    "goobi_id": "18784",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
@@ -5722,7 +5722,7 @@
       }
     ],
     "shelfmark": "Universitätsbibliothek Wien, FB Geschichte, O 9:11-1/IV",
-    "goobi_id": "",
+    "goobi_id": "18787",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [

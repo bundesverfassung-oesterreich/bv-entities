@@ -242,11 +242,6 @@
         "order": "89.00000000000000000000"
       },
       {
-        "id": 96,
-        "value": "CS Entwurf I Textvariante",
-        "order": "93.00000000000000000000"
-      },
-      {
         "id": 99,
         "value": "Falser Entwurf II",
         "order": "96.00000000000000000000"
@@ -442,6 +437,16 @@
         "order": "91.00000000000000000000"
       },
       {
+        "id": 101,
+        "value": "Protokoll Sozialdemokratischer Parteivorstand 16. September 1920",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "Protokoll Sozialdemokratischer Parteivorstand 28. April 1920",
+        "order": "99.00000000000000000000"
+      },
+      {
         "id": 103,
         "value": "Protokoll Konstituierende Nationalversammlung 29. September 1920",
         "order": "100.00000000000000000000"
@@ -502,6 +507,11 @@
         "order": "92.00000000000000000000"
       },
       {
+        "id": 96,
+        "value": "CS Entwurf I Textvariante",
+        "order": "93.00000000000000000000"
+      },
+      {
         "id": 97,
         "value": "Protokolle über die Verfassungsgespräche Mayrs in den Ländern",
         "order": "94.00000000000000000000"
@@ -515,16 +525,6 @@
         "id": 100,
         "value": "Konzept für Kompromissentwurf",
         "order": "97.00000000000000000000"
-      },
-      {
-        "id": 101,
-        "value": "Protokoll Sozialdemokratischer Parteivorstand 16. September 1920",
-        "order": "98.00000000000000000000"
-      },
-      {
-        "id": 102,
-        "value": "Protokoll Sozialdemokratischer Parteivorstand 28. April 1920",
-        "order": "99.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196429"
