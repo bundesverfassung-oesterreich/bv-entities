@@ -5751,21 +5751,56 @@
   "106": {
     "id": 106,
     "order": "103.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz",
     "bv_id": "bv_doc_id__106",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
-    "goobi_id": "",
+    "written_date": "17. Februar 1920",
+    "not_before": "1920-02-17",
+    "not_after": "1920-02-17",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 3,
+        "value": "Sitzungsprotokoll",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "has_description": "Protokoll einer Sitzung von Vertretern des landwirtschaftlichen Berufsstandes nach der Salzburger Länderkonferenz zum Thema der Kompetenzverteilung zwischen Bund und Ländern in der zukünftigen Verfassung. Zustand gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 11,
+        "value": "Länderkonferenz",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 19",
+    "goobi_id": "18790",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": [],
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": null
@@ -5773,21 +5808,56 @@
   "107": {
     "id": 107,
     "order": "104.00000000000000000000",
-    "doc_title": "",
+    "doc_title": "Stellungnahme der Staatskanzlei zu Falser Entwurf II",
     "bv_id": "bv_doc_id__107",
-    "written_date": "",
-    "not_before": null,
-    "not_after": null,
-    "type_of_manifestation": [],
-    "type_of_document": [],
-    "has_description": "",
-    "has_author": [],
-    "shelfmark": "",
-    "goobi_id": "",
+    "written_date": "Februar 1920",
+    "not_before": "1920-02-01",
+    "not_after": "1920-02-29",
+    "type_of_manifestation": [
+      {
+        "id": 2,
+        "value": "Typoskript",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "type_of_document": [
+      {
+        "id": 6,
+        "value": "Kommentar zu einem Verfassungsentwurf",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "has_description": "Stellungnahme der Staatskanzlei zu Falser Entwurf II (\"Entwurf des Verfassungsausschusses des Tiroler Landtages\"). Zustand: gut, keine Anmerkungen",
+    "has_author": [
+      {
+        "id": 19,
+        "value": "Staatskanzlei",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 18",
+    "goobi_id": "18793",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
-    "has_digitizing_agent": [],
-    "data_set": [],
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": null

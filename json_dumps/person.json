@@ -548,6 +548,16 @@
         "id": 105,
         "value": "Protokoll Konstituierende Nationalversammlung 1. Oktober 1920",
         "order": "102.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "Stellungnahme der Staatskanzlei zu Falser Entwurf II",
+        "order": "104.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1144,6 +1154,16 @@
         "id": 105,
         "value": "Protokoll Konstituierende Nationalversammlung 1. Oktober 1920",
         "order": "102.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "Stellungnahme der Staatskanzlei zu Falser Entwurf II",
+        "order": "104.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1381,6 +1401,11 @@
         "id": 84,
         "value": "Evidenzexemplar Entwurf maschinschriftlich – Sozialdemokratische Fassung",
         "order": "81.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz",
+        "order": "103.00000000000000000000"
       }
     ],
     "document - has_digitizing_agent": [],
@@ -1739,6 +1764,11 @@
         "id": 77,
         "value": "Protokoll Zwischenamtliche Sitzung 11. Oktober 1919 - Fassung der Staatskanzlei",
         "order": "76.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "Stellungnahme der Staatskanzlei zu Falser Entwurf II",
+        "order": "104.00000000000000000000"
       }
     ],
     "document - has_digitizing_agent": [],

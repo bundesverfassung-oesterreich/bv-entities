@@ -525,6 +525,16 @@
         "id": 100,
         "value": "Konzept für Kompromissentwurf",
         "order": "97.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "Stellungnahme der Staatskanzlei zu Falser Entwurf II",
+        "order": "104.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196429"

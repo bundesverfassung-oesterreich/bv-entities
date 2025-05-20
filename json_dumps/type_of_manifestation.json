@@ -118,6 +118,16 @@
         "id": 102,
         "value": "Protokoll Sozialdemokratischer Parteivorstand 28. April 1920",
         "order": "99.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "Stellungnahme der Staatskanzlei zu Falser Entwurf II",
+        "order": "104.00000000000000000000"
       }
     ]
   },
