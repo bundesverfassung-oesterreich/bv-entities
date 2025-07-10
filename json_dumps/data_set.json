@@ -52,11 +52,6 @@
         "order": "9.00000000000000000000"
       },
       {
-        "id": 10,
-        "value": "Rehrl Entwurf",
-        "order": "10.00000000000000000000"
-      },
-      {
         "id": 11,
         "value": "B-VG Sonderdruck",
         "order": "11.00000000000000000000"
@@ -471,6 +466,11 @@
     "bv_id": "bv_data_set_id__3",
     "has_description": "Archivdokumente zur Entstehung des B-VG",
     "document": [
+      {
+        "id": 10,
+        "value": "Rehrl Entwurf",
+        "order": "10.00000000000000000000"
+      },
       {
         "id": 65,
         "value": "Gegenüberstellung der Differenzpunkte CS SD",

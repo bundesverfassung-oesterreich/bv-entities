@@ -529,9 +529,9 @@
     ],
     "type_of_document": [
       {
-        "id": 1,
-        "value": "Verfassungsentwurf",
-        "order": "1.00000000000000000000"
+        "id": 7,
+        "value": "Verfassungskonzept",
+        "order": "7.00000000000000000000"
       }
     ],
     "has_description": "Rehrl (Titel des Dokuments: \"Die Bundesverfassung Österreichs\"), Zustand: mäßig, zahlreiche Unterstreichungen, Anmerkungen in Steno, keine formale Artikelzählung",
@@ -544,7 +544,7 @@
     ],
     "shelfmark": "AdR, BKA Inneres, Staatskenzlei, karton 250, Mappe3.",
     "goobi_id": "14520",
-    "transkribus_col_id": "195363",
+    "transkribus_col_id": "196429",
     "transkribus_doc_id": "1529208",
     "has_digitizing_agent": [
       {
@@ -560,9 +560,9 @@
     ],
     "data_set": [
       {
-        "id": 1,
-        "value": "Datenset A",
-        "order": "1.00000000000000000000"
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
       }
     ],
     "stemma_label": "Rehrl",
@@ -4683,7 +4683,7 @@
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
     "goobi_id": "18733",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "9217598",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -4740,7 +4740,7 @@
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
     "goobi_id": "18736",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "9217645",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -4797,7 +4797,7 @@
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
     "goobi_id": "18739",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "9217646",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -4854,7 +4854,7 @@
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
     "goobi_id": "18742",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "9217647",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -4911,7 +4911,7 @@
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
     "goobi_id": "18745",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "9217648",
     "has_digitizing_agent": [
       {
         "id": 2,
