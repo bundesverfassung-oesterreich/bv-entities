@@ -535,6 +535,51 @@
         "id": 107,
         "value": "Stellungnahme der Staatskanzlei zu Falser Entwurf II",
         "order": "104.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "Stellungnahme des Staatsrechnungshofes zur Verfassungsfrage",
+        "order": "105.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "Gutachten zur Stellung des Bundespräsidenten in den Verfassungsentwürfen",
+        "order": "106.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "Minderheitsanträge im Verfassungsausschuss",
+        "order": "107.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "Abhandlung Kelsens über die Stellung der Länder in der künftigen Verfassung Deutschösterreichs",
+        "order": "108.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "Dokumente und Stellungnahmen zur Linzer Länderkonferenz",
+        "order": "109.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "Gutachten Kelsens über die staatsrechtliche Stellung Deutschösterreichs",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "Amtsveranlassung für die Länderkonferenz in Salzburg",
+        "order": "111.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "Stellungnahme von Professor Max Kulisch zum Verfassungsentwurf",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "Stellungnahme von Professor Karl Lamp zum Verfassungsentwurf",
+        "order": "113.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196429"
