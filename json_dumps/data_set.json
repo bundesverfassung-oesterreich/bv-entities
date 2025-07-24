@@ -580,6 +580,21 @@
         "id": 116,
         "value": "Stellungnahme von Professor Karl Lamp zum Verfassungsentwurf",
         "order": "113.00000000000000000000"
+      },
+      {
+        "id": 117,
+        "value": "Stellungnahme von Professor Friedrich Tezner zum Verfassungsentwurf (betr. Verwaltungsgerichtshof)",
+        "order": "114.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "Stellungnahme von Professor Max Layer zum Verfassungsentwurf",
+        "order": "115.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Systematischer Aufbau der Bundesverfassung nach einem Entwurf Kelsens",
+        "order": "116.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196429"

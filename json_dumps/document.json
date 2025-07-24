@@ -6212,5 +6212,122 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "114.00000000000000000000",
+    "doc_title": "Stellungnahme von Professor Friedrich Tezner zum Verfassungsentwurf (betr. Verwaltungsgerichtshof)",
+    "bv_id": "bv_doc_id__117",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 5",
+    "goobi_id": "19102",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "115.00000000000000000000",
+    "doc_title": "Stellungnahme von Professor Max Layer zum Verfassungsentwurf",
+    "bv_id": "bv_doc_id__118",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 5",
+    "goobi_id": "19105",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "116.00000000000000000000",
+    "doc_title": "Systematischer Aufbau der Bundesverfassung nach einem Entwurf Kelsens",
+    "bv_id": "bv_doc_id__119",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 6",
+    "goobi_id": "19108",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
   }
 }
