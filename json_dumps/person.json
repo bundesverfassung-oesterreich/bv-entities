@@ -618,6 +618,11 @@
         "id": 119,
         "value": "Systematischer Aufbau der Bundesverfassung nach einem Entwurf Kelsens",
         "order": "116.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Elaborate zur Finanzfrage in der Bundesverfassung",
+        "order": "117.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1284,6 +1289,11 @@
         "id": 119,
         "value": "Systematischer Aufbau der Bundesverfassung nach einem Entwurf Kelsens",
         "order": "116.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Elaborate zur Finanzfrage in der Bundesverfassung",
+        "order": "117.00000000000000000000"
       }
     ],
     "project_data": [],

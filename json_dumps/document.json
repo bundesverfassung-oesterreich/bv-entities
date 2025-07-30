@@ -6329,5 +6329,44 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "117.00000000000000000000",
+    "doc_title": "Elaborate zur Finanzfrage in der Bundesverfassung",
+    "bv_id": "bv_doc_id__120",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 14",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
   }
 }
