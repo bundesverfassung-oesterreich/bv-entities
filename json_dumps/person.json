@@ -623,6 +623,41 @@
         "id": 120,
         "value": "Elaborate zur Finanzfrage in der Bundesverfassung",
         "order": "117.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Versuch einer Ausgaben- und Einnahmenrechnung zwischen Bund und Ländern",
+        "order": "118.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Studie zur Finanzverfassung im Bundesstaat",
+        "order": "119.00000000000000000000"
+      },
+      {
+        "id": 123,
+        "value": "Finanzielle Leistungen von Bund und Ländern",
+        "order": "120.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "Aufteilung des Steuererhebungsrechts auf Bund und Länder",
+        "order": "121.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "Expose über die innere Organisation des Rechnungshofes",
+        "order": "122.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Expose des Präsidenten des Rechnungshofes über dessen Zuständigkeit in den Ländern",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "Grundsätze und Bemerkungen der Staatskanzlei zu einzelnen Aspekten der Verfassungsfrage",
+        "order": "124.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1294,6 +1329,41 @@
         "id": 120,
         "value": "Elaborate zur Finanzfrage in der Bundesverfassung",
         "order": "117.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Versuch einer Ausgaben- und Einnahmenrechnung zwischen Bund und Ländern",
+        "order": "118.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Studie zur Finanzverfassung im Bundesstaat",
+        "order": "119.00000000000000000000"
+      },
+      {
+        "id": 123,
+        "value": "Finanzielle Leistungen von Bund und Ländern",
+        "order": "120.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "Aufteilung des Steuererhebungsrechts auf Bund und Länder",
+        "order": "121.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "Expose über die innere Organisation des Rechnungshofes",
+        "order": "122.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Expose des Präsidenten des Rechnungshofes über dessen Zuständigkeit in den Ländern",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "Grundsätze und Bemerkungen der Staatskanzlei zu einzelnen Aspekten der Verfassungsfrage",
+        "order": "124.00000000000000000000"
       }
     ],
     "project_data": [],

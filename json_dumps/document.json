@@ -1352,8 +1352,8 @@
     ],
     "shelfmark": "AdR, Büro Seitz, Karton 10",
     "goobi_id": "14553",
-    "transkribus_col_id": "195363",
-    "transkribus_doc_id": "1529224",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -6343,7 +6343,280 @@
     "has_description": "",
     "has_author": [],
     "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 14",
-    "goobi_id": "",
+    "goobi_id": "19114",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "121": {
+    "id": 121,
+    "order": "118.00000000000000000000",
+    "doc_title": "Versuch einer Ausgaben- und Einnahmenrechnung zwischen Bund und Ländern",
+    "bv_id": "bv_doc_id__121",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 14",
+    "goobi_id": "19117",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "119.00000000000000000000",
+    "doc_title": "Studie zur Finanzverfassung im Bundesstaat",
+    "bv_id": "bv_doc_id__122",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 14",
+    "goobi_id": "19120",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "120.00000000000000000000",
+    "doc_title": "Finanzielle Leistungen von Bund und Ländern",
+    "bv_id": "bv_doc_id__123",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 14",
+    "goobi_id": "19123",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "121.00000000000000000000",
+    "doc_title": "Aufteilung des Steuererhebungsrechts auf Bund und Länder",
+    "bv_id": "bv_doc_id__124",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 14",
+    "goobi_id": "19126",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "122.00000000000000000000",
+    "doc_title": "Expose über die innere Organisation des Rechnungshofes",
+    "bv_id": "bv_doc_id__125",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 12",
+    "goobi_id": "19129",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "123.00000000000000000000",
+    "doc_title": "Expose des Präsidenten des Rechnungshofes über dessen Zuständigkeit in den Ländern",
+    "bv_id": "bv_doc_id__126",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 12",
+    "goobi_id": "19132",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "127": {
+    "id": 127,
+    "order": "124.00000000000000000000",
+    "doc_title": "Grundsätze und Bemerkungen der Staatskanzlei zu einzelnen Aspekten der Verfassungsfrage",
+    "bv_id": "bv_doc_id__127",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 15",
+    "goobi_id": "19135",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [
