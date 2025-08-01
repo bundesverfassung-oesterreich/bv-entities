@@ -658,6 +658,96 @@
         "id": 127,
         "value": "Grundsätze und Bemerkungen der Staatskanzlei zu einzelnen Aspekten der Verfassungsfrage",
         "order": "124.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "Zusammenfassung der Besprechung von Staatssekretär Mayr mit Vertretern der Christlichsozialen und Deutschn-Freiheitlichen nach der Länderkonferenz in Salzburg",
+        "order": "125.00000000000000000000"
+      },
+      {
+        "id": 129,
+        "value": "Studie - Die Länder und die Staatsverfassung - betreffend deren verfassungsrechtliche Stellung",
+        "order": "126.00000000000000000000"
+      },
+      {
+        "id": 130,
+        "value": "Stellungnahmen der Staatssekretariate zur Frage der Kompetenzabgrenzung zwischen Bund und Ländern",
+        "order": "127.00000000000000000000"
+      },
+      {
+        "id": 131,
+        "value": "Studie über die Grenzen der Kompetenzen des Bundes und seiner Gliedstaaten",
+        "order": "128.00000000000000000000"
+      },
+      {
+        "id": 132,
+        "value": "Studie über die Regelung der Kompetenzen zwischen Bund und Ländern und die Trennung der Behörden",
+        "order": "129.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "Frageschema für die Staatsämter betreffend die Grundprinzipien der Verfassung",
+        "order": "130.00000000000000000000"
+      },
+      {
+        "id": 134,
+        "value": "Grundprinzipien der Verfassungs- und Verwaltungsreform",
+        "order": "131.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Protokoll der zwischenamtlichen Sitzung am 9. und 10. September 1919",
+        "order": "132.00000000000000000000"
+      },
+      {
+        "id": 136,
+        "value": "Expose für die zwischenamtliche Sitzung am 11. Oktober 1919",
+        "order": "133.00000000000000000000"
+      },
+      {
+        "id": 137,
+        "value": "Allgemeine Bestimmung für den Übergang zur bundesstaatlichen Verfassung",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 138,
+        "value": "Anträge der Abteilung für Verfassungsgesetzgebung",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "Bemerkungen des Verwaltungsreformdienstes",
+        "order": "136.00000000000000000000"
+      },
+      {
+        "id": 140,
+        "value": "Beantwortung des Frageschemas durch die Staatsämter",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 141,
+        "value": "Einführung zum Vorentwurf einer Bundesverfassung",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 142,
+        "value": "Übersicht über die grundlegenden Fragen des Bundesstaatsproblems",
+        "order": "139.00000000000000000000"
+      },
+      {
+        "id": 143,
+        "value": "Dokumente zur Länderkonferenz in Linz",
+        "order": "140.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "Einladung zur 7. Länderkonferenz",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "Erörterung der Frage der Umgestaltung Österreichs in einen Bundesstaat durch das Staatssekreariat für Handel und Gewerbe auf Basis von Entwurf CS I",
+        "order": "142.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1364,6 +1454,96 @@
         "id": 127,
         "value": "Grundsätze und Bemerkungen der Staatskanzlei zu einzelnen Aspekten der Verfassungsfrage",
         "order": "124.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "Zusammenfassung der Besprechung von Staatssekretär Mayr mit Vertretern der Christlichsozialen und Deutschn-Freiheitlichen nach der Länderkonferenz in Salzburg",
+        "order": "125.00000000000000000000"
+      },
+      {
+        "id": 129,
+        "value": "Studie - Die Länder und die Staatsverfassung - betreffend deren verfassungsrechtliche Stellung",
+        "order": "126.00000000000000000000"
+      },
+      {
+        "id": 130,
+        "value": "Stellungnahmen der Staatssekretariate zur Frage der Kompetenzabgrenzung zwischen Bund und Ländern",
+        "order": "127.00000000000000000000"
+      },
+      {
+        "id": 131,
+        "value": "Studie über die Grenzen der Kompetenzen des Bundes und seiner Gliedstaaten",
+        "order": "128.00000000000000000000"
+      },
+      {
+        "id": 132,
+        "value": "Studie über die Regelung der Kompetenzen zwischen Bund und Ländern und die Trennung der Behörden",
+        "order": "129.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "Frageschema für die Staatsämter betreffend die Grundprinzipien der Verfassung",
+        "order": "130.00000000000000000000"
+      },
+      {
+        "id": 134,
+        "value": "Grundprinzipien der Verfassungs- und Verwaltungsreform",
+        "order": "131.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Protokoll der zwischenamtlichen Sitzung am 9. und 10. September 1919",
+        "order": "132.00000000000000000000"
+      },
+      {
+        "id": 136,
+        "value": "Expose für die zwischenamtliche Sitzung am 11. Oktober 1919",
+        "order": "133.00000000000000000000"
+      },
+      {
+        "id": 137,
+        "value": "Allgemeine Bestimmung für den Übergang zur bundesstaatlichen Verfassung",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 138,
+        "value": "Anträge der Abteilung für Verfassungsgesetzgebung",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "Bemerkungen des Verwaltungsreformdienstes",
+        "order": "136.00000000000000000000"
+      },
+      {
+        "id": 140,
+        "value": "Beantwortung des Frageschemas durch die Staatsämter",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 141,
+        "value": "Einführung zum Vorentwurf einer Bundesverfassung",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 142,
+        "value": "Übersicht über die grundlegenden Fragen des Bundesstaatsproblems",
+        "order": "139.00000000000000000000"
+      },
+      {
+        "id": 143,
+        "value": "Dokumente zur Länderkonferenz in Linz",
+        "order": "140.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "Einladung zur 7. Länderkonferenz",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "Erörterung der Frage der Umgestaltung Österreichs in einen Bundesstaat durch das Staatssekreariat für Handel und Gewerbe auf Basis von Entwurf CS I",
+        "order": "142.00000000000000000000"
       }
     ],
     "project_data": [],

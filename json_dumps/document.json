@@ -6641,5 +6641,707 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": ""
+  },
+  "128": {
+    "id": 128,
+    "order": "125.00000000000000000000",
+    "doc_title": "Zusammenfassung der Besprechung von Staatssekretär Mayr mit Vertretern der Christlichsozialen und Deutschn-Freiheitlichen nach der Länderkonferenz in Salzburg",
+    "bv_id": "bv_doc_id__128",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 11",
+    "goobi_id": "19138",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "129": {
+    "id": 129,
+    "order": "126.00000000000000000000",
+    "doc_title": "Studie - Die Länder und die Staatsverfassung - betreffend deren verfassungsrechtliche Stellung",
+    "bv_id": "bv_doc_id__129",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 11",
+    "goobi_id": "19141",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "130": {
+    "id": 130,
+    "order": "127.00000000000000000000",
+    "doc_title": "Stellungnahmen der Staatssekretariate zur Frage der Kompetenzabgrenzung zwischen Bund und Ländern",
+    "bv_id": "bv_doc_id__130",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 11",
+    "goobi_id": "19144",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "131": {
+    "id": 131,
+    "order": "128.00000000000000000000",
+    "doc_title": "Studie über die Grenzen der Kompetenzen des Bundes und seiner Gliedstaaten",
+    "bv_id": "bv_doc_id__131",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 11",
+    "goobi_id": "19147",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "132": {
+    "id": 132,
+    "order": "129.00000000000000000000",
+    "doc_title": "Studie über die Regelung der Kompetenzen zwischen Bund und Ländern und die Trennung der Behörden",
+    "bv_id": "bv_doc_id__132",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 11",
+    "goobi_id": "19150",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "133": {
+    "id": 133,
+    "order": "130.00000000000000000000",
+    "doc_title": "Frageschema für die Staatsämter betreffend die Grundprinzipien der Verfassung",
+    "bv_id": "bv_doc_id__133",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 18",
+    "goobi_id": "19153",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "134": {
+    "id": 134,
+    "order": "131.00000000000000000000",
+    "doc_title": "Grundprinzipien der Verfassungs- und Verwaltungsreform",
+    "bv_id": "bv_doc_id__134",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 1",
+    "goobi_id": "19156",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "132.00000000000000000000",
+    "doc_title": "Protokoll der zwischenamtlichen Sitzung am 9. und 10. September 1919",
+    "bv_id": "bv_doc_id__135",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 2",
+    "goobi_id": "19159",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "136": {
+    "id": 136,
+    "order": "133.00000000000000000000",
+    "doc_title": "Expose für die zwischenamtliche Sitzung am 11. Oktober 1919",
+    "bv_id": "bv_doc_id__136",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 2",
+    "goobi_id": "19162",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "137": {
+    "id": 137,
+    "order": "134.00000000000000000000",
+    "doc_title": "Allgemeine Bestimmung für den Übergang zur bundesstaatlichen Verfassung",
+    "bv_id": "bv_doc_id__137",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 2",
+    "goobi_id": "19165",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "138": {
+    "id": 138,
+    "order": "135.00000000000000000000",
+    "doc_title": "Anträge der Abteilung für Verfassungsgesetzgebung",
+    "bv_id": "bv_doc_id__138",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 4",
+    "goobi_id": "19168",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "139": {
+    "id": 139,
+    "order": "136.00000000000000000000",
+    "doc_title": "Bemerkungen des Verwaltungsreformdienstes",
+    "bv_id": "bv_doc_id__139",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 4",
+    "goobi_id": "19171",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "140": {
+    "id": 140,
+    "order": "137.00000000000000000000",
+    "doc_title": "Beantwortung des Frageschemas durch die Staatsämter",
+    "bv_id": "bv_doc_id__140",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 7",
+    "goobi_id": "19174",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "141": {
+    "id": 141,
+    "order": "138.00000000000000000000",
+    "doc_title": "Einführung zum Vorentwurf einer Bundesverfassung",
+    "bv_id": "bv_doc_id__141",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 8",
+    "goobi_id": "19177",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "142": {
+    "id": 142,
+    "order": "139.00000000000000000000",
+    "doc_title": "Übersicht über die grundlegenden Fragen des Bundesstaatsproblems",
+    "bv_id": "bv_doc_id__142",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 8",
+    "goobi_id": "19180",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "143": {
+    "id": 143,
+    "order": "140.00000000000000000000",
+    "doc_title": "Dokumente zur Länderkonferenz in Linz",
+    "bv_id": "bv_doc_id__143",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 8",
+    "goobi_id": "19183",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "144": {
+    "id": 144,
+    "order": "141.00000000000000000000",
+    "doc_title": "Einladung zur 7. Länderkonferenz",
+    "bv_id": "bv_doc_id__144",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, BKA Inneres, Staatskanzlei, Karton 93",
+    "goobi_id": "19186",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "145": {
+    "id": 145,
+    "order": "142.00000000000000000000",
+    "doc_title": "Erörterung der Frage der Umgestaltung Österreichs in einen Bundesstaat durch das Staatssekreariat für Handel und Gewerbe auf Basis von Entwurf CS I",
+    "bv_id": "bv_doc_id__145",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 3460 ex 1919",
+    "goobi_id": "19189",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
   }
 }
