@@ -748,6 +748,11 @@
         "id": 145,
         "value": "Erörterung der Frage der Umgestaltung Österreichs in einen Bundesstaat durch das Staatssekreariat für Handel und Gewerbe auf Basis von Entwurf CS I",
         "order": "142.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "Aufforderung des Staatsamtes für Handel und Gewerbe, sich auf Basis von Entwurf CS I mit der Umwandlung Österreichs in einen Bundesstaat zu beschäftigen",
+        "order": "143.00000000000000000000"
       }
     ],
     "project_data": [],
@@ -1544,6 +1549,11 @@
         "id": 145,
         "value": "Erörterung der Frage der Umgestaltung Österreichs in einen Bundesstaat durch das Staatssekreariat für Handel und Gewerbe auf Basis von Entwurf CS I",
         "order": "142.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "Aufforderung des Staatsamtes für Handel und Gewerbe, sich auf Basis von Entwurf CS I mit der Umwandlung Österreichs in einen Bundesstaat zu beschäftigen",
+        "order": "143.00000000000000000000"
       }
     ],
     "project_data": [],

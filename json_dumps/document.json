@@ -7343,5 +7343,44 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": ""
+  },
+  "146": {
+    "id": 146,
+    "order": "143.00000000000000000000",
+    "doc_title": "Aufforderung des Staatsamtes für Handel und Gewerbe, sich auf Basis von Entwurf CS I mit der Umwandlung Österreichs in einen Bundesstaat zu beschäftigen",
+    "bv_id": "bv_doc_id__146",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 2128 ex 1919",
+    "goobi_id": "",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
   }
 }
