@@ -4029,7 +4029,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "shelfmark": "AVA, JM I-VI-1 Kt 1816",
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
     "goobi_id": "17665",
     "transkribus_col_id": "196429",
     "transkribus_doc_id": "1840232",
@@ -4086,7 +4086,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "shelfmark": "AVA, JM I-VI-1 Kt 1816",
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
     "goobi_id": "17666",
     "transkribus_col_id": "196429",
     "transkribus_doc_id": "1840283",
@@ -4143,7 +4143,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "shelfmark": "AVA, JM I-VI-1 Kt 1816",
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
     "goobi_id": "17667",
     "transkribus_col_id": "196429",
     "transkribus_doc_id": "1850528",
@@ -5874,7 +5874,7 @@
     "type_of_document": [],
     "has_description": "",
     "has_author": [],
-    "shelfmark": "AVA, JM I-VI-1 Kt 1816",
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
     "goobi_id": "19075",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
@@ -7357,7 +7357,1645 @@
     "has_description": "",
     "has_author": [],
     "shelfmark": "AdR, StA HuG, Präs Zl. 2128 ex 1919",
-    "goobi_id": "",
+    "goobi_id": "19192",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "147": {
+    "id": 147,
+    "order": "144.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Handel und Gewerbe zu Mayr I",
+    "bv_id": "bv_doc_id__147",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 782 ex 1920",
+    "goobi_id": "19195",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "148": {
+    "id": 148,
+    "order": "145.00000000000000000000",
+    "doc_title": "Ergebnis der Beratungen von Mayr I in der Staatskanzle Ende März 1920",
+    "bv_id": "bv_doc_id__148",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 1099 ex 1920",
+    "goobi_id": "19198",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "149": {
+    "id": 149,
+    "order": "146.00000000000000000000",
+    "doc_title": "Resolution der Handelskammer zu Mayr I",
+    "bv_id": "bv_doc_id__149",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 1456 ex 1920",
+    "goobi_id": "19201",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "147.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Handel und Gewerbe zu Mayr II",
+    "bv_id": "bv_doc_id__150",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 1707 ex 1920",
+    "goobi_id": "19204",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "151": {
+    "id": 151,
+    "order": "148.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Handel und Gewerbe zur Frage der Einrichtung eigener Bundesbehörden",
+    "bv_id": "bv_doc_id__151",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 3348 ex 1920",
+    "goobi_id": "19207",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "149.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Handel und Gewerbe zu den Übergangsbestimmungen der Verfassung",
+    "bv_id": "bv_doc_id__152",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 3488 ex 1920",
+    "goobi_id": "19210",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "153": {
+    "id": 153,
+    "order": "150.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Handes und Gewerbe zum Entwurf UA September",
+    "bv_id": "bv_doc_id__153",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 3507 ex 1920",
+    "goobi_id": "19213",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "154": {
+    "id": 154,
+    "order": "151.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Handel und Gewerbe betreffend den Vorbehalt eigener Bundesbehörden",
+    "bv_id": "bv_doc_id__154",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 3650 ex 1920",
+    "goobi_id": "19216",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "155": {
+    "id": 155,
+    "order": "152.00000000000000000000",
+    "doc_title": "Abänderungsvorschläge des Staatsamtes für Handel und Gewerbe zum VfA ENtwurf",
+    "bv_id": "bv_doc_id__155",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 3655 ex 1920",
+    "goobi_id": "19219",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "156": {
+    "id": 156,
+    "order": "153.00000000000000000000",
+    "doc_title": "Beantwortung des Frageschemas der Staatskanzlei durch das Staatsamt für Handel und Gewerbe",
+    "bv_id": "bv_doc_id__156",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA HuG, Präs Zl. 4584 ex 1919",
+    "goobi_id": "19222",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "157": {
+    "id": 157,
+    "order": "154.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Inneres zu den Übergangsbestimmungen der Verfassung",
+    "bv_id": "bv_doc_id__157",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA Inneres, Präs Zl. 38560 ex 1920",
+    "goobi_id": "19225",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "158": {
+    "id": 158,
+    "order": "155.00000000000000000000",
+    "doc_title": "Bericht des Staatsamtes für Inneres über die zwischenamtliche Sitzung am 11. Dezember 1919",
+    "bv_id": "bv_doc_id__158",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA Inneres, Präs Zl. 45256 ex 1919",
+    "goobi_id": "19228",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "159": {
+    "id": 159,
+    "order": "156.00000000000000000000",
+    "doc_title": "Diskussion des Entwurfs CS II im Staatsamt für Land- und Forstwirtschaft",
+    "bv_id": "bv_doc_id__159",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 1975 ex 1920",
+    "goobi_id": "19231",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "160": {
+    "id": 160,
+    "order": "157.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zu Entwurf C II",
+    "bv_id": "bv_doc_id__160",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 2028 ex 1920",
+    "goobi_id": "19234",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "161": {
+    "id": 161,
+    "order": "158.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zum Abram Entwurf",
+    "bv_id": "bv_doc_id__161",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 2080 ex 1920",
+    "goobi_id": "19237",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "162": {
+    "id": 162,
+    "order": "159.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft betreffend die Einrichtung von Bundesbehörden",
+    "bv_id": "bv_doc_id__162",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 2396 ex 1920",
+    "goobi_id": "19240",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "163": {
+    "id": 163,
+    "order": "160.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zu Übergangsbestimmungen der Verfassung",
+    "bv_id": "bv_doc_id__163",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 2462 ex 1920",
+    "goobi_id": "19243",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "164": {
+    "id": 164,
+    "order": "161.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zum Entwurf UA August",
+    "bv_id": "bv_doc_id__164",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 2499 ex 1920",
+    "goobi_id": "19246",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "165": {
+    "id": 165,
+    "order": "162.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zur Kompetenzabgrenzung Bund Länder mit Bezugnahme auf die Schweiz",
+    "bv_id": "bv_doc_id__165",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 2744 ex 1919",
+    "goobi_id": "19249",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "166": {
+    "id": 166,
+    "order": "163.00000000000000000000",
+    "doc_title": "Beantwortung des Frageschemas der Staatskanzlei durch das Staatsamt für Land- und Forstwirtschaft",
+    "bv_id": "bv_doc_id__166",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA LuFw, Präs Zl. 2865 ex 1919",
+    "goobi_id": "19252",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "167": {
+    "id": 167,
+    "order": "164.00000000000000000000",
+    "doc_title": "Staatsamt für Soziale Verwaltung betreffend Beteiligung der Beamten an der Verfassungsdiskussion",
+    "bv_id": "bv_doc_id__167",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA SozV, Präs Zl. 251 ex 1920",
+    "goobi_id": "19255",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "168": {
+    "id": 168,
+    "order": "165.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Soziale Verwaltung zu Mayr II",
+    "bv_id": "bv_doc_id__168",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AdR, StA SozV, Präs Zl. 723 ex 1920",
+    "goobi_id": "19258",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "169": {
+    "id": 169,
+    "order": "166.00000000000000000000",
+    "doc_title": "Schreiben Renners an die Landeshauptleute betreffend die Unterbindung von Abspaltungstendenzen",
+    "bv_id": "bv_doc_id__169",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19261",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "170": {
+    "id": 170,
+    "order": "167.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zur Kompetenzverteilung gemäß Mayr I",
+    "bv_id": "bv_doc_id__170",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19264",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "171": {
+    "id": 171,
+    "order": "168.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz betreffend die richterliche Gewalt in der Verfassung",
+    "bv_id": "bv_doc_id__171",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19267",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "172": {
+    "id": 172,
+    "order": "169.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zu Mayr I",
+    "bv_id": "bv_doc_id__172",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19270",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "173": {
+    "id": 173,
+    "order": "170.00000000000000000000",
+    "doc_title": "Bericht des Staatsamtes für Justiz über eine Beratung mit StS Mayr über Mayr I",
+    "bv_id": "bv_doc_id__173",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19273",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "174": {
+    "id": 174,
+    "order": "171.00000000000000000000",
+    "doc_title": "Vorschlag der Schaffung eines Bundesgerichts für Delikte gegen das Völkerrecht",
+    "bv_id": "bv_doc_id__174",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19276",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "175": {
+    "id": 175,
+    "order": "172.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zu Mayr II",
+    "bv_id": "bv_doc_id__175",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19279",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "176": {
+    "id": 176,
+    "order": "173.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zu CS I",
+    "bv_id": "bv_doc_id__176",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19282",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "177": {
+    "id": 177,
+    "order": "174.00000000000000000000",
+    "doc_title": "Stellungnahme der Richtervereinigung zu Renner Mayr",
+    "bv_id": "bv_doc_id__177",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19285",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "178": {
+    "id": 178,
+    "order": "175.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zum Großdeutschen Entwurf",
+    "bv_id": "bv_doc_id__178",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19288",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "179": {
+    "id": 179,
+    "order": "176.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zu Entwurf Abram",
+    "bv_id": "bv_doc_id__179",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19291",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "180": {
+    "id": 180,
+    "order": "177.00000000000000000000",
+    "doc_title": "Bericht des Staatsamtes für Justiz über die zwischenamtliche Besprechung am 11. Oktober 1919",
+    "bv_id": "bv_doc_id__180",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19294",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "181": {
+    "id": 181,
+    "order": "178.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zum Entwurf UA August",
+    "bv_id": "bv_doc_id__181",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19297",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "182": {
+    "id": 182,
+    "order": "179.00000000000000000000",
+    "doc_title": "Stellungnahme der Richtervereinigung zum Entwurf UA August",
+    "bv_id": "bv_doc_id__182",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19300",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "183": {
+    "id": 183,
+    "order": "180.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zum Entwurf UA September",
+    "bv_id": "bv_doc_id__183",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19303",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "184": {
+    "id": 184,
+    "order": "181.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zum Frageschema der Staatskanzlei",
+    "bv_id": "bv_doc_id__184",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19306",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "185": {
+    "id": 185,
+    "order": "182.00000000000000000000",
+    "doc_title": "Bericht des Staatsamtes für Justiz über die zwischenamtliche Sitzung am 11. November 1919",
+    "bv_id": "bv_doc_id__185",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19309",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "186": {
+    "id": 186,
+    "order": "183.00000000000000000000",
+    "doc_title": "Bericht des Staatsamtes für Justiz über die zwischenamtliche Sitzung am 11. Dezember 1919",
+    "bv_id": "bv_doc_id__186",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19312",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "187": {
+    "id": 187,
+    "order": "184.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zu Falser II",
+    "bv_id": "bv_doc_id__187",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19315",
+    "transkribus_col_id": null,
+    "transkribus_doc_id": null,
+    "has_digitizing_agent": [
+      {
+        "id": 2,
+        "value": "Lein, Richard",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Gassner, Miriam",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "data_set": [
+      {
+        "id": 3,
+        "value": "Datenset C",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "stemma_label": "",
+    "constituded from": [],
+    "Langtitel": ""
+  },
+  "188": {
+    "id": 188,
+    "order": "185.00000000000000000000",
+    "doc_title": "Stellungnahme des Staatsamtes für Justiz zu Renner Mayr",
+    "bv_id": "bv_doc_id__188",
+    "written_date": "",
+    "not_before": null,
+    "not_after": null,
+    "type_of_manifestation": [],
+    "type_of_document": [],
+    "has_description": "",
+    "has_author": [],
+    "shelfmark": "AVA, JM allg., I-VI-1, Kt 1816",
+    "goobi_id": "19318",
     "transkribus_col_id": null,
     "transkribus_doc_id": null,
     "has_digitizing_agent": [

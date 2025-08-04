@@ -730,6 +730,216 @@
         "id": 146,
         "value": "Aufforderung des Staatsamtes für Handel und Gewerbe, sich auf Basis von Entwurf CS I mit der Umwandlung Österreichs in einen Bundesstaat zu beschäftigen",
         "order": "143.00000000000000000000"
+      },
+      {
+        "id": 147,
+        "value": "Stellungnahme des Staatsamtes für Handel und Gewerbe zu Mayr I",
+        "order": "144.00000000000000000000"
+      },
+      {
+        "id": 148,
+        "value": "Ergebnis der Beratungen von Mayr I in der Staatskanzle Ende März 1920",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 149,
+        "value": "Resolution der Handelskammer zu Mayr I",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 150,
+        "value": "Stellungnahme des Staatsamtes für Handel und Gewerbe zu Mayr II",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 151,
+        "value": "Stellungnahme des Staatsamtes für Handel und Gewerbe zur Frage der Einrichtung eigener Bundesbehörden",
+        "order": "148.00000000000000000000"
+      },
+      {
+        "id": 152,
+        "value": "Stellungnahme des Staatsamtes für Handel und Gewerbe zu den Übergangsbestimmungen der Verfassung",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 153,
+        "value": "Stellungnahme des Staatsamtes für Handes und Gewerbe zum Entwurf UA September",
+        "order": "150.00000000000000000000"
+      },
+      {
+        "id": 154,
+        "value": "Stellungnahme des Staatsamtes für Handel und Gewerbe betreffend den Vorbehalt eigener Bundesbehörden",
+        "order": "151.00000000000000000000"
+      },
+      {
+        "id": 155,
+        "value": "Abänderungsvorschläge des Staatsamtes für Handel und Gewerbe zum VfA ENtwurf",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 156,
+        "value": "Beantwortung des Frageschemas der Staatskanzlei durch das Staatsamt für Handel und Gewerbe",
+        "order": "153.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Stellungnahme des Staatsamtes für Inneres zu den Übergangsbestimmungen der Verfassung",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 158,
+        "value": "Bericht des Staatsamtes für Inneres über die zwischenamtliche Sitzung am 11. Dezember 1919",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "Diskussion des Entwurfs CS II im Staatsamt für Land- und Forstwirtschaft",
+        "order": "156.00000000000000000000"
+      },
+      {
+        "id": 160,
+        "value": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zu Entwurf C II",
+        "order": "157.00000000000000000000"
+      },
+      {
+        "id": 161,
+        "value": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zum Abram Entwurf",
+        "order": "158.00000000000000000000"
+      },
+      {
+        "id": 162,
+        "value": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft betreffend die Einrichtung von Bundesbehörden",
+        "order": "159.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zu Übergangsbestimmungen der Verfassung",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zum Entwurf UA August",
+        "order": "161.00000000000000000000"
+      },
+      {
+        "id": 165,
+        "value": "Stellungnahme des Staatsamtes für Land- und Forstwirtschaft zur Kompetenzabgrenzung Bund Länder mit Bezugnahme auf die Schweiz",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 166,
+        "value": "Beantwortung des Frageschemas der Staatskanzlei durch das Staatsamt für Land- und Forstwirtschaft",
+        "order": "163.00000000000000000000"
+      },
+      {
+        "id": 167,
+        "value": "Staatsamt für Soziale Verwaltung betreffend Beteiligung der Beamten an der Verfassungsdiskussion",
+        "order": "164.00000000000000000000"
+      },
+      {
+        "id": 168,
+        "value": "Stellungnahme des Staatsamtes für Soziale Verwaltung zu Mayr II",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 169,
+        "value": "Schreiben Renners an die Landeshauptleute betreffend die Unterbindung von Abspaltungstendenzen",
+        "order": "166.00000000000000000000"
+      },
+      {
+        "id": 170,
+        "value": "Stellungnahme des Staatsamtes für Justiz zur Kompetenzverteilung gemäß Mayr I",
+        "order": "167.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "Stellungnahme des Staatsamtes für Justiz betreffend die richterliche Gewalt in der Verfassung",
+        "order": "168.00000000000000000000"
+      },
+      {
+        "id": 172,
+        "value": "Stellungnahme des Staatsamtes für Justiz zu Mayr I",
+        "order": "169.00000000000000000000"
+      },
+      {
+        "id": 173,
+        "value": "Bericht des Staatsamtes für Justiz über eine Beratung mit StS Mayr über Mayr I",
+        "order": "170.00000000000000000000"
+      },
+      {
+        "id": 174,
+        "value": "Vorschlag der Schaffung eines Bundesgerichts für Delikte gegen das Völkerrecht",
+        "order": "171.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "Stellungnahme des Staatsamtes für Justiz zu Mayr II",
+        "order": "172.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "Stellungnahme des Staatsamtes für Justiz zu CS I",
+        "order": "173.00000000000000000000"
+      },
+      {
+        "id": 177,
+        "value": "Stellungnahme der Richtervereinigung zu Renner Mayr",
+        "order": "174.00000000000000000000"
+      },
+      {
+        "id": 178,
+        "value": "Stellungnahme des Staatsamtes für Justiz zum Großdeutschen Entwurf",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "Stellungnahme des Staatsamtes für Justiz zu Entwurf Abram",
+        "order": "176.00000000000000000000"
+      },
+      {
+        "id": 180,
+        "value": "Bericht des Staatsamtes für Justiz über die zwischenamtliche Besprechung am 11. Oktober 1919",
+        "order": "177.00000000000000000000"
+      },
+      {
+        "id": 181,
+        "value": "Stellungnahme des Staatsamtes für Justiz zum Entwurf UA August",
+        "order": "178.00000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "Stellungnahme der Richtervereinigung zum Entwurf UA August",
+        "order": "179.00000000000000000000"
+      },
+      {
+        "id": 183,
+        "value": "Stellungnahme des Staatsamtes für Justiz zum Entwurf UA September",
+        "order": "180.00000000000000000000"
+      },
+      {
+        "id": 184,
+        "value": "Stellungnahme des Staatsamtes für Justiz zum Frageschema der Staatskanzlei",
+        "order": "181.00000000000000000000"
+      },
+      {
+        "id": 185,
+        "value": "Bericht des Staatsamtes für Justiz über die zwischenamtliche Sitzung am 11. November 1919",
+        "order": "182.00000000000000000000"
+      },
+      {
+        "id": 186,
+        "value": "Bericht des Staatsamtes für Justiz über die zwischenamtliche Sitzung am 11. Dezember 1919",
+        "order": "183.00000000000000000000"
+      },
+      {
+        "id": 187,
+        "value": "Stellungnahme des Staatsamtes für Justiz zu Falser II",
+        "order": "184.00000000000000000000"
+      },
+      {
+        "id": 188,
+        "value": "Stellungnahme des Staatsamtes für Justiz zu Renner Mayr",
+        "order": "185.00000000000000000000"
       }
     ],
     "transkribus_collection_id": "196429"
