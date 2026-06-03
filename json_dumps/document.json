@@ -4706,7 +4706,7 @@
     "shelfmark": "Parlamentsarchiv, Ausschussprotokolle",
     "goobi_id": "18730",
     "transkribus_col_id": "196428",
-    "transkribus_doc_id": null,
+    "transkribus_doc_id": "9217700",
     "has_digitizing_agent": [
       {
         "id": 2,
@@ -5962,7 +5962,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": null,
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "108": {
     "id": 108,
@@ -6002,7 +6002,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "109": {
     "id": 109,
@@ -6042,7 +6042,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "110": {
     "id": 110,
@@ -6082,7 +6082,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "111": {
     "id": 111,
@@ -6122,7 +6122,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "112": {
     "id": 112,
@@ -6162,7 +6162,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "113": {
     "id": 113,
@@ -6202,7 +6202,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "114": {
     "id": 114,
@@ -6242,7 +6242,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "115": {
     "id": 115,
@@ -6282,7 +6282,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "116": {
     "id": 116,
@@ -6322,7 +6322,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "117": {
     "id": 117,
@@ -6362,7 +6362,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "118": {
     "id": 118,
@@ -6402,7 +6402,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "119": {
     "id": 119,
@@ -6442,7 +6442,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "120": {
     "id": 120,
@@ -6482,7 +6482,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "121": {
     "id": 121,
@@ -6522,7 +6522,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "122": {
     "id": 122,
@@ -6562,7 +6562,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "123": {
     "id": 123,
@@ -6602,7 +6602,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "124": {
     "id": 124,
@@ -6642,7 +6642,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "125": {
     "id": 125,
@@ -6682,7 +6682,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "126": {
     "id": 126,
@@ -6722,7 +6722,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "127": {
     "id": 127,
@@ -6762,7 +6762,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "128": {
     "id": 128,
@@ -6802,7 +6802,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "129": {
     "id": 129,
@@ -6842,7 +6842,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "130": {
     "id": 130,
@@ -6882,7 +6882,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "131": {
     "id": 131,
@@ -6922,7 +6922,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "132": {
     "id": 132,
@@ -6962,7 +6962,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "133": {
     "id": 133,
@@ -7002,7 +7002,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "134": {
     "id": 134,
@@ -7042,7 +7042,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "135": {
     "id": 135,
@@ -7082,7 +7082,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "136": {
     "id": 136,
@@ -7122,7 +7122,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "137": {
     "id": 137,
@@ -7162,7 +7162,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "138": {
     "id": 138,
@@ -7202,7 +7202,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "139": {
     "id": 139,
@@ -7242,7 +7242,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "140": {
     "id": 140,
@@ -7282,7 +7282,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "141": {
     "id": 141,
@@ -7322,7 +7322,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "142": {
     "id": 142,
@@ -7362,7 +7362,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "143": {
     "id": 143,
@@ -7402,7 +7402,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "144": {
     "id": 144,
@@ -7442,7 +7442,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "145": {
     "id": 145,
@@ -7482,7 +7482,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "146": {
     "id": 146,
@@ -7522,7 +7522,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "147": {
     "id": 147,
@@ -7562,7 +7562,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "148": {
     "id": 148,
@@ -7602,7 +7602,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "149": {
     "id": 149,
@@ -7642,7 +7642,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "150": {
     "id": 150,
@@ -7682,7 +7682,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "151": {
     "id": 151,
@@ -7722,7 +7722,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "152": {
     "id": 152,
@@ -7762,7 +7762,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "153": {
     "id": 153,
@@ -7802,7 +7802,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "154": {
     "id": 154,
@@ -7842,7 +7842,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "155": {
     "id": 155,
@@ -7882,7 +7882,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "156": {
     "id": 156,
@@ -7922,7 +7922,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "157": {
     "id": 157,
@@ -7962,7 +7962,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "158": {
     "id": 158,
@@ -8002,7 +8002,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "159": {
     "id": 159,
@@ -8042,7 +8042,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "160": {
     "id": 160,
@@ -8082,7 +8082,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "161": {
     "id": 161,
@@ -8122,7 +8122,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "162": {
     "id": 162,
@@ -8162,7 +8162,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "163": {
     "id": 163,
@@ -8202,7 +8202,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "164": {
     "id": 164,
@@ -8242,7 +8242,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "165": {
     "id": 165,
@@ -8282,7 +8282,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "166": {
     "id": 166,
@@ -8322,7 +8322,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "167": {
     "id": 167,
@@ -8362,7 +8362,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "168": {
     "id": 168,
@@ -8402,7 +8402,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "169": {
     "id": 169,
@@ -8442,7 +8442,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "170": {
     "id": 170,
@@ -8482,7 +8482,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "171": {
     "id": 171,
@@ -8522,7 +8522,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "172": {
     "id": 172,
@@ -8562,7 +8562,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "173": {
     "id": 173,
@@ -8602,7 +8602,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "174": {
     "id": 174,
@@ -8642,7 +8642,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "175": {
     "id": 175,
@@ -8682,7 +8682,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "176": {
     "id": 176,
@@ -8722,7 +8722,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "177": {
     "id": 177,
@@ -8762,7 +8762,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "178": {
     "id": 178,
@@ -8802,7 +8802,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "179": {
     "id": 179,
@@ -8842,7 +8842,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "180": {
     "id": 180,
@@ -8882,7 +8882,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "181": {
     "id": 181,
@@ -8922,7 +8922,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "182": {
     "id": 182,
@@ -8962,7 +8962,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "183": {
     "id": 183,
@@ -9002,7 +9002,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "184": {
     "id": 184,
@@ -9042,7 +9042,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "185": {
     "id": 185,
@@ -9082,7 +9082,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "186": {
     "id": 186,
@@ -9122,7 +9122,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "187": {
     "id": 187,
@@ -9162,7 +9162,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "188": {
     "id": 188,
@@ -9202,7 +9202,7 @@
     "stemma_label": "",
     "constituded from": [],
     "Langtitel": "",
-    "skip_transcription": false
+    "skip_transcription": true
   },
   "189": {
     "id": 189,
