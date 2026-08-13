@@ -320,7 +320,7 @@
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__122.html",
     "notizen": "Script for 'LayoutWizzard - Derivate erstellen' did not finish successfully. Return code: 1. The script returned: Job already in DB, not adding it",
     "Fehlermarkierung": null,
-    "gelöst": false
+    "gelöst": true
   },
   "21": {
     "id": 21,
@@ -709,9 +709,9 @@
     "Website beschnitten": false,
     "BV Nummer": "145",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__145.html",
-    "notizen": "Script for 'LayoutWizzard - Derivate erstellen' did not finish successfully. Return code: 1. The script returned: Job already in DB, not adding it",
+    "notizen": "",
     "Fehlermarkierung": null,
-    "gelöst": false
+    "gelöst": true
   },
   "44": {
     "id": 44,
@@ -728,7 +728,7 @@
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__146.html",
     "notizen": null,
     "Fehlermarkierung": null,
-    "gelöst": false
+    "gelöst": true
   },
   "45": {
     "id": 45,
@@ -762,7 +762,7 @@
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__148.html",
     "notizen": null,
     "Fehlermarkierung": null,
-    "gelöst": false
+    "gelöst": true
   },
   "47": {
     "id": 47,
@@ -779,7 +779,7 @@
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__149.html",
     "notizen": null,
     "Fehlermarkierung": null,
-    "gelöst": false
+    "gelöst": true
   },
   "48": {
     "id": 48,
@@ -1435,7 +1435,7 @@
     "keine Bilder vorhanden": true,
     "Farbkeil entfernt": false,
     "Metadata vorhanden": false,
-    "Goobi beschnitten": false,
+    "Goobi beschnitten": true,
     "Kein Bild im Frontend": true,
     "Website beschnitten": false,
     "BV Nummer": "188",
@@ -1542,9 +1542,9 @@
     "Website beschnitten": false,
     "BV Nummer": "104",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__104.html",
-    "notizen": "- automatic -:\nExport cancelled: Process: BVG_Sten_Protokoll_KNV_01_10_1920\n/opt/digiverso/viewer/hotfolder/BVG_Sten_Protokoll_KNV_01_10_1920_media: Input/output error\n\n- automatic -:\nThe export for process with ID '18787' was cancelled because of validation errors: [Export cancelled: /opt/digiverso/viewer/hotfolder/BVG_Sten_Protokoll_KNV_01_10_1920_media: Input/output error]",
+    "notizen": "",
     "Fehlermarkierung": null,
-    "gelöst": false
+    "gelöst": true
   },
   "102": {
     "id": 102,
@@ -1554,14 +1554,14 @@
     "keine Bilder vorhanden": false,
     "Farbkeil entfernt": false,
     "Metadata vorhanden": true,
-    "Goobi beschnitten": false,
+    "Goobi beschnitten": true,
     "Kein Bild im Frontend": false,
     "Website beschnitten": false,
     "BV Nummer": "105",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__105.html",
     "notizen": "- automatic -:\nExport cancelled: Process: BVG_Sten_Protokoll_KNV_01_10_1920\n/opt/digiverso/viewer/hotfolder/BVG_Sten_Protokoll_KNV_01_10_1920_media: Input/output error\n\n- automatic -:\nThe export for process with ID '18787' was cancelled because of validation errors: [Export cancelled: /opt/digiverso/viewer/hotfolder/BVG_Sten_Protokoll_KNV_01_10_1920_media: Input/output error]",
     "Fehlermarkierung": null,
-    "gelöst": false
+    "gelöst": true
   },
   "104": {
     "id": 104,
