@@ -233,7 +233,7 @@
     "Website beschnitten": false,
     "BV Nummer": "117",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__117.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -267,7 +267,7 @@
     "Website beschnitten": false,
     "BV Nummer": "119",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__119.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -284,8 +284,8 @@
     "Website beschnitten": true,
     "BV Nummer": "120",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__120.html",
-    "notizen": null,
-    "Fehlermarkierung": null,
+    "notizen": "METADATEN EXISTIEREN NICHT\nVorgang muss neu angelegt werden",
+    "Fehlermarkierung": "METADATEN EXISTIEREN NICHT",
     "gelöst": false
   },
   "19": {
@@ -318,7 +318,7 @@
     "Website beschnitten": false,
     "BV Nummer": "122",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__122.html",
-    "notizen": "Script for 'LayoutWizzard - Derivate erstellen' did not finish successfully. Return code: 1. The script returned: Job already in DB, not adding it",
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": true
   },
@@ -386,7 +386,7 @@
     "Website beschnitten": false,
     "BV Nummer": "126",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__126.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -794,7 +794,7 @@
     "Website beschnitten": false,
     "BV Nummer": "150",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__150.html",
-    "notizen": "Aus viewer gelöscht, exportiert -> defekt,\naus viewer gelöscht Dateinamen neu erstellt,  erneut freigestellt (ist ja logisch & notwendig), erneut exportiert -> defekt\n\nAußerdem beständig:\n\tAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158129, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK\nAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158131, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK\nAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158133, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK\nAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158135, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK",
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -811,7 +811,7 @@
     "Website beschnitten": false,
     "BV Nummer": "151",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__151.html",
-    "notizen": "Aus viewer gelöscht, exportiert -> defekt,\naus viewer gelöscht Dateinamen neu erstellt,  erneut freigestellt (ist ja logisch & notwendig), erneut exportiert -> defekt\n\nAußerdem beständig:\n\tAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158129, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK\nAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158131, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK\nAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158133, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK\nAborted deleteSymLink(), error Cannot run program \"/opt/digiverso/goobi/scripts/script_deleteSymLink.sh\": Failed to exec spawn helper: pid: 2158135, exit code: 1, error: 0 (none) Possible reasons: - Spawn helper ran into JDK version mismatch - Spawn helper ran into unexpected internal error - Spawn helper was terminated by another process Possible solutions: - Restart JVM, especially after in-place JDK updates - Check system logs for JDK-related errors - Re-install JDK to fix permission/versioning problems - Switch to legacy launch mechanism with -Djdk.lang.Process.launchMechanism=VFORK",
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
