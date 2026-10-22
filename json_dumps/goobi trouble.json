@@ -199,7 +199,7 @@
     "Website beschnitten": true,
     "BV Nummer": "115",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__115.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -216,7 +216,7 @@
     "Website beschnitten": true,
     "BV Nummer": "116",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__116.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -250,7 +250,7 @@
     "Website beschnitten": true,
     "BV Nummer": "118",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__118.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -284,7 +284,7 @@
     "Website beschnitten": true,
     "BV Nummer": "120",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__120.html",
-    "notizen": "METADATEN EXISTIEREN NICHT\nVorgang muss neu angelegt werden",
+    "notizen": "PROBLEM: METADATEN EXISTIEREN NICHT\nVorgang muss neu angelegt werden",
     "Fehlermarkierung": "METADATEN EXISTIEREN NICHT",
     "gelöst": false
   },
@@ -301,7 +301,7 @@
     "Website beschnitten": true,
     "BV Nummer": "121",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__121.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -437,7 +437,7 @@
     "Website beschnitten": false,
     "BV Nummer": "129",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__129.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -454,7 +454,7 @@
     "Website beschnitten": true,
     "BV Nummer": "130",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__130.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -471,7 +471,7 @@
     "Website beschnitten": true,
     "BV Nummer": "131",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__131.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -488,7 +488,7 @@
     "Website beschnitten": true,
     "BV Nummer": "132",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__132.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -505,7 +505,7 @@
     "Website beschnitten": true,
     "BV Nummer": "133",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__133.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -522,7 +522,7 @@
     "Website beschnitten": true,
     "BV Nummer": "134",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__134.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -539,7 +539,7 @@
     "Website beschnitten": false,
     "BV Nummer": "135",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__135.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -556,7 +556,7 @@
     "Website beschnitten": false,
     "BV Nummer": "136",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__136.html",
-    "notizen": null,
+    "notizen": "erfolgreich exportiert",
     "Fehlermarkierung": null,
     "gelöst": false
   },
@@ -1491,7 +1491,7 @@
     "Website beschnitten": false,
     "BV Nummer": "40",
     "website": "https://b-vg.acdh.oeaw.ac.at/bv_doc_id__40.html",
-    "notizen": "Es fehlen noch Bilder",
+    "notizen": "PORBLEM: \nEs fehlen noch Bilder",
     "Fehlermarkierung": null,
     "gelöst": false
   },
